@@ -14,3 +14,4 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 - helP! [i dunno how to study](iDunno)
     - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
+- debate: [paper or programs](paperPrograms.md)
