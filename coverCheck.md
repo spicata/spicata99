@@ -1,5 +1,5 @@
 ---
-tags: learn
+tags: learn/cover
 title: "cover n check"
 aliases:
 - look

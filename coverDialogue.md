@@ -1,5 +1,5 @@
 ---
-tags: learn 
+tags: learn/cover 
 title: "dialogue on cover"
 aliases:
 - dialogue on cover

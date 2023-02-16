@@ -16,3 +16,4 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
     - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
 - debate: [paper or programs](paperPrograms.md)
+- thought: [beat the timer](beatTheTimer.md)

@@ -1,5 +1,5 @@
 ---
-tags: learn 
+tags: learn/cover 
 title: "covering is hard?"
 aliases:
 - covering is hard?
