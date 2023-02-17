@@ -23,3 +23,4 @@ in order to counterbalance the jzhao of my website: ඞ.
 - how to do this? [sometimes i want to go...](sometimesWant.md)
 - tip: [plaintext websites](textWebsites.md)
 - i hate: [insincere apps](insincereApps.md)
+- challenge: [a mail per person per day](oneMail.md)

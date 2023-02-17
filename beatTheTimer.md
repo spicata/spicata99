@@ -1,5 +1,5 @@
 ---
-tags: learn 
+tags: learn challenge 
 title: "beat the timer"
 aliases:
 - beat the timer
