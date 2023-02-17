@@ -20,8 +20,14 @@ aliases:
 > *wdym ya*  
 > e yap
 
-> *i put a nut on his butt*  
+> *i put a nut on [henry's] butt*  
 > a shi
 
 > *my sister rides on this*  
 > k burford
+
+> *nah man \*proceeds to physically assault me\*.*  
+> h bui
+
+> *give me gaming or give me liberty*
+> e huynh
