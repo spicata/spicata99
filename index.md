@@ -24,3 +24,4 @@ in order to counterbalance the jzhao of my website: ඞ.
 - tip: [plaintext websites](textWebsites.md)
 - i hate: [insincere apps](insincereApps.md)
 - challenge: [a mail per person per day](oneMail.md)
+- [holy crap this guy is good at photography (thanks for the background!)](https://www.curious-creature.com/)
