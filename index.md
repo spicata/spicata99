@@ -19,3 +19,4 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 - thought: [beat the timer](beatTheTimer.md)
 - ideation complete: [don't think at all](dontThink.md)
 - how to do this? [sometimes i want to go...](sometimesWant.md)
+- 

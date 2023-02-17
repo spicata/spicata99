@@ -16,3 +16,12 @@ aliases:
 
 > *das crazy talk*  
 > e huynh
+
+> *wdym ya*  
+> e yap
+
+> *i put a nut on his butt*  
+> a shi
+
+> *my sister rides on this*  
+> k burford
