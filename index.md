@@ -21,4 +21,5 @@ in order to counterbalance the jzhao of my website: ඞ.
 - thought: [beat the timer](beatTheTimer.md)
 - ideation complete: [don't think at all](dontThink.md)
 - how to do this? [sometimes i want to go...](sometimesWant.md)
-- 
+- tip: [plaintext websites](textWebsites.md)
+- i hate: [insincere apps](insincereApps.md)

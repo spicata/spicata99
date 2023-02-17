@@ -29,5 +29,5 @@ aliases:
 > *nah man \*proceeds to physically assault me\*.*  
 > h bui
 
-> *give me gaming or give me liberty*
+> *give me gaming or give me liberty*  
 > e huynh
