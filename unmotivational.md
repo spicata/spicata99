@@ -31,3 +31,10 @@ aliases:
 
 > *give me gaming or give me liberty*  
 > e huynh
+
+> *ive found the greatest game ever \<insert photo of "girls' frontline here"\>*  
+> e huynh
+
+> *Do you smell that?*  
+> *It's the smell of grass being untouched.*  
+> e huynh
