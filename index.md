@@ -27,6 +27,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
 - challenge: [a mail per person per day](oneMail.md)
 - great people (at their job): [this guy is cracked at photography](https://www.curious-creature.com/)
 - challenge 2: [a little css goes a long way](littleCSS.md)
+    - btw: [the reason i use little css](noCSS.md)
 - rant: [the commercial web (and its inescapable blogs)](commericalWeb.md)
 - challenge 3: [let's kill hate](killHate.md)
 - shame: [death of anonymity](deathOfAnonymous.md)
