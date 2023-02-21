@@ -14,6 +14,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
 - thought: [look, cover, write, check](coverCheck)
   - update: [covering is hard?](coverIsHard)
   - talk: [dialogue on cover](coverDialogue.md)
+  - crap: [cover and check flopped :-/](coverFlop.md)
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
