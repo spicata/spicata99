@@ -10,12 +10,15 @@ h1,h2,h3,h4,h5 {
 }
 
 a {
-  background-color: #8DBF9B;
-  color: #1d201e;
-  padding: 0 0.5em;
+  color: #8DBF9B;
 }
 
 a:visited {
-  background-color: #e6dec1;
-  color: #1d201e;
+  color: #e6dec1;
+}
+
+.footnote, .reversefootnote {
+    background-color: #8DBF9B;
+    color: #1d201e;
+    padding: 0 0.5em;
 }
