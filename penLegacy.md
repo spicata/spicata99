@@ -19,7 +19,7 @@ literally everyone knows this pen. not much to say. cheap, writes everywhere, bu
 
 ## m&g en-gel k-35
 
-i got this as a gift. much different to bic cristal, this is a gel pen. and so it writes well, and is fluid. sometimes it doesn't write, but that's okay. apart from that, not too much to add tbh.
+i got this as a gift. much different to bic cristal, this is a gel pen. and so it writes well, and is fluid. sometimes it doesn't write, but that's okay. apart from that, not too much to add tbh. it also has a very satisfying click sound :-).
 
 solid 37/35 (-0.2 for not writing sometimes).
 
