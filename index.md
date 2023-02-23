@@ -11,11 +11,7 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
 
-- thought: [look, cover, write, check](coverCheck)
-  - update: [covering is hard?](coverIsHard)
-  - talk: [dialogue on cover](coverDialogue.md)
-  - crap: [cover and check flopped :-/](coverFlop.md)
-      - yo: [find a way to cover n check](findAWay.md)
+- story 1: [cover n check chronicles](coverCheckChronicles.md)
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
