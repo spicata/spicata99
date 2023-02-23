@@ -38,3 +38,9 @@ aliases:
 > *Do you smell that?*  
 > *It's the smell of grass being untouched.*  
 > e huynh
+
+> *on ges*  
+> d pandithuge
+
+> e huynh: *i just came*  
+> h bui: *WHAAAT? WITHOUT ME?!?!*

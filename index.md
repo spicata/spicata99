@@ -15,6 +15,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
   - update: [covering is hard?](coverIsHard)
   - talk: [dialogue on cover](coverDialogue.md)
   - crap: [cover and check flopped :-/](coverFlop.md)
+      - yo: [find a way to cover n check](findAWay.md)
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
@@ -31,3 +32,4 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
 - rant: [the commercial web (and its inescapable blogs)](commericalWeb.md)
 - challenge 3: [let's kill hate](killHate.md)
 - shame: [death of anonymity](deathOfAnonymous.md)
+- testing: [mermaid git test](mermaidGit.md)
