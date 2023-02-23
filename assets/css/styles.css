@@ -18,7 +18,7 @@ a:visited {
 }
 
 .footnote, .reversefootnote {
-    background-color: #8DBF9B;
-    color: #1d201e;
-    padding: 0 0.5em;
+    background-color: #8DBF9B !important;
+    color: #1d201e !important;
+    padding: 0 0.5em !important;
 }
