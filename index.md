@@ -29,3 +29,4 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ.
 - challenge 3: [let's kill hate](killHate.md)
 - shame: [death of anonymity](deathOfAnonymous.md)
 - testing: [mermaid git test](mermaidGit.md)
+- pens: [the legacy of pens](penLegacy.md)
