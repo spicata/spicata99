@@ -32,5 +32,6 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - pens: [the legacy of pens](penLegacy.md)
 - goddammit: [my nose hurts](ouchNose.md)
     - wth: [better breathing?](betterBreathing.md)
+- rip: [closure, the end of ndcs](closure.md)
 
 [^1]: sorry sri-lanka
