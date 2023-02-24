@@ -51,5 +51,7 @@ aliases:
 > *go away (grumpy)*  
 > dr pearce when whiteboard settings
 
-> *Something has gone Horribly Wrong*  
+> *Something has gone Horribly Wrong*[^1]  
 > dr pearce's stickman :-|
+
+[^1]: this was the funniest goddamn crap i have ever seen in my entire life.

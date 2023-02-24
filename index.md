@@ -30,5 +30,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - shame: [death of anonymity](deathOfAnonymous.md)
 - testing: [mermaid git test](mermaidGit.md)
 - pens: [the legacy of pens](penLegacy.md)
+- goddammit: [my nose hurts](ouchNose.md)
+    - wth: [better breathing?](betterBreathing.md)
 
 [^1]: sorry sri-lanka
