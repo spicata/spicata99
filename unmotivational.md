@@ -44,3 +44,9 @@ aliases:
 
 > e huynh: *i just came*  
 > h bui: *WHAAAT? WITHOUT ME?!?!*
+
+> *Got it, thanks!*  
+> o weir
+
+> *go away (grumpy)*  
+> dr pearce when whiteboard settings
