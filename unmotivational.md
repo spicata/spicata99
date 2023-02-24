@@ -50,3 +50,6 @@ aliases:
 
 > *go away (grumpy)*  
 > dr pearce when whiteboard settings
+
+> *Something has gone Horribly Wrong*  
+> dr pearce's stickman :-|
