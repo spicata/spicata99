@@ -2,6 +2,6 @@
 tags: 
 title: "{{title}}"
 aliases:
-- 
+- ""
 ---
 

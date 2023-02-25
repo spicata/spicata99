@@ -5,6 +5,6 @@
 _site
 vendor
 Gemfile.lock
-Daily Notes/
+daily/
 workspace
 .obsidian/*

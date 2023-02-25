@@ -33,5 +33,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - goddammit: [my nose hurts](ouchNose.md)
     - wth: [better breathing?](betterBreathing.md)
 - rip: [closure, the end of ndcs](closure.md)
+- 🍅: [the tomato method 🍅](theTomato.md)
+- beans: [no ads](noAds.md)
 
 [^1]: sorry sri-lanka
