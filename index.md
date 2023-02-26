@@ -12,15 +12,16 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
 
 - story 1: [cover n check chronicles](coverCheckChronicles.md)
+- hey!: [dearX](dearX.md)
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
 - debate: [paper or programs](paperPrograms.md)
 - thought: [beat the timer](beatTheTimer.md)
+    - 🍅: [the tomato method 🍅](theTomato.md)
 - ideation complete: [don't think at all](dontThink.md)
 - how to do this? [sometimes i want to go...](sometimesWant.md)
 - tip: [plaintext websites](textWebsites.md)
-- i hate: [insincere apps](insincereApps.md)
 - challenge: [a mail per person per day](oneMail.md)
 - great people: [this guy is cracked at photography](https://www.curious-creature.com/)
 - challenge 2: [a little css goes a long way](littleCSS.md)
@@ -32,8 +33,9 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - pens: [the legacy of pens](penLegacy.md)
 - goddammit: [my nose hurts](ouchNose.md)
     - wth: [better breathing?](betterBreathing.md)
+    - update: [no difference :-)](noDifference.md)
 - rip: [closure, the end of ndcs](closure.md)
-- 🍅: [the tomato method 🍅](theTomato.md)
 - beans: [no ads](noAds.md)
+- i think about: [sentimental value](sentimentalValue.md)
 
 [^1]: sorry sri-lanka
