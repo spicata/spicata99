@@ -54,4 +54,7 @@ aliases:
 > *Something has gone Horribly Wrong*[^1]  
 > dr pearce's stickman :-|
 
+> my sister: *i can play the katana*  
+> me: *a katana's a sword*
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
