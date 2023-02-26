@@ -57,4 +57,7 @@ aliases:
 > my sister: *i can play the katana*  
 > me: *a katana's a sword*
 
+> *why dont blind people just see*  
+> my sister
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
