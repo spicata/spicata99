@@ -39,5 +39,6 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - rip: [closure, the end of ndcs](closure.md)
 - beans: [no ads](noAds.md)
 - i think about: [sentimental value](sentimentalValue.md)
+- wow: [quartz explosion :-O](quartzExplosion.md)
 
 [^1]: sorry sri-lanka
