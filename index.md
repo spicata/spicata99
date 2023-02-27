@@ -26,6 +26,7 @@ in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[
 - great people: [this guy is cracked at photography](https://www.curious-creature.com/)
 - challenge 2: [a little css goes a long way](littleCSS.md)
     - btw: [the reason i use little css](noCSS.md)
+    - to oscar: [stop pestering me about my css](pesterCSS.md)
 - rant: [the commercial web (and its inescapable blogs)](commericalWeb.md)
     - rant again: [company blogs >:-(](companyBlogs.md)
 - challenge 3: [let's kill hate](killHate.md)
