@@ -6,3 +6,5 @@ aliases:
 ---
 
 ![unmotivational quotes](unmotivational.md)
+
+update: it does not work :-/
