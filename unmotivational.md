@@ -60,4 +60,7 @@ aliases:
 > *why dont blind people just see*  
 > my sister
 
+> *you come as gently as you can*  
+> robert louis stevenson
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
