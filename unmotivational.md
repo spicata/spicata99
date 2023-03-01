@@ -64,6 +64,6 @@ aliases:
 > robert louis stevenson
 
 > *okay mr strawman suck my balls*  
-> me
+> me in [dear this person x](dearX.md), added here with the request of e huynh.
 
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.

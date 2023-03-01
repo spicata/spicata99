@@ -11,8 +11,16 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
 
+collections:
+
 - story 1: [cover n check chronicles](coverCheckChronicles.md)
 - hey!: [dear this person x](dearX.md)
+- do it: [challenges](challenges.md)
+
+---
+
+pages:
+
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
 - funnies: [unmotivational quotes](unmotivational)
