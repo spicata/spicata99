@@ -66,4 +66,8 @@ aliases:
 > *okay mr strawman suck my balls*  
 > me in [dear this person x](dearX.md), added here with the request of e huynh.
 
+> *i am going to grab hold of a tentacle, and i'm going to start ... i am going to be brave*  
+> *you will want to grab hold of more tentacles, and you'll want to keep going*  
+> some person we are watching in advocacy
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
