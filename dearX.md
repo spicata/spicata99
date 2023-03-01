@@ -11,4 +11,4 @@ these are my articles directed towards a certain group of people *x*.
 - regarding: [selective tutors](selectiveTutors.md)
     - okay mr strawman suck my balls
 
-![](assets/chadHominem.png)
+![](assets/chad.png)
