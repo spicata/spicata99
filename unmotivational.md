@@ -63,4 +63,7 @@ aliases:
 > *you come as gently as you can*  
 > robert louis stevenson
 
+> *okay mr strawman suck my balls*  
+> me
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
