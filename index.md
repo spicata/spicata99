@@ -12,7 +12,7 @@ outside, i grow my [mint fresh notes](https://spicata.github.io/mint-fresh-notes
 
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
 
-and also: doooooo doooooo dooooooo dooooooo do do do do do do do dooooooo dooooo, do do do do do do do do do doooooo, do do do dododod dodoooo doooo dooododooooo, dooooo doooooo doooodododooooo do do do doo do do dodoooooooooo doooooo, do dododoooodododooodododoooododooo doooo dooooo doooooooooo do dodo do do do do do dooooo.
+and also: doooooo doooooo dooooooo dooooooo do do do do do do do dooooooo dooooo, do do do do do do do do do doooooo, do do do dododod dodoooo doooo dooododooooo, dooooo doooooo doooodododooooo do do do doo do do dodoooooooooo doooooo, do dododoooodododooodododoooododooo doooo dooooo doooooooooo do dodo do do do do do dooooo. (oh no, i forgot :-P)
 
 collections:
 
@@ -53,5 +53,6 @@ pages:
 - wow: [quartz explosion :-O](quartzExplosion.md)
 - codeblocks: [codeblock test](codeTest.md)
 - lol: [someJekyllFun](someJekyllFun.md)
+- cry cry cry: [memorial](memorial.md)
 
 [^1]: sorry sri-lanka
