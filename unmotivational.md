@@ -70,4 +70,6 @@ aliases:
 > *you will want to grab hold of more tentacles, and you'll want to keep going*  
 > some person we are watching in advocacy
 
+![grodianKnot](assets/grodianKnot.png)
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.

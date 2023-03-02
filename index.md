@@ -49,5 +49,6 @@ pages:
 - i think about: [sentimental value](sentimentalValue.md)
 - wow: [quartz explosion :-O](quartzExplosion.md)
 - codeblocks: [codeblock test](codeTest.md)
+- lol: [someJekyllFun](someJekyllFun.md)
 
 [^1]: sorry sri-lanka
