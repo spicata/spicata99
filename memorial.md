@@ -10,3 +10,4 @@ layout: sad
 - sindu (2006/7-2023). dead from allergies
 - ed (2007-2020). he died when he made stickverse
 - you (???-now). here i come
+- pranav (-inf - +inf) - he won't die, he is god
