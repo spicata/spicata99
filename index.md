@@ -54,5 +54,6 @@ pages:
 - codeblocks: [codeblock test](codeTest.md)
 - lol: [someJekyllFun](someJekyllFun.md)
 - cry cry cry: [memorial](memorial.md)
+- no crying: [yay! my break day](aYay.md)
 
 [^1]: sorry sri-lanka
