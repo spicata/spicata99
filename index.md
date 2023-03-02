@@ -56,5 +56,6 @@ pages:
 - cry cry cry: [memorial](memorial.md)
 - no crying: [yay! my break day](aYay.md)
 - at the top: [performance](performance.md)
+- !!!: [new themes coming to site?](newThemes.md)
 
 [^1]: sorry sri-lanka
