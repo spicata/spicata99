@@ -3,6 +3,7 @@ tags:
 title: "a little storefront"
 aliases:
 - home
+layout: default
 ---
 
 hi! i'm **m.spicata**, and i own this "shop". i don't sell anything here, but instead i give away **stuff for free**. if you think it's worth it take it; if you don't want it, leave it.
