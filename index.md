@@ -12,6 +12,11 @@ welcome to [the town](theTown.md)!
 
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
 
+also, to quote a certain person
+
+> *It’s a little unkempt in places, but ~~I think it gives it a little charm~~ that's a mistake, tell me.* (pixelandian@gmail.com)  
+> jzhao, edited by me
+
 and also: doooooo doooooo dooooooo dooooooo do do do do do do do dooooooo dooooo, do do do do do do do do do doooooo, do do do dododod dodoooo doooo dooododooooo, dooooo doooooo doooodododooooo do do do doo do do dodoooooooooo doooooo, do dododoooodododooodododoooododooo doooo dooooo doooooooooo do dodo do do do do do dooooo. (oh no, i forgot :-P)
 
 collections:
@@ -57,5 +62,8 @@ pages:
 - no crying: [yay! my break day](aYay.md)
 - at the top: [performance](performance.md)
 - !!!: [new themes coming to site?](newThemes.md)
+- yo: [a few promises](promises.md)
+- yum i love eating: [a website made of plywood](plywoodWeb.md)
+- what is going on: [load times ...](loadTimes.md)
 
 [^1]: sorry sri-lanka
