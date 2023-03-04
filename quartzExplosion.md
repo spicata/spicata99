@@ -10,5 +10,6 @@ oh my. the amount of websites generated from my peers using quartz has exploded.
 - [edward](https://eddietheed.github.io/obsidiannotes-v.3/)
 - [thomas](https://nottacoz.github.io/jacaranda/)
 - ["grim reaper"](https://grim4reaper.github.io/Year11Notes/)
+- [jlee](https://supaqwerty.github.io/year-11-notes/)
 
-*proposal*: go use quartz if you want. i think edward has a setup thing. of course, you could just do what i do an learn jekyll and set up a site, but for most, it's more effort than it is worth.
+*proposal*: too many people that is
