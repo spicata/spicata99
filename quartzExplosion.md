@@ -13,3 +13,5 @@ oh my. the amount of websites generated from my peers using quartz has exploded.
 - [jlee](https://supaqwerty.github.io/year-11-notes/)
 
 *proposal*: too many people that is
+
+i am getting mighty bored of seeing quartz.

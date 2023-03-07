@@ -65,5 +65,6 @@ pages:
 - yo: [a few promises](promises.md)
 - yum i love eating: [a website made of plywood](plywoodWeb.md)
 - what is going on: [load times ...](loadTimes.md)
+- AAA: [physics investigation](physicsInvestigation.md)
 
 [^1]: sorry sri-lanka
