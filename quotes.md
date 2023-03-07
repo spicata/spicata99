@@ -1,6 +1,0 @@
-- "you corking brute"
-- "women? das crazy talk"
-- "amongus amongus amongus"
-- "ORman art"
-- "miss i lose my oboe again"
-- "you should back up your oboe"

@@ -31,6 +31,7 @@ pages:
 
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
+  - huh? [wth](wth.md)
 - funnies: [unmotivational quotes](unmotivational)
 - debate: [paper or programs](paperPrograms.md)
 - thought: [beat the timer](beatTheTimer.md)
