@@ -1,6 +1,6 @@
 ---
 tags: 
-title: "a little storefront"
+title: "a little storefront, now with 1% fat"
 aliases:
 - home
 layout: default

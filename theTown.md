@@ -14,7 +14,7 @@ Feel free to browse my store while we wait for the sandstorm to pass. I bring st
 
 I heard that there are two new people in town. they only recently moved in, so they might still be settling down, I'm not quite sure. I believe that [Thomas has planted some trees somewhere](https://nottacoz.github.io/jacaranda/). They look quite nice. [There is also "Reaper"](https://grim4reaper.github.io/Year11Notes), who is having some disputes with Ed. No clue why.[^2]
 
-Across the road, you'll find two abandoned stores. I think that [notmario](https://notes.notmario.net/) and [Mace](https://macesnotes.netlify.app/) have moved out of town now. Their houses are still here, but they are not maintained[^3]. I also think that Dasindu should be somewhere around here, but I think a company from the city bought his house.
+Across the road, you'll find two abandoned stores. I think that [notmario](https://notes.notmario.net/) and [Mace](https://macesnotes.netlify.app/) have moved out of town now. Their houses are still here, but they are not maintained[^3]. I also think that Dasindu should be somewhere around here, but I think a company from the city bought his house. 
 
 You know, there's a lot of free space here. You could always move here if you want. We can help you build your house. Besides, being here is probably better than trying to get by in the desert.
 
