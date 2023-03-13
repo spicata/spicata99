@@ -72,4 +72,7 @@ aliases:
 
 ![grodianKnot](assets/grodianKnot.png)
 
+> *"hagrid, lmao"*  
+> k burford
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
