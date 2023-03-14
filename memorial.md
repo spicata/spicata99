@@ -11,3 +11,8 @@ layout: sad
 - ed (2007-2020). he died when he made stickverse
 - you (???-now). here i come
 - pranav (-inf - +inf) - he won't die, he is god
+
+---
+
+- me (13th of March, 2023) - i saw thomas' favicon
+- me (13th of March, 2023) - i saw fred's background

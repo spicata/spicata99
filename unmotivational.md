@@ -75,4 +75,7 @@ aliases:
 > *"hagrid, lmao"*  
 > k burford
 
+> *"i like genshin"*  
+> edward huynh
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.

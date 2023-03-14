@@ -1,9 +1,9 @@
 ---
 tags: 
-title: "a little storefront, now with 1% fat"
+title: "a little storefront, now with a revamped theme"
 aliases:
 - home
-layout: default
+layout: new
 ---
 
 hi! i'm **m.spicata**, and i own this "shop". i don't sell anything here, but instead i give away **stuff for free**. if you think it's worth it take it; if you don't want it, leave it.

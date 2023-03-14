@@ -9,3 +9,4 @@ aliases:
 > 	- **Memorise** *the essay*
 > 	- You will be able to *capture the* **general** *gist*
 
+why the duck did past me use bold and italics for all 
