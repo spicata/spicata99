@@ -78,4 +78,7 @@ aliases:
 > *"i like genshin"*  
 > edward huynh
 
+> *"I myself in particular visit him a lot"*  
+> shan mei in reference to edward huynh 😏
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
