@@ -76,9 +76,12 @@ aliases:
 > k burford
 
 > *"i like genshin"*  
-> edward huynh
+> e huynh
 
 > *"I myself in particular visit him a lot"*  
-> shan mei in reference to edward huynh 😏
+> s-m wan in reference to e huynh 😏
+
+> *jzhao? pwease?*  
+> e huynh
 
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
