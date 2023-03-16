@@ -5,12 +5,6 @@ body {
   margin: 0;
 }
 
-h1 {
- color: #1d201e;
- background-color: #8DBF9B;
- padding: 0.5em 1em;
-}
-
 h2,h3,h4,h5 {
  color: #8DBF9B;
  border-left: 0.2em solid #8DBF9B;
@@ -33,6 +27,7 @@ header {
   background-color: #8DBF9B;
   padding: 10em 5em;
   text-align: center;
+  color: #1d201e;
 }
 
 .back {
@@ -44,12 +39,19 @@ header {
 }
 
 blockquote {
-  border: solid 0.02em #8DBF9B;
-  border-left: solid 1em #8DBF9B;
-  border-radius: 0.5em;
+  border: solid 2px #8DBF9B;
+  border-left: solid 10px #8DBF9B;
+  border-radius: 5px;
   padding: 0.1em 0 0.1em 0.5em;
 }
 
 footer {
   text-align: center;
+}
+
+img {
+  display: block;
+  width: auto;
+  margin: auto;
+  border-radius: 5px;
 }
