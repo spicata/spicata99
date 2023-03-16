@@ -6,6 +6,18 @@ aliases:
 layout: new
 ---
 
+website philosophy: 
+
+> *"There will be no loyalty, except loyalty towards the Party. There will be no love, except the love of Big Brother."*  
+> that one instruction manual by george orwell.
+
+and also
+
+> *"We shall abolish the orgasm."*  
+> also that instruction manual
+
+---
+
 hi! i'm **m.spicata**, and i own this "shop". i don't sell anything here, but instead i give away **stuff for free**. if you think it's worth it take it; if you don't want it, leave it.
 
 welcome to [the town](theTown.md)!
