@@ -1,6 +1,6 @@
 ---
 tags: 
-title: "a little storefront, now saying 'We shall abolish the orgasm.'"
+title: "a little storefront"
 aliases:
 - home
 layout: new
