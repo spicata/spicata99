@@ -22,6 +22,8 @@ hi! i'm **m.spicata**, and i own this "shop". i don't sell anything here, but in
 
 welcome to [the town](theTown.md)!
 
+the grand migration is complete, [the garden outside](mint-fresh-notes/mfNotes.md) is now in one vault.
+
 in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
 
 also, to quote a certain person
