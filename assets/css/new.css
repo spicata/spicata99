@@ -1,37 +1,54 @@
+:root {
+  --text: #f7f9e3;
+  --light: #bed590;
+  --lightmid: #80b256;
+  --mid: #548e4b;
+  --darkmid: #356242;
+  --dark: #1b3128;
+  --bg: #101d19;
+  --emone: #f1d9f6;
+  --emtwo: #cca5e7;
+  --emthree: #b07ad9;
+}
+
 body {
   font-family: sans-serif;
-  background-color: #1d201e;
-  color: #f5f5f5;
+  background-color: var(--bg);
+  color: var(--text);
   margin: 0;
 }
 
 h2,h3,h4,h5 {
- color: #8DBF9B;
- border-left: 0.2em solid #8DBF9B;
+ color: var(--light);
+ border-left: 0.2em solid var(--light);
  padding: 0.2em 0.5em;
 }
 
-a { color: #8DBF9B; }
+a { color: var(--light); }
 
-a:visited { color: #dcdfbe; }
+a:visited { color: var(--emtwo); }
+
+em {
+  color: var(--emone);
+}
 
 .footnote, .reversefootnote {
-    background-color: #8DBF9B !important;
-    color: #1d201e !important;
+    background-color: var(--light) !important;
+    color: var(--bg) !important;
     padding: 0 0.5em !important;
 }
 
 .footnotes { padding: 1.5em 0; }
 
 header {
-  background-color: #8DBF9B;
-  padding: 10em 5em;
+  background-color: var(--light);
+  padding: 6em 5em;
   text-align: center;
-  color: #1d201e;
+  color: var(--bg);
 }
 
 .back {
-  color: #1d201e !important;
+  color: var(--bg) !important;
 }
 
 .main {
@@ -39,10 +56,11 @@ header {
 }
 
 blockquote {
-  border: solid 2px #8DBF9B;
-  border-left: solid 10px #8DBF9B;
+  border-left: solid 10px var(--light);
   border-radius: 5px;
   padding: 0.1em 0 0.1em 0.5em;
+  background-color: var(--dark);
+  margin: 0;
 }
 
 footer {

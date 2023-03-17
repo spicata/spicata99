@@ -6,12 +6,36 @@ aliases:
 layout: sakura
 ---
 
-pog champ
+## Header 2
 
-## h2
+### Header 3
 
-sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg 
+#### Header 4
 
-[new themes coming to site?](newThemes.md)
+##### Header 5
 
-[index](index.md)
+###### Header 6
+
+Things can be **bold**, or *italics*, sometimes ~~deleted~~.
+
+---
+
+| Things | Can | Be  |
+|:-------|:----------|:----|
+| In     | Tables    | for |
+| sure   | x         | y   |  
+| In     | Tables    | for |
+| sure   | x         | y   |  
+
+> Also quote blocks and…
+
+```
+Code blocks!
+```
+
+> [!Success] Obsidian’s callouts
+> are very cool to say the least
+
+[sakura test](sakuraTest.md)
+
+[loopsInvestigation](mint-fresh-notes/loopsInvestigation.md)
