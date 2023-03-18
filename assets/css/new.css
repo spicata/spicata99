@@ -32,6 +32,11 @@ em {
   color: var(--emone);
 }
 
+del {
+  color: var(--darkmid);
+}
+
+
 .footnote, .reversefootnote {
     background-color: var(--light) !important;
     color: var(--bg) !important;

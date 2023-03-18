@@ -38,6 +38,7 @@ collections:
 - story 1: [cover n check chronicles](coverCheckChronicles.md)
 - hey!: [dear this person x](dearX.md)
 - do it: [challenges](challenges.md)
+- themes: 
 
 ---
 
