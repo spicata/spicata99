@@ -2,7 +2,7 @@
 tags: meta
 title: "themes round 2"
 aliases:
-- "themes"
+- "themes round 2"
 layout: new
 ---
 
