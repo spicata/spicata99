@@ -20,6 +20,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [spec journal](specialistStickmen.md)
 - physics investigation:
     - [how to do time to acceleration](timeToAcceleration.md)
+- [the accursed loop investigation](mint-fresh-notes/loopsInvestigation.md)
 
 ---
 

@@ -54,9 +54,6 @@ aliases:
 > *Something has gone Horribly Wrong*[^1]  
 > dr pearce's stickman :-|
 
-> my sister: *i can play the katana*  
-> me: *a katana's a sword*
-
 > *why dont blind people just see*  
 > my sister
 
@@ -78,8 +75,7 @@ aliases:
 > *"i like genshin"*  
 > e huynh
 
-> *"I myself in particular visit him a lot"*  
-> s-m wan in reference to e huynh 😏
+> this quote has been deleted at the request of sm wan, but it [still exists here, so go check it out](https://shan-mei.github.io/shanmeis-notes/ranting/the-town.html). you'll know the quote when you see it.
 
 > *jzhao? pwease?*  
 > e huynh
