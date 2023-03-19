@@ -32,9 +32,6 @@ aliases:
 > *give me gaming or give me liberty*  
 > e huynh
 
-> *ive found the greatest game ever \<insert photo of "girls' frontline here"\>*  
-> e huynh
-
 > *Do you smell that?*  
 > *It's the smell of grass being untouched.*  
 > e huynh
@@ -54,9 +51,6 @@ aliases:
 > *Something has gone Horribly Wrong*[^1]  
 > dr pearce's stickman :-|
 
-> *why dont blind people just see*  
-> my sister
-
 > *you come as gently as you can*  
 > robert louis stevenson
 
@@ -72,12 +66,9 @@ aliases:
 > *"hagrid, lmao"*  
 > k burford
 
-> *"i like genshin"*  
-> e huynh
-
 > this quote has been deleted at the request of sm wan, but it [still exists here, so go check it out](https://shan-mei.github.io/shanmeis-notes/ranting/the-town.html). you'll know the quote when you see it.
 
-> *jzhao? pwease?*  
+> *"jzhao? pwease?"*  
 > e huynh
 
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
