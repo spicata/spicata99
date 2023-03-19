@@ -47,6 +47,6 @@ utterson is also kind of a mix. he is kind of... let's say stale, however he als
 
 ## spirituality
 
-victorian society was very religious, but also decreasingly religious
+victorian society was very religious, but also decreasingly religious. science was becoming bigger. however, we can still see the 
 
 [^1]: its worded badly, i just thought it might be interesting

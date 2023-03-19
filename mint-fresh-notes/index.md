@@ -6,7 +6,7 @@ aliases:
 - "mint fresh notes"
 ---
 
-so... uh... this is the garden. unlike [the store](https://spicata.github.io), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
+so... uh... this is the garden. unlike [the store](../index.md), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
 
 here's the catalogue of stuff that's safe to pick from.
 
@@ -20,7 +20,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [spec journal](specialistStickmen.md)
 - physics investigation:
     - [how to do time to acceleration](timeToAcceleration.md)
-- [the accursed loop investigation](mint-fresh-notes/loopsInvestigation.md)
+- [the accursed loop investigation](loopsInvestigation.md)
 
 ---
 
