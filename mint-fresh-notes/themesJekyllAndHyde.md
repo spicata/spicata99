@@ -47,6 +47,6 @@ utterson is also kind of a mix. he is kind of... let's say stale, however he als
 
 ## spirituality
 
-victorian society was very religious, but also decreasingly religious. science was becoming bigger. however, we can still see the 
+victorian society was very religious, but also decreasingly religious. science was becoming bigger. however, we can still see the influence on religion in this text. jekyll, who messed with the god given human body and flaws is obviously punished for doing so, this matter is beyond the human grasp. to add to that, jekyll often cites hsi 
 
 [^1]: its worded badly, i just thought it might be interesting
