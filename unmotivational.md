@@ -71,4 +71,38 @@ aliases:
 > *"jzhao? pwease?"*  
 > e huynh
 
+---
+
+## the one day chinese lesson quote bank
+
+> *"i'm gonna nut all over you"*  
+> who else but e huynh
+
+> *"don't put it in yet"*  
+> who else but fyape
+
+> *"you can take my bussy"*  
+> e huynh
+
+> *"fred, i'm coming"*  
+> p borude
+
+> "*the second i go back home, i'm gonna come at you*"  
+> e huynh
+
+> *"man, i need to die"*  
+> e huynh
+
+> *"his bricked up d\*ck"*  
+> js hwang
+
+> *"can i touch your throat"*  
+> js hwang
+
+> *"fred you are so silly, stupid, and goofy aah"*  
+> e huynh
+
+> *"A B S O lutely"*  
+> e huynh
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
