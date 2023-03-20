@@ -21,6 +21,7 @@ here's the catalogue of stuff that's safe to pick from.
 - physics investigation:
     - [how to do time to acceleration](timeToAcceleration.md)
 - [the accursed loop investigation](loopsInvestigation.md)
+- here are some tips for chinese: [get better at chinese](accendChinese.md)
 
 ---
 

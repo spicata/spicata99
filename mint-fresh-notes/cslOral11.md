@@ -11,22 +11,46 @@ aliases:
     
 1.  你周末做些什么?在哪儿? 和谁一起?
     
-    1. 学习
-    1. 打电脑游戏
+    
+    1. i sometimes play games with friends
+        1. grammar point : 有时候, 跟...一起
+        1. 朋友
+        1. 打电脑游戏
+    1. i tend to study after 5 o'clock
+        1. grammar point : 几点以后
+        1. 常常
+        1. 学习
+    1. i used to get english tutoring but not anymore
+        1. grammar point : 已经不...了
+        1. 英语导师
     
 1.  你经常一边学习一边听音乐吗?
     
-    1. 还
-    1. 很喜欢
-    1. 很高兴
+    1. i almost always listen to music while studying
+        1. grammar point : 一边...一边， 几乎
+        1. 几乎总是
+    1. i think it helps me relax
+        1. grammar point : 一点儿, 把
+        1. 帮助
+        1. 一点儿散心
+        1. e.g. 我觉得它把我帮助一点儿散心
+    1. however, some songs distract me
+        1. grammar point : 但是, 有的
+        1. 有的歌曲 (meaning songs, not music)
+        1. 分心
+        1. e.g. 但是，我知道有的歌曲把我分心
     
 1.  你喜欢听什么音乐?
     
-    1. 我都喜欢
-    1. 古典
-    1. 流行
-    1. 都很听
-    1. 除了fred的音乐
+    1. i like any kind of music
+        1. grammar point : 任何...都 (renhe)
+        1. e.g. 我会听任何音乐都
+    1. for example, classical, pop, rock, i like it all
+        1. grammar point : 比如
+        1. e.g. 比如：古典、流行和**摇滚**，我都喜欢。
+    1. i particularly like anything that is good on the ears
+        1. grammar point : 非常喜欢 i guess is a grammar point
+    1. but i only occasionally listen to classical
     
 1.  你最喜欢的歌星是谁?
     
@@ -65,11 +89,14 @@ aliases:
     1. ~~我学中文因为我爱李老师~~
     1. 很有用
     1. 很有意思
+    1. 很有趣
     
 1.  你学中文多久了?
     
     1. 四个年
     1. 我还不好
+    1. 我觉得听中文很难
+        1. 这个我最不好
     
 1.  除了中文以外，你还学了什么科目?
     
@@ -86,31 +113,43 @@ aliases:
     
 1.  你怎样安排你的学习时间?
     
-    1. 安排的不好
+    1. 安排得不好
     1. 回家我吃食物，然后我学习
+    1. 我希望我安排得很好
     
 1.  你学习上遇到过什么困难?
     
     1. 我不知道打败Pranaf
     1. 我觉得英语很难
+        1. 因为我不知道如何学习
     
 1.  怎样学习才能取得好成绩?
-    
-    1. 
+
+    1. ~~甲基苯丙胺~~
+    1. 就是那个问题
+    1. 我不知道
+    1. 我觉得学习是联系和记住
+        1. 但是它们要均衡
+    1. 我发现过去的考试非常帮助
     
 1.  你怎样安排你的课余活动和学习?
     
-    
+    1. 我没有课外活动
     
 1.  你用什么方法减低你的学习压力?
     
-    
+    1. 我常常发短信给朋友
+    1. 我有时候打电脑游戏
+        1. 现在我打比较少
+        1. 因为我在十一年及
+    1. 我还听音乐
     
 1.  你觉得这样做对你的学习有帮助吗?
     
+    1. 我觉得这个做对我的学习没有帮助， 因为我常常分心
+    1. 我花费太多时间，很浪费
+    1. 但是很上瘾
     
-    
-
 ---
 
 1.  谈谈中国有哪些传统节日？你觉得哪个节日最有意思？为什么？
@@ -156,6 +195,8 @@ aliases:
     澳大利亚的节日有新年、复活节和圣诞节。 我觉得新年是最有意思的节日，因为它代表新的开始和改变。在新年时，人们吃烧烤，放烟花，开派对，非常热闹。
     
 1.  你参加过中国人的其他庆祝活动吗？比如生日?
+    
+    
     
 1.  你知道中国人过生日吃什么? 他们也吃生日蛋糕吗?
     
