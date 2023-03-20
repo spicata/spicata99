@@ -31,7 +31,7 @@ a key part of victorian society is that it was highly concerned with public imag
 
 this is almost entirely a reflection of victorian society, whose citizens were so concerned with their status and reputation, which is what causes hyde to be such a compelling villian, as it reflects in inner conflict within the reader. this would be a common theme within gothic literature; the heroes would not be perfect and its villains would reveal the deepest and darkest flaws within humanity.
 
-however, it is the distinction between the public and private life that eventually leads to the death of jekyll, as his treatment of jekyll as a mere shell of his true self leads to his adoption of hyde as his true self, which in turn leads to his demise.
+however, it is the distinction between the public and private life that eventually leads to the death of jekyll, as his treatment of jekyll as a mere shell of his true self leads to P adoption of hyde as his true self, which in turn leads to his demise.
 
 the text also shows a possible one-sided-ness of this private and public life, wherein the private life conceals hidden desires, and this one-sideness comes into play as only hyde, jekyll's evil side, is ever condensed.[^1]
 
