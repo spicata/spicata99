@@ -105,4 +105,9 @@ aliases:
 > *"A B S O lutely"*  
 > e huynh
 
+---
+
+> *"joe bean"*  
+> fyape
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
