@@ -6,6 +6,8 @@ aliases:
 layout: new
 ---
 
+i am not chatgpt. he is cringe.
+
 website philosophy: 
 
 > *"There will be no loyalty, except loyalty towards the Party. There will be no love, except the love of Big Brother."*  

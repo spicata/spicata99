@@ -110,4 +110,11 @@ aliases:
 > *"joe bean"*  
 > fyape
 
+> *"my parents make me come"*  
+> e huynh
+
+![punisher](assets/punisher.gif)
+
+edward when i typed this up
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
