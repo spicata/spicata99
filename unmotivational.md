@@ -117,4 +117,21 @@ aliases:
 
 edward when i typed this up
 
+> *"oh my god christian i love you you're so hot"*  
+> e huynh
+
+> *"you're so hot when you quote me"*  
+> e hunyh. this is becoming pretty meta
+
+![](assets/theQuote.png)
+
+> *"i'm willing to dig deeper"*  
+> e hunyh
+
+> *"'m.spicata' is a hot fella"*  
+> e huynh
+
+> *"i think 'm.spicata' is hot"*  
+> e huny
+
 [^1]: this was the funniest goddamn crap i have ever seen in my entire life.
