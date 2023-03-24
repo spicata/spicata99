@@ -250,17 +250,6 @@ aliases:
     1. they also have different methods of celebration, but both think that the family reunion is very important
         1. grammar point : 而且, ……却……
         1. 也各种各样的庆祝方法两个节日都，却在圣诞节和春节，人们觉得团圆很重要。
-
-    ---
-    
-    1. Spring Festival and Christmas is similar
-        1. grammar point: 跟……一想
-    1. Both biggest
-        1. grammar point ： 都
-    1. Different times
-        1. 
-    1. Spring Festival celebrates the new year
-    1. different methods of celebrating.
     
 1.  中国人怎样庆祝春节? 为什么中国人在春节的时候吃饺子/鱼/年糕？
     
@@ -305,9 +294,13 @@ aliases:
         1. grammar point : 因为, 代表, 象征化 (xiangzhenghua), 此外 (ciwai)
         1. 红鸡蛋
     1. however, nowadays, more people are eating birthday cakes due to western influence.
-        1. 
+        1. grammar point : 现在, 比较多
+        1. 由于西方的影响
+        1. 比较多人
     
 1.  寿面是什么？它代表什么意思？
 
     1. 寿面 is the birthday noodle, and it is eaten by chinese people during their birthday.
+        1. grammar point : ……的时间,
     1. its long noodles represents the longevity of life.
+        1. grammar point : 代表
