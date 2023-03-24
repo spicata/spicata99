@@ -35,6 +35,8 @@ also, to quote a certain person
 
 and also: doooooo doooooo dooooooo dooooooo do do do do do do do dooooooo dooooo, do do do do do do do do do doooooo, do do do dododod dodoooo doooo dooododooooo, dooooo doooooo doooodododooooo do do do doo do do dodoooooooooo doooooo, do dododoooodododooodododoooododooo doooo dooooo doooooooooo do dodo do do do do do dooooo. (oh no, i forgot :-P)
 
+[new comic strip here](xkcdob/index.md)
+
 collections:
 
 - story 1: [cover n check chronicles](coverCheckChronicles.md)
