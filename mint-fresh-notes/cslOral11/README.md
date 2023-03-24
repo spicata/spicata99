@@ -1,6 +1,6 @@
 ---
 tags: 
-title: "cslOral11"
+title: "chinese speaking oral 11"
 aliases:
 - ""
 ---
@@ -220,16 +220,45 @@ aliases:
 1.  澳大利亚人过什么节日?  你觉得哪个澳大利亚节日最有意思？为什么？
     
     澳大利亚的节日有新年、复活节和圣诞节。 我觉得新年是最有意思的节日，因为它代表新的开始和改变。在新年时，人们吃烧烤，放烟花，开派对，非常热闹。
+
+    ---
+    
     1. Christmas, Easter, Halloween, ANZAC day
+        1. 圣诞节、复活节、万圣节、澳新军团日 (shengdanjie, fuhuojie, wanshengjie, aoxinjuntuanri)
     1. New Year is the most interesting
+        1. grammar point : 但是, 对
+        1. 新年 最有意思
     1. New start
+        1. grammar point : 因为
+        1. 新开始
     1. Barbeque, firework, have parties
+        1. grammar point : 比如
+        1. 烤肉、放烟花、开排队
     
 1.  中国人过春节和澳大利亚人过圣诞节的庆祝方式有哪些相同跟不同的地方？
+
+    1. The spring festival and Christmas are quite simlar
+        1. grammar point : 都, 挺……
+        1. 春节和新年都挺像
+    1. they are both the biggest festival in their culture.
+        1. grammar point : 都, 对
+        1. e.g. 对他们各自的文化，这们节日是最重要的节日
+    1. however, they are celebrated at different times, and the spring festival celebrates the new year
+        1. grammar point : 但是, 反之 (fanzhi)
+        1. e.g. 春节庆祝的关于是新年；
+        1. e.g. 反之，圣诞节庆祝**耶稣**的**诞生**
+    1. they also have different methods of celebration, but both think that the family reunion is very important
+        1. grammar point : 而且, ……却……
+        1. 也各种各样的庆祝方法两个节日都，却在圣诞节和春节，人们觉得团圆很重要。
+
+    ---
     
     1. Spring Festival and Christmas is similar
+        1. grammar point: 跟……一想
     1. Both biggest
+        1. grammar point ： 都
     1. Different times
+        1. 
     1. Spring Festival celebrates the new year
     1. different methods of celebrating.
     
@@ -255,10 +284,30 @@ aliases:
     
     澳大利亚的节日有新年、复活节和圣诞节。 我觉得新年是最有意思的节日，因为它代表新的开始和改变。在新年时，人们吃烧烤，放烟花，开派对，非常热闹。
     
-1.  你参加过中国人的其他庆祝活动吗？比如生日?
+1.  你参加过中国人的**其他**庆祝活动吗？比如生日? 
+
+    %% i wonder what this means? %%
     
-    
+    1. i haven't attended any chinese traditional celebrations
+        1. grammar point : 还没
+        1. e.g. 我还没去参加中国传统节日
+    1. however, i know that some korean celebrations are quite similar
+        1. grammar point : 但是, 差不多
+        1. 
+    1. for example, we also celebrate the new year and the mid-autumn festival
+        1. grammar point : 也
     
 1.  你知道中国人过生日吃什么? 他们也吃生日蛋糕吗?
+
+    1. traditionally, the chinese would eat birthday noodles and a red egg during their birthday.
+        1. 传统上
+    1. this is because the birthday noodle was long, which would represent longevity, and the red egg symbolises birth
+        1. grammar point : 因为, 代表, 象征化 (xiangzhenghua), 此外 (ciwai)
+        1. 红鸡蛋
+    1. however, nowadays, more people are eating birthday cakes due to western influence.
+        1. 
     
 1.  寿面是什么？它代表什么意思？
+
+    1. 寿面 is the birthday noodle, and it is eaten by chinese people during their birthday.
+    1. its long noodles represents the longevity of life.

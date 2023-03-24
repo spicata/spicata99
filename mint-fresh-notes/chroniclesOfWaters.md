@@ -26,7 +26,7 @@ aliases:
 - Went over daily notices. Check them if you want. Or not if you don't.
 - Covid is still going around. Enjoy life while you can. Try not to die.
 - He shaved his beard (not in class but ¯\\\_(ツ)\_/¯).
-- We looked at [[Error]] and uncertainty. Why? Well real-life measurements can never be completely true. Even if we got an extremely accurate ruler, atoms will always jiggle around, so good luck actually getting the "true" value.
+- We looked at [[error]] and uncertainty. Why? Well real-life measurements can never be completely true. Even if we got an extremely accurate ruler, atoms will always jiggle around, so good luck actually getting the "true" value.
     - Most of the time, this is good enough. If we're going to be realistic, "close enough" is good most of the time.
 - This stuff is apparently worth a lot of marks over time.
     - Once Year 12 got bozo'd by an ENU[^1] question
@@ -35,7 +35,7 @@ aliases:
 - Mentioned absolute vs percentage errors.
 - Only time we can remove measurement error is with an absolute zero ruler.
     - Although, this effect is negligible
-- [[Four Measures of Correctness]] is actually pain. But we need this cause science in empirical... sometimes.
+- [[fourCorrectness]] is actually pain. But we need this cause science in empirical... sometimes.
     - Even 9.80m/s/s for gravity was figured out empirically. 
 - Something about fungus gene knockout that took 123 tries and researchers giving each other kisses. Also amino acids.
 - Something about *Breaking Bad* and volumetric glass, and something about Waters' son wanting to do a Mista White.

@@ -49,6 +49,6 @@ seasons:
 - [season one rambles](rambleOne.md)
 - [season one and a half rambles](oneHalfRambles.md)
 
-also, it has come to my attention that most people just come here to read the quotes, so [here they are](unmotivational.md).
+also, it has come to my attention that most people just come here to read the quotes, so [here they are (round 2)](unmotivational.md).
 
 [^1]: sorry sri-lanka
