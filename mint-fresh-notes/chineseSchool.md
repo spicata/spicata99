@@ -30,4 +30,6 @@ On the other hand, Chinese students can learn chinese, maths, english, phys, che
 
 ## 哪些科目是选修课？哪些科目是必修课？
 
+In WA, you need to take at least 1 list A subject and 1 list B subject, list A subjects are usually the arts or languages, whereas the list B subjects are maths and sciences. However, english or lit is mandatory. The rest are electives, but you need at least 4 subjects in total.
 
+On the other hand, in China, chinese, maths, and english are all mandatory.
