@@ -25,3 +25,7 @@ layout: new
 ## paper
 
 ![paper](assets/paper.png)
+
+## computer 
+
+![computer](assets/computer.png)

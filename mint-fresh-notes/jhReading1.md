@@ -10,4 +10,6 @@ the idea that mystery is able to completely engross the human mind, and that eve
 
 oh yeah damn i am dumb
 
+this dream sequence is a common rope within gothic literature, and it reveals the inability to comprehend hyde as he is a force of pure evil
+
 
