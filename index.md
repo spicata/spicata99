@@ -6,6 +6,8 @@ aliases:
 layout: new
 ---
 
+## elevator
+
 - 3: the bank
 - 2: [xob](xkcdob/index.md)
 - 1: [mint fresh notes](mint-fresh-notes/index.md)

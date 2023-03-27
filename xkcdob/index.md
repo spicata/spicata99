@@ -29,3 +29,7 @@ layout: new
 ## computer 
 
 ![computer](assets/computer.png)
+
+## ed (based on ed's comic)
+
+![ed](assets/ed.png)
