@@ -1,41 +1,28 @@
 ---
-tags: 
-title: "a little storefront"
+tags: meta 
+title: "spicata . github . io"
 aliases:
-- home
+- "spicata . github . io"
 layout: new
 ---
 
-i am not chatgpt. he is cringe.
-
-website philosophy: 
-
-> *"There will be no loyalty, except loyalty towards the Party. There will be no love, except the love of Big Brother."*  
-> that one instruction manual by george orwell.
-
-and also
-
-> *"We shall abolish the orgasm."*  
-> also that instruction manual
+- 3: the bank
+- 2: [xob](xkcdob/index.md)
+- 1: [mint fresh notes](mint-fresh-notes/index.md)
+- 0: [spicata [dot] github [dot] io](index.md)
 
 ---
 
-hi! i'm **m.spicata**, and i own this "shop". i don't sell anything here, but instead i give away **stuff for free**. if you think it's worth it take it; if you don't want it, leave it.
+## spicata [dot] github [dot] io
 
-welcome to [the town](theTown.md)!
+welcome to the ground floor of the spicata [dot] github [dot] io complex. this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
 
-the grand migration is complete, [the garden outside](mint-fresh-notes/index.md) is now in one vault.
+seasons:
 
-in order to counterbalance the jzhao of my website: ඞඔඕඖචඣඩඬඹ[^1].
+- [season one rambles](rambleOne.md)
+- [season one and a half rambles](oneHalfRambles.md)
 
-also, to quote a certain person
-
-> *It’s a little unkempt in places, but ~~I think it gives it a little charm~~ that's a mistake, tell me.* (pixelandian@gmail.com)  
-> jzhao, edited by me
-
-and also: doooooo doooooo dooooooo dooooooo do do do do do do do dooooooo dooooo, do do do do do do do do do doooooo, do do do dododod dodoooo doooo dooododooooo, dooooo doooooo doooodododooooo do do do doo do do dodoooooooooo doooooo, do dododoooodododooodododoooododooo doooo dooooo doooooooooo do dodo do do do do do dooooo. (oh no, i forgot :-P)
-
-[new comic strip here](xkcdob/index.md)
+---
 
 collections:
 
@@ -43,14 +30,4 @@ collections:
 - hey!: [dear this person x](dearX.md)
 - do it: [challenges](challenges.md)
 - themes: [themes round 2](themes.md)
-
----
-
-seasons:
-
-- [season one rambles](rambleOne.md)
-- [season one and a half rambles](oneHalfRambles.md)
-
-also, it has come to my attention that most people just come here to read the quotes, so [here they are (round 2)](unmotivational.md).
-
-[^1]: sorry sri-lanka
+- quotes: [unmotivational quotes (round 2)](unmotivational.md)
