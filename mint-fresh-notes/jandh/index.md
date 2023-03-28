@@ -17,4 +17,4 @@ This is the collection of all my notes for Jekyll and Hyde.
     > he literally goes around bludgeoning people to death - me
 
 - [freud jekyll and hyde](jahFreud.md)
-- 
+- [devolution](devolution.md)

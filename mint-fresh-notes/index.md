@@ -43,3 +43,4 @@ assessments ([a note on assessments](noteAssess.md)):
 
 - [chinese speaking oral 11](cslOral11/index.md)
 - [eleven physics cap 1](ePhyCap1/index.md)
+- [jekyll and hyde](jandh/index.md)
