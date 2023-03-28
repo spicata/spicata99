@@ -29,8 +29,8 @@ layout: new
     |---|---|---|---|
     |1|7|AB|ionic|
     |1|5|A3B|ionic|
-    |2|1|||
-    |||||
-    |||||
+    |2|1|Doesn't exist||
+    |3|6|A2B3|ionic|
+    |4|6|AB2|covalent|
     |||||
     |||||

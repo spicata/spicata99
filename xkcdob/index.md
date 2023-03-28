@@ -50,3 +50,7 @@ layout: new
 ## meta
 
 ![meta](assets/meta.png)
+
+## sudo
+
+![sudo](assets/sudo.png)

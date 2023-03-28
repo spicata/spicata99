@@ -1,8 +1,8 @@
 ---
 tags: 
-title: lucarelliChapters11
+title: lucarelli chapters 11
 aliases:
-- 
+- lucarelli chapters 11
 ---
 
 - chapter 1: a particle view of matter - 2
