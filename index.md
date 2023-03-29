@@ -1,8 +1,8 @@
 ---
 tags: meta 
-title: "spicata . github . io"
+title: "spicata [dot] github [dot] io"
 aliases:
-- "spicata . github . io"
+- "spicata [dot] github [dot] io"
 layout: new
 ---
 
@@ -33,5 +33,3 @@ collections:
 - do it: [challenges](challenges.md)
 - themes: [themes round 2](themes.md)
 - quotes: [unmotivational quotes (round 2)](unmotivational.md)
-
-<iframe src="https://eddietheed.github.io/obsidiannotes-v.3/" width="100%" height="400px"></iframe>
