@@ -32,5 +32,5 @@ layout: new
     |2|1|Doesn't exist||
     |3|6|A2B3|ionic|
     |4|6|AB2|covalent|
-    |||||
-    |||||
+    |6|7|AB2|covalent|
+    |7|7|AB|covalent|

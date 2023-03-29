@@ -33,3 +33,5 @@ collections:
 - do it: [challenges](challenges.md)
 - themes: [themes round 2](themes.md)
 - quotes: [unmotivational quotes (round 2)](unmotivational.md)
+
+<iframe src="https://eddietheed.github.io/obsidiannotes-v.3/"></iframe>
