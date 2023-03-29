@@ -34,4 +34,4 @@ collections:
 - themes: [themes round 2](themes.md)
 - quotes: [unmotivational quotes (round 2)](unmotivational.md)
 
-<iframe src="https://eddietheed.github.io/obsidiannotes-v.3/"></iframe>
+<iframe src="https://eddietheed.github.io/obsidiannotes-v.3/" width="100%" height="400px"></iframe>
