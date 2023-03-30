@@ -13,3 +13,7 @@ layout: new
 ## oops
 
 ![crutin](assets/crutin.png)
+
+## gun
+
+![gun](assets/gun.png)
