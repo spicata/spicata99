@@ -8,4 +8,4 @@ layout: new
 
 ## paint job
 
-![paint](xkcdob/assets/paint.png)
+![paint](assets/paint.png)
