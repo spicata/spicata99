@@ -8,7 +8,7 @@ layout: new
 
 This is the collection of all my notes for Jekyll and Hyde.
 
-- [themes present in jekyll and hyde](themesJekyllAndHyde.md)
+- [draft](themesJekyllAndHyde.md)
 - [robert louis stevenson](rls.md)
 - [two brains and hyde](jahTwoBrain.md)
 - [mirror of victorian](vicMirror.md)
