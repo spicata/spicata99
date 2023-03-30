@@ -19,3 +19,7 @@ This is the collection of all my notes for Jekyll and Hyde.
 - [freud jekyll and hyde](jahFreud.md)
 - [devolution](devolution.md)
 - [questions for reading jah](questions.md)
+- [gothic](gothic.md)
+- [twos in jah](twoInJah.md)
+- [the word canny is pretty uncanny](canny.md)
+- 
