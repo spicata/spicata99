@@ -13,7 +13,7 @@ layout: new
         > man is not truly one, but truly two
 
     - Jekyll was rational (left-hemisphere), whereas Hyde was more emotional (right-hem).
-    - Also tied into Queer reading, in that humans are inherently bisexual, and that one gender is repressed, and the other one is dominant. ¯\\\_(ツ)\_/¯ (don't ask me)
+    - Also tied into Queer reading, in that humans are inherently bisexual, and that one gender is repressed, and the other one is dominant. 
 - This double brain also ties into Freud's conscious and unconscious. The potion just brings the other one into the dominant position.
 - Jekyll is seen as the best result of evolution, while Hyde is more atavistic, a backwards primitive version of humanity.
 
