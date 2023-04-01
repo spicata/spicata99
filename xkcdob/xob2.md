@@ -25,3 +25,7 @@ layout: new
 ## revival
 
 ![revive](assets/revive.png)
+
+## blast
+
+![blast](assets/blast.png)
