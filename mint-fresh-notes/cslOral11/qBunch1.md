@@ -8,10 +8,11 @@ layout: new
 
 1.  你喜欢什么运动?/ 谈谈你喜欢的运动。  
     
-    我最喜欢的运动是羽毛球，因为很多朋友还打羽毛球。还有，羽毛球不但很刺激，而且运动让我们保持健康。虽然羽毛球和网球很同，但是不一样。
+    我最喜欢的运动是打羽毛球，因为我的很多朋友也打羽毛球，我可以和他们一起打羽毛球。还有，打羽毛球不仅很刺激，而且也让我们保持健康。虽然打羽毛球和打网球很相似，但是不一样。
     
 1.  你周末做些什么?在哪儿? 和谁一起?
-    
+
+    我周末有时候在我家跟好朋友一起打电脑游戏，有时候我和家人一起去公园。每个星期六上午我和妹妹去游泳池游泳。我常常星期天早上从九点到十点一刻跟英文家教学习英文，但是现在我自己学习英文。
     
     1. i sometimes play games with friends
         1. grammar point : 有时候, 跟...一起
@@ -26,6 +27,8 @@ layout: new
         1. 英语导师
     
 1.  你经常一边学习一边听音乐吗?
+
+    我常常一边学习一边听音乐，因为我觉得听音乐不仅能让我更专心学习，而且让我放松。我最喜欢一边学习一边听古典音乐。
     
     1. i almost always listen to music while studying
         1. grammar point : 一边...一边， 几乎
@@ -42,6 +45,8 @@ layout: new
         1. e.g. 但是，我知道有的歌曲把我分心
     
 1.  你喜欢听什么音乐?
+
+    我喜欢听所有的音乐，比如：古典音乐、流行音乐、说唱等等。但是，我非常讨厌韩国流行音乐。
     
     1. i like any kind of music
         1. grammar point : 任何...都 (renhe)
@@ -55,18 +60,26 @@ layout: new
         1. grammar point : 可是 (keshi)
     
 1.  你最喜欢的歌星是谁?
+
+    你没有喜欢的歌星。
     
     1. caretaker
     
 1.  你喜欢看什么电影?
+
+    我最喜欢看喜剧片，因为喜剧片很好笑，让我很放松。
     
     1. i don't enjoy watching any movies
     
 1.  你最喜欢的电影明星是谁?
+
+    你没有最喜欢的电影明星?
     
     1. like i said, i do not enjoy watching any movies
     
 1.  你今年选了哪些科目?
+
+    今年我学六个科目：中文、化学、物理、英语文学、两门数学。我非常喜欢中文和物理，因为它们都很有趣。而且中文老师和物理老师都对我们很好。虽然物理很难，但是我学得很好。我希望我的中文水平能有更大的提高。
 
     1. this year, i took chinese, chemistry, physics, literature, easy math, and hard math
         1. grammar point is no grammar point
@@ -81,6 +94,8 @@ layout: new
         1. e.g. 然而我希望那我的汉语技能成为比较好
     
 1.  你喜欢上什么课? /你最喜欢那些科目?
+
+    我非常喜欢中文和物理，因为它们都很有趣。而且中文老师和物理老师都对我们很好。虽然物理很难，但是我学得很好。我希望我的中文水平能有更大的提高。
     
     1. i particularly enjoy chinese and physics, because they are especially fun
         1. grammar point : 因为...而
@@ -93,6 +108,8 @@ layout: new
         1. e.g. 然而我希望那我的汉语技能成为比较好
     
 1.  你哪门课的成绩最好?
+
+    现在我的两门数学成绩都最好，每次考试都是九十几分。
 
     1. right now, my best subjects are the two maths.
         1. no grammar
@@ -109,6 +126,8 @@ layout: new
     1. 我希望每个都很高分
     
 1.  你为什么学中文?
+
+    我学中文四年多了。我非常喜欢学中文。我觉得中文不但很有用，而且非常有趣。中文很有用，因为世界上有九亿三左右的人说中文。学好中文我可以和他们用中文交流。还有，现在中国经济发展很快，很多公司需要会说中文的雇员，我会有更多的工作机会。我觉得中文很有趣，因为它和英文非常不同，而且我觉得中国字非常美，像画一样。除此以外，我还对中国文化非常感兴趣，也喜欢吃中国菜。
 
     1. i find that chinese is very useful, fun, and interesting.
         1. grammar point : 不但……而且
@@ -127,6 +146,8 @@ layout: new
         1. 有的是我朋友学……
     
 1.  你学中文多久了?
+
+    我学中文四年多了。
 
     1. this is my 4th year learning it
         1. grammar point : 第…… (ordinal)
@@ -151,6 +172,8 @@ layout: new
     
 1.  你每星期/每天有几节课?
 
+    每星期我们有二十八节课。在星期一、星期二、星期四，我们有六节课，但是在星期三和星期五我们有五节课。
+
     1. we have 28 periods a week.
     1. on monday, tues, and thurs, we have 6
     1. on wed and fri we have 5
@@ -161,10 +184,14 @@ layout: new
     1. 每个科目有4节课
     
 1.  你下课后都做什么?
+
+    在星期三和星期五放学后，我跟朋友一起去图书馆学习一个小时。在星期一，放学后我和妹妹去打羽毛球。在星期二，我去辅导老师家学中文。
     
     1. i don't do any activities outside of class except for tutor.
     
 1.  你怎样安排你的学习时间?
+
+    每天放学后，我不是和朋友一起学习，就是回家学习。晚上，我还学习三个半小时。周末我还学习五个小时，我喜欢学习。
 
     1. i am not able to manage my time very well, but i still try
         1. grammar point : ……却……, 还
@@ -179,6 +206,10 @@ layout: new
     1. i wish to manage my time better.
     
 1.  你学习上遇到过什么困难?
+
+    When I am studying Literature or Chinese, I often get stuck because I don't understand it.
+
+    当我学习英语文学和中文时，我常常不明白老师讲的东西。我得回家慢慢地自己学，才能明白。有时候我会要我的朋友帮助我，或我问我的辅导老师。
 
     1. i sometimes find that i get very distracted.
     1. at other times, i am unsure what to study

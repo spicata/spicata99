@@ -12,3 +12,7 @@ layout: new
 - The weather is not great : This could tie into the industrialisation and the pollution caused by it that occurred during the Victorian age. However, it could also be used as a dramatic feature as well as pathetic fallacy as it reflects the obscurity and the mystery of Jekyll and Hyde, and the mist only dissipates once the mystery solved. 
 - The story is itself a mystery, but most of the audience will know how this story ends, as Jekyll and Hyde is such a widespread and known idea. Although it is a mystery, it does not fully fit into the ideas of mystery.
 - It is hard to talk in terms of 'the inner beast' in the case of jah, as it is this piece that shaped this trope.
+
+## Intro
+
+- No thank you! :-)

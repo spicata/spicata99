@@ -17,3 +17,7 @@ layout: new
 ## gun
 
 ![gun](assets/gun.png)
+
+## revenge
+
+![revenge](assets/revenge.png)

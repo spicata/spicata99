@@ -17,5 +17,5 @@ layout: new
 
 - Insert some good hook here.
 - The Victorian age was a time of great innovation and development, particularly for the British Empire, but it was also signified by strict -- almost conservative -- societal structure.
-- Reputation were highly regarded, and easily lost, causing those with it to repress their desires due to the heightened judgement of said society. 
+- Reputation was highly regarded, and easily lost, causing those with it to repress their desires due to the heightened judgement of said society. 
 - The suffering of Dr Jekyll is not an isolated event, and is caused by the state of Victorian society as one that condemns the presentation of emotions as seen in novella.

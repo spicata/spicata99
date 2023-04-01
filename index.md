@@ -33,3 +33,4 @@ collections:
 - do it: [challenges](challenges.md)
 - themes: [themes round 2](themes.md)
 - quotes: [unmotivational quotes (round 2)](unmotivational.md)
+- books: [my book list](booklist.md)
