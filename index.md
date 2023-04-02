@@ -17,7 +17,7 @@ layout: new
 
 ## spicata [dot] github [dot] io
 
-welcome to the ground floor of the spicata [dot] github [dot] io complex. this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
+welcome to the ground floor of the spicata [dot] github [dot] io complex, [a proud member of the the town](theTown.md)! this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
 
 seasons:
 
