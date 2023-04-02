@@ -45,3 +45,15 @@ layout: new
 ## sudo
 
 ![sudo](assets/sudo.png)
+
+## paint job
+
+![paint](assets/paint.png)
+
+## oops
+
+![crutin](assets/crutin.png)
+
+## gun
+
+![gun](assets/gun.png)

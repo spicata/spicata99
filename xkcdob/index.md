@@ -16,4 +16,4 @@ layout: new
 ---
 
 - [xob season 1](xob1.md)
-- [xob season 2](xob2)
+- [xob season 2: the shan-mei x ed saga](xob2)
