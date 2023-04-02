@@ -38,9 +38,3 @@ Kind of linked to the earlier point, but in the idea that during the Victorian a
 
 - "Something troglodytic, shall we say?"
 - "hardly human"
-
-## Suspicion of science
-
-## Quotes
-
-- 
