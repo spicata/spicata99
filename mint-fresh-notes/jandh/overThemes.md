@@ -9,6 +9,7 @@ layout: new
 - Duality of Humankind
 - Repression of emotions and desires
 - Atavism
+- Suspicion of science
 
 ## Duality of Humankind
 
@@ -37,3 +38,9 @@ Kind of linked to the earlier point, but in the idea that during the Victorian a
 
 - "Something troglodytic, shall we say?"
 - "hardly human"
+
+## Suspicion of science
+
+## Quotes
+
+- 
