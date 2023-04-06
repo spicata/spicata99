@@ -20,6 +20,9 @@ This is the collection of all my notes for Jekyll and Hyde.
 - [devolution](devolution.md)
 - [questions for reading jah](questions.md)
 - [gothic](gothic.md)
+
+> i am a little worried for tomorrow :-|
+
 - [twos in jah](twoInJah.md)
 - [the word canny is pretty uncanny](canny.md)
 - [terror and horror](terrorHorror.md)

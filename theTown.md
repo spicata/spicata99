@@ -6,6 +6,23 @@ aliases:
 layout: new
 ---
 
+## quick directory
+
+- [M.spicata](https://spicata.github.io/)
+- [Edward](https://eddietheed.github.io/obsidiannotes-v.3/)
+- [not mario](https://notmario.github.io/thenotes/)
+- Mace, offline for now
+- [Anonymous](https://anonymoof1528.github.io/into-the-shadow-garten/)
+- [Reaper](https://grim4reaper.github.io/Year11Notes/)
+- [Thomas](https://nottacoz.github.io/jacaranda/)
+- [Jonathan](https://supaqwerty.github.io/notes-dump/)
+- [Shan-mei](https://shan-mei.github.io/shanmeis-notes/)
+- [Pi-thagoras](https://pi-thagoras.github.io/the-chicken-pen/)
+
+---
+
+## the story
+
 Did you know that the Plains of Infinite Knowledge looks different for everyone? That was just an interesting thing that I noticed throughout my travels, I think. It also changes based on how you feel and how you think. I guess it just depends really on how you look at it. Different people see different things, some things stick out to them, and they all forge different paths. Oh yeah, you can also meet the Mentors there; they are experts in navigating the Plains, but in their own particular way, you just kind of have to trust them and go along. Your journey ends up literally being defined by who you meet. Of course, if you think you can take it on yourself, sure. Good luck!
 
 Of course though, there are always different ways of getting the information stored there. You can always visit the superhighways of the city, some are really quick, and some like to take a rather scenic route. It's a wonderful place, a thriving metropolis of an insane wealth of knowledge. It is incredible how much stuff they are able to siphon from the plains. But I fear them, because of their restricted trading partners and their almost slavish agreements, as well as their audacity to find loopholes to keep your time, money, and data. It's simply not my style.
@@ -28,6 +45,8 @@ Finally, we enter the revision of the town that you know now, the 3rd generation
 
 [There is also Jonathan](https://supaqwerty.github.io/notes-dump/). He was accused for almost copying Ed's town page. I do know that he has friends who live in the metropolis, but I don't think they have any intent in joining us here.
 
-[Finally, there is Shan-mei, who is d-](https://shan-mei.github.io/shanmeis-notes/) [This program is interrupted by Edward. Mspicata is an idiot, don't listen to him]. She is the youngest of us, but also quite an active part of the community. She lived in the city for a while, but moved because she complained it was too cramped.
+[There is also Shan-mei, who is d-](https://shan-mei.github.io/shanmeis-notes/) [This program is interrupted by Edward. Mspicata is an idiot, don't listen to him]. She is the youngest of us, but also quite an active part of the community. She lived in the city for a while, but moved because she complained it was too cramped.
 
-As I promised, I will address why some of the houses look so similar. All of us have a little robot to assist us in building our houses. Without it, we would not have been able to build our houses as they are now. Currently we use three different types of robots: Jekyll, Hugo, and Zola. Jekyll-bots are used by Shan-mei, notmario, Anonymous, and me, whilst Hugo-bots are used by Edward, Reaper, Thomas, Jonathan. Mace uses Zola. Essentially, we can give a blueprint of what we want to make to these little robots, and they get straight to work turning these plans into reality. If you were curious, Jekyll-bots are powered by a Ruby core, synthesised in the metropolis. Hugo bots, on the other hand, function by using the spirit of a dead gopher. However, this is not the reason why those 4 websites looks so similar. The real reason is because those 4 actually bought their Hugo-bots from a legendary programmer known as Jzhao. Jzhao's bots come with the Quartz instructions built in. It's important to know that, even though there are only a few different 'types' of bots, all of them can different instructions. That's the reason why they are all similar looking. On the other hand, Shan-mei and Anonymous both use a starter-pack Jekyll-bot, and notmario and I use a custom Jekyll-bot.
+[Finally, there is Pi-thagoras, a chicken rancher that has just set up shop in the town](https://pi-thagoras.github.io/the-chicken-pen/). His chickens are very strange, they do like ... chemistry and stuff for some reason. I have no clue why.
+
+As I promised, I will address why some of the houses look so similar. All of us have a little robot to assist us in building our houses. Without it, we would not have been able to build our houses as they are now. Currently we use three different types of robots: Jekyll, Hugo, and Zola. Jekyll-bots are used by Shan-mei, notmario, Anonymous, Pi-thagoras and me, whilst Hugo-bots are used by Edward, Reaper, Thomas, Jonathan. Mace uses Zola. Essentially, we can give a blueprint of what we want to make to these little robots, and they get straight to work turning these plans into reality. If you were curious, Jekyll-bots are powered by a Ruby core, synthesised in the metropolis. Hugo bots, on the other hand, function by using the spirit of a dead gopher. However, this is not the reason why those 4 websites looks so similar. The real reason is because those 4 actually bought their Hugo-bots from a legendary programmer known as Jzhao. Jzhao's bots come with the Quartz instructions built in. It's important to know that, even though there are only a few different 'types' of bots, all of them can different instructions. That's the reason why they are all similar looking. On the other hand, Shan-mei and Anonymous both use a starter-pack Jekyll-bot, and notmario and I use a custom Jekyll-bot.
