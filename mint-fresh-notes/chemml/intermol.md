@@ -45,3 +45,11 @@ The last of these forces applies to literally all molecules. By sheer, random ch
 > Key point: dispersion happens randomly. It affects everything.
 
 Something key factors influence the strength of dispersion forces. Dispersion relies on proximity, if you increase the pressure, the substance starts to condense even at the same temperature. More electrons means that there is more chances for a temporary dipole to appear, increasing the net strength of dispersion forces. More surface area also means more dispersion forces, as dispersion forces only occur at the surface of a molecule. Being able to be more crammed (i.e. more simple shapes) means that it can also be more close, leading to higher dispersion forces.
+
+## Solubility
+
+A little note: solubility is also influenced by the type of intermolecular bonding. Intermolecular bonding is how these substances are held together, and solubility is how these bonds break apart. Water is a great solvent because it is already a polar molecule with a high polarity, and so it already easily breaks apart polar solutes. Again, ionic molecules are like an extreme polar bond, and so it breaks apart easily as well. An easy example of this is sugar[^1] and salt. However, water is not particularly good at breaking apart non-polar bonds.
+
+> Key point: polar solvents break polar solutes. Non-polar solvents break non-polar solutes.
+
+[^1]: confirmation pending
