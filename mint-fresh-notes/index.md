@@ -23,6 +23,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [ion valency flashcards](assets/Chemistry%20Valency.apkg)
 - [chinese journal](blessedLi.md)
 - [chem journal](chemistree.md)
+    - [chemistry for year 11s](chemml/index.md)
 - [physics journal](chroniclesOfWaters.md)
 - [literature journal](bookOfBooks.md)
 - [methods journal](gannonLazyLessons.md)
@@ -31,6 +32,7 @@ here's the catalogue of stuff that's safe to pick from.
     - [how to do time to acceleration](timeToAcceleration.md)
 - [the accursed loop investigation](loopsInvestigation.md)
 - here are some tips for chinese: [get better at chinese](accendChinese.md)
+- [a pulse onto a fixed end](waveOnRope.md)
 
 ---
 

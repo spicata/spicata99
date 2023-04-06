@@ -21,3 +21,5 @@ layout: new
     - Under normal conditions, light is more like a ray. It is only when we look at small stuff when we begin to see waves.
     - Reason why my shadow is blurry?
 - When a wave changes mediums, the frequency stays the same but the velocity changes, and so the wavelength also changes. You can also see this using Huygen's principle, where the wavelet has a different velocity for a constant time, and so the distance until the next wavefront goes down.
+- Fyi, light fast in vacuum, sound fast in rock (e.g.)
+- Applies to all waves.
