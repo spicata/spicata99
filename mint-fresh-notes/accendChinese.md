@@ -31,3 +31,10 @@ here is my list on resources i use for chinese. sadly, they aren't as collective
     to keep in mind when you use anki is that, first of all, clozes are very, very useful. the second tip is that, when you write the backside or whatever, include lots and lots of explanation if you have the time to write it. it is even better if you have that because you might forget entirely, and will have to relearn it.
 
     oh yeah, also, a microtip is that if you make your thing extremely funny, for example to show a grammar point, you wrote something like "i can take e huynh's bussy" (我会把edward的bussy拿了), you'll probably have an easier time remembering the grammar point or whatever it is.
+
+- [purple culture talker](https://www.purpleculture.net/chinese-pinyin-converter/)
+
+    i haven't explored much of purple culture, but ed introduced me to this tool, and told me to add it onto the resources.
+
+    > yes  
+    > for listening/speaking
