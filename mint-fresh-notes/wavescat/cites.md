@@ -11,4 +11,11 @@ layout: new
 - https://en.wikipedia.org/wiki/Huygens%E2%80%93Fresnel_principle
 - https://www.thoughtco.com/huygens-principle-2699047
 - https://openstax.org/details/books/college-physics-2e
-- 
+- https://www.britannica.com/science/Snells-law
+- https://www.physicsclassroom.com/Class/refrn/u14l2b.cfm
+- https://en.wikipedia.org/wiki/Snell%27s_law
+- https://www.nibib.nih.gov/science-education/science-topics/ultrasound
+- https://radiopaedia.org/articles/reflection
+- https://en.wikipedia.org/wiki/Medical_ultrasound
+- https://en.wikipedia.org/wiki/Piezoelectricity
+- https://radiologykey.com/physics-of-ultrasound-2/
