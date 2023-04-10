@@ -90,22 +90,22 @@ layout: new
  64. [ ] _Describe the potential health risks associated with the use of nanoparticles. (SHE)_
  65. [ ] _Describe and explain examples of environmental concerns associated with the use of nanomaterials. (SHE)_
  66. [ ] _Provide a balanced discussion of the advantages and disadvantages of nanomaterials. (SHE)_
- 67. [ ] Describe the difference between intramolecular bonding and intermolecular forces.
+ 67. [x] Describe the difference between intramolecular bonding and intermolecular forces. [link](intramol.md)
  68. [ ] Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces.
- 69. [ ] Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules.
- 70. [ ] Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces.
- 71. [ ] Use knowledge of electronegativity to establish bond polarity.
- 72. [ ] Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules.
- 73. [ ] Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces.
+ 69. [x] Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules. [link](intermol.md)
+ 70. [x] Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. [link](intermol.md)
+ 71. [x] Use knowledge of electronegativity to establish bond polarity. [link](intermol.md)
+ 72. [x] Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. [link](intermol.md)
+ 73. [x] Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. [link](intermol.md)
  74. [ ] Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
  75. [ ] Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules.
  76. [ ] Compare the relative strength of the types of intermolecular forces.
- 77. [ ] Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance.
- 78. [ ] Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including:
+ 77. [x] Use understanding of bond polarity, molecular shape and symmetry to establish the nature and strength of intermolecular forces present in a covalent molecular substance. [link](intermol.md)
+ 78. [x] Explain how the physical properties of covalent molecular substances depend on the strength of intermolecular forces, including: [link](intermol.md)
      1. [ ] melting and boiling point
      1. [ ] vapour pressure
      1. [ ] solubility in water and organic solvents
- 79. [ ] Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances.
+ 79. [x] Use understanding of intermolecular forces to explain patterns or relationships in melting and boiling points of covalent molecular substances. [link](intermol.md)
  80. [ ] Define what is meant by a pure substance, and describe their common properties, including melting and boiling points, hardness and density.
  81. [ ] State and compare the characteristics of homogeneous and heterogeneous substances.
  82. [ ] Distinguish between pure substances (elements and compounds), homogeneous mixtures and heterogeneous mixtures.
