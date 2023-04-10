@@ -3,7 +3,7 @@ tags: meta
 title: "spicata [dot] github [dot] io"
 aliases:
 - "spicata [dot] github [dot] io"
-layout: new
+layout: simple
 ---
 
 ## elevator

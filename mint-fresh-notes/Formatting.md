@@ -1,5 +1,6 @@
 ---
 tags: Obsidian
+layout: simple
 ---
 
 # Formatting
@@ -30,6 +31,8 @@ Things can be **bold**, or *italics*, sometimes ~~deleted~~.
 ```
 Code blocks!
 ```
+
+`inline code` too
 
 > [!Success] Obsidian’s callouts
 > are very cool to say the least

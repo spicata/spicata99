@@ -3,6 +3,6 @@ tags:
 title: "{{title}}"
 aliases:
 - ""
-layout: new
+layout: simple
 ---
 
