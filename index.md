@@ -1,21 +1,19 @@
 ---
 tags: meta 
-title: "spicata [dot] github [dot] io"
+title: "the (almost) plaintext website"
 aliases:
-- "spicata [dot] github [dot] io"
+- "the (almost) plaintext website"
 layout: simple
 ---
 
-## elevator
+## quicklinks
 
 - 3: the bank
 - 2: [xob](xkcdob/index.md)
 - 1: [mint fresh notes](mint-fresh-notes/index.md)
 - 0: [spicata [dot] github [dot] io](index.md)
 
----
-
-## spicata [dot] github [dot] io
+## content
 
 welcome to the ground floor of the spicata [dot] github [dot] io complex, [a proud member of the the town](theTown.md)! this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
 
@@ -23,8 +21,6 @@ seasons:
 
 - [season one rambles](rambleOne.md)
 - [season one and a half rambles](oneHalfRambles.md)
-
----
 
 collections:
 
