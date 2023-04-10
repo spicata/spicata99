@@ -72,7 +72,7 @@ layout: new
      1. [ ] generally high melting and boiling points.
  54. [ ] Describe a covalent bond as a shared pair of electrons, resulting in electrostatic attraction between positive nuclei of the atoms and the shared electron pair.
  55. [ ] Draw Lewis structures for covalent molecules, showing both bonding pairs and lone pairs of electrons.
- 56. [ ] Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions.
+ 56. [ ] Use the valence shell electron pair repulsion (VSEPR) theory along with Lewis structures to explain, predict and draw the shapes of molecules and polyatomic ions. [link](https://pi-thagoras.github.io/the-chicken-pen/Intermolecular-Forces.html)
  57. [ ] Explain the physical properties of covalent molecular substances, including:
      1. [ ] low melting and boiling points
      1. [ ] non-conductivity
@@ -94,8 +94,8 @@ layout: new
  68. [ ] Compare the relative strength of ionic, covalent and metallic bonding with intermolecular forces.
  69. [x] Recognise that intermolecular forces are present in all substances, but are most significant in discussion of the properties of covalent molecular substances, due to the lack of any stronger interactions between molecules. [link](intermol.md)
  70. [x] Describe how dispersion forces arise in all substances, and explain how molecular shape, and number of atoms affect the strength of dispersion forces. [link](intermol.md)
- 71. [x] Use knowledge of electronegativity to establish bond polarity. [link](intermol.md)
- 72. [x] Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. [link](intermol.md)
+ 71. [x] Use knowledge of electronegativity to establish bond polarity. [link](intermol.md) [link](https://pi-thagoras.github.io/the-chicken-pen/Intermolecular-Forces.html)
+ 72. [x] Use understanding of molecular shape, bond polarity and symmetry to establish and explain the polarity of molecules. [link](intermol.md) [link](https://pi-thagoras.github.io/the-chicken-pen/Intermolecular-Forces.html)
  73. [x] Describe how dipole-dipole forces arise, and explain how the relative size of a molecular dipole affects the strength of dipole-dipole forces. [link](intermol.md)
  74. [ ] Describe how hydrogen bonding arises, end explain why this special case of dipole-dipole bonding is so much stronger than other examples of dipole-dipole bonding.
  75. [ ] Draw diagrams to show how all types of intermolecular forces occur between neighbouring molecules.
