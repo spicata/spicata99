@@ -3,7 +3,7 @@ tags:
 title: "xob season 2"
 aliases:
 - "xob season 2"
-layout: new
+layout: simple
 ---
 
 ## revenge
@@ -21,3 +21,7 @@ layout: new
 ## game
 
 ![game](assets/game.png)
+
+## transparent
+
+![transparent](assets/transparent.png)
