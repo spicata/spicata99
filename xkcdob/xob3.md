@@ -17,3 +17,7 @@ layout: simple
 ## OOM
 
 ![oom](assets/oom.png)
+
+## quarks
+
+![quarks](assets/quarks.png)
