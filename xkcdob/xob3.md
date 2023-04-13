@@ -13,3 +13,7 @@ layout: simple
 ## viewership
 
 ![viewers](assets/viewers.png)
+
+## OOM
+
+![oom](assets/oom.png)
