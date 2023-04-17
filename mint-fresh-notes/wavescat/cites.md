@@ -19,3 +19,6 @@ layout: new
 - https://en.wikipedia.org/wiki/Medical_ultrasound
 - https://en.wikipedia.org/wiki/Piezoelectricity
 - https://radiologykey.com/physics-of-ultrasound-2/
+- https://byjus.com/snells-law-formula/
+- https://www.radiology.ca/article/how-does-ultrasound-work/
+- https://science.howstuffworks.com/ultrasound6.htm
