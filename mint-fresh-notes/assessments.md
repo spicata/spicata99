@@ -13,3 +13,4 @@ assessments ([a note on assessments](noteAssess.md)):
 - [jekyll and hyde](jandh/index.md)
 - [the chemistry notes](chem11/index.md)
 - [waves cap for physics](wavescat/index.md)
+- [creative writing for literature](litCreate/index.md)
