@@ -3,6 +3,7 @@ tags:
 title: "creative writing for literature"
 aliases:
 - "creative writing for literature"
+- "literature creative"
 layout: simple
 ---
 
@@ -11,12 +12,3 @@ it was a dark night, the full moon in the sky illuminating all around, yet the b
 one peculiar day , howver, he canme to notice a rather heavy footsteps, one of tremednous weight in, lingigingring/hagning in the cold winterish air. alone in the seas of quietude,. and it was hthis combinaition that sent his curisoity into overdrive. questions raced in his head : "who else could that ebe in this dead of the night?". quick ratioanalisations filled his head, possibily it was just a patrolling officer , who chanced to apepar here in this specific time and day. but the footsetteps still layed uneasy with huim, ad he would acarry this unease until the bed,.
 
 the floorbaoards creakedunder his weight as he creeped through the house, and i echoed throught the corrider. all of it was quiet, until the deep pounding of the once-heard footsepts returned, but  only closer and lourder this time.
-
-1. a
-1. a
-1. a
-1. a
-    - a
-    - a
-1. a
-1. a

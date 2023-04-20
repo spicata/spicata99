@@ -21,3 +21,7 @@ layout: simple
 ## quarks
 
 ![quarks](assets/quarks.png)
+
+## the degradation of not only my own mental health and sanity but also the degradation of my trust and hope in humanity :'-(
+
+![cry](assets/cry.png)
