@@ -22,6 +22,6 @@ layout: simple
 
 ![quarks](assets/quarks.png)
 
-## the degradation of not only my own mental health and sanity but also the degradation of my trust and hope in humanity :'-(
+## [the degradation of not only my own mental health and sanity but also the degradation of my trust and hope in humanity :'-(](crymeme.md)
 
 ![cry](assets/cry.png)

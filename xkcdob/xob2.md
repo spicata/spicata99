@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "xob season 2"
+title: "xob 2: shanmei x edward saga (shan mei approved)"
 aliases:
-- "xob season 2"
+- "xob 2: shanmei x edward saga (shan mei approved)"
 layout: simple
 ---
 
