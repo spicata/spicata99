@@ -25,3 +25,7 @@ layout: simple
 ## transparent
 
 ![transparent](assets/transparent.png)
+
+## bribe
+
+![bribe](assets/bribe.png)
