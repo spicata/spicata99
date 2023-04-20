@@ -29,3 +29,7 @@ layout: simple
 ## kill me
 
 ![killme](assets/killme.png)
+
+## weak
+
+![weak](assets/weak.png)
