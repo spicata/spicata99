@@ -18,3 +18,4 @@ layout: new
 - [xob season 1](xob1.md)
 - [xob 2: the shan-mei x ed saga](xob2)
 - [xob 3](xob3.md)
+- [xob 4: amnesiac](xob4.md)

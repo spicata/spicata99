@@ -18,3 +18,5 @@ layout: simple
     ![](../../assets/huygenCancer.png)
 
 - Key point: Using Huygen's principle, we are able to predict how waves interact with objects, whether that be through refraction, reflection, or diffraction. For these interactions, we can assume that a secondary wavelet is formed at the point of 'impact'. Using this, we are able to predict how a wave may behave. With refraction, the change in the speed of the wave allows us to calculate which way a wave will bend when entering a new medium. With reflection, we can predict how it reflects (abides by the law of reflection).
+
+    ![](../../assets/geoHuygen.png)
