@@ -3,7 +3,7 @@ tags:
 title: "ultrasound imaging"
 aliases:
 - "ultrasound imaging"
-layout: new
+layout: simple
 ---
 
 - Most of the time, not all of the energy will be reflected. Instead, some if it will be reflected back. This is what happens in ultrasound imaging. By the law of reflection, we know that $\theta_{i}=\theta_{r}$. So, we can use this. This is an echo. This can be interpreted by a computer, and create an image. The most common usage of this is getting an image of a fetus (to check normal development). 

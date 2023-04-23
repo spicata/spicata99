@@ -3,7 +3,7 @@ tags:
 title: "snell's law"
 aliases:
 - "snell's law"
-layout: new
+layout: simple
 ---
 
 - Snell's law can determine the angle of refraction.

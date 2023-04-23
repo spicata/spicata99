@@ -3,7 +3,7 @@ tags:
 title: "huygen's principle"
 aliases:
 - "huygen's principle"
-layout: new
+layout: simple
 ---
 
 - Light (and other EMRs) act like waves
