@@ -7,9 +7,10 @@ layout: new
 ---
 
 - [huygen's principle](huygen.md)
-    - [huygen's principle splained.](huygenSplain.md)
+    - [huygen's principle splained](huygenSplain.md)
 - [snell's law](snells.md)
     - [snells law explainer](snellsExplainer.md)
 - [ultrasound imaging](ultrasound.md)
     - [ultrasound imaging (but better)](ultraBetter.md)
+- [full](full.md)
 - [cites](cites.md)

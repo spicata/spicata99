@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "huygen's principle splained."
+title: "huygen's principle splained"
 aliases:
-- "huygen's principle splained."
+- "huygen's principle splained"
 layout: simple
 ---
 
