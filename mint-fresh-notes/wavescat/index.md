@@ -11,4 +11,5 @@ layout: new
 - [snell's law](snells.md)
     - [snells law explainer](snellsExplainer.md)
 - [ultrasound imaging](ultrasound.md)
+    - [ultrasound imaging (but better)](ultraBetter.md)
 - [cites](cites.md)
