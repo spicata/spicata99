@@ -12,5 +12,5 @@ layout: new
     - [snells law explainer](snellsExplainer.md)
 - [ultrasound imaging](ultrasound.md)
     - [ultrasound imaging (but better)](ultraBetter.md)
-- [full](full.md)
+- [Waves Investigation Report](Waves%20Investigation%20Report.md)
 - [cites](cites.md)
