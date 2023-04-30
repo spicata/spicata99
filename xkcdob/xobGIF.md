@@ -13,3 +13,5 @@ layout: simple
 ![middle](assets/gif/middle.gif)
 
 ![shoot](assets/gif/shoot.gif)
+
+![lostit](assets/gif/lostit.gif)
