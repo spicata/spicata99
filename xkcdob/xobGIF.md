@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "xob GIF"
+title: "the GIFs"
 aliases:
-- "xob GIF"
+- "the GIFs"
 layout: simple
 ---
 

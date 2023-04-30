@@ -20,4 +20,4 @@ layout: new
 - [xob 3](xob3.md)
 - [xob 4](xob4.md)
 - [xob NSFW](xobNSFW.md)
-- [xob GIF](xobGIF.md)
+- [the GIFs](xobGIF.md)
