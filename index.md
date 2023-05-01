@@ -14,6 +14,8 @@ layout: simple
 
 ## content
 
+[why is it plaintext?](plaintext)
+
 welcome to the ground floor of the spicata [dot] github [dot] io complex, [a proud member of the the town](theTown.md)! this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
 
 - [season one rambles](rambleOne.md)
