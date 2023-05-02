@@ -6,4 +6,6 @@ aliases:
 layout: simple
 ---
 
-aaAaaa
+hedda beans
+
+- [tutor notes](bnotes.md)

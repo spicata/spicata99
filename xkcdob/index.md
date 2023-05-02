@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "xkcd on budget"
+title: "xob"
 aliases:
-- "xkcd on budget"
+- "xob"
 layout: new
 ---
 
