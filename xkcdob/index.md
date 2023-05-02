@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "xob"
+title: "xkcd on budget"
 aliases:
-- "xob"
+- "xkcd on budget"
 layout: new
 ---
 
@@ -14,6 +14,9 @@ layout: new
 - 0: [spicata [dot] github [dot] io](../index.md)
 
 ---
+
+point 1: xob is the first result when you search up 'xkcdob' (old name) on bing. oops  
+point 2: bing-gpt knows of x
 
 - [xob season 1](xob1.md)
 - [xob 2: the shan-mei x ed saga](xob2)
