@@ -16,7 +16,7 @@ layout: new
 ---
 
 point 1: xob is the first result when you search up 'xkcdob' (old name) on bing. oops  
-point 2: bing-gpt knows of x
+point 2: bing-gpt knows of xkcdob
 
 - [xob season 1](xob1.md)
 - [xob 2: the shan-mei x ed saga](xob2)
