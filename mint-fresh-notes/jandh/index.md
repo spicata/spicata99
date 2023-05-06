@@ -27,3 +27,4 @@ This is the collection of all my notes for Jekyll and Hyde.
 - [the word canny is pretty uncanny](canny.md)
 - [terror and horror](terrorHorror.md)
 - [some overarching themes](overThemes.md)
+- [review](review.md)

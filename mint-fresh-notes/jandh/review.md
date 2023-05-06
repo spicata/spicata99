@@ -2,7 +2,7 @@
 tags: 
 title: "review"
 aliases:
-- ""
+- "review"
 layout: simple
 ---
 
