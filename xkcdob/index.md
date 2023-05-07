@@ -22,5 +22,6 @@ point 2: bing-gpt knows of xkcdob
 - [xob 2: the shan-mei x ed saga](xob2)
 - [xob 3](xob3.md)
 - [xob 4](xob4.md)
+- [xobs in reference to shanmei lore](xobLore.md)
 - [xob NSFW](xobNSFW.md)
 - [the GIFs](xobGIF.md)
