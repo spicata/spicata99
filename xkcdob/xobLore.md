@@ -18,3 +18,5 @@ this is what everyone else is doing:
 ![icamp](assets/icamp.png)
 
 ![imath](assets/imath.png)
+
+![icounsel](assets/icounsel.png)
