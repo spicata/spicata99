@@ -9,7 +9,6 @@ layout: new
 ## quick directory
 
 - [M.spicata](https://spicata.github.io/)
-- [Edward](https://eddietheed.github.io/obsidiannotes-v.3/)
 - [not mario](https://notmario.github.io/thenotes/)
 - Mace, offline for now
 - [Anonymous](https://anonymoof1528.github.io/into-the-shadow-garten/)
@@ -28,8 +27,6 @@ Did you know that the Plains of Infinite Knowledge looks different for everyone?
 Of course though, there are always different ways of getting the information stored there. You can always visit the superhighways of the city, some are really quick, and some like to take a rather scenic route. It's a wonderful place, a thriving metropolis of an insane wealth of knowledge. It is incredible how much stuff they are able to siphon from the plains. But I fear them, because of their restricted trading partners and their almost slavish agreements, as well as their audacity to find loopholes to keep your time, money, and data. It's simply not my style.
 
 So that's why I made this town. I cam here, to the desert scrap that we are all condemned to, plagued by twisters and sandstorms, and built a small house. That house, sadly does not exist, for I have demolished it, but the complex you find yourself in is built on the very foundations of that old home, albeit it with a little bit more concrete and a cellar. This ground floor is usually where I stay, and you can listen to me ramble and rant. But I'm sure you are busy; you want the information that I have got from the plains. Luckily for you, i house a greenhouse on the 1st level. Some of the Plants of Wisdom are cultivated there. You might also be able to find my map around there. Above that is for people who want some fun, my very own comic strip! It's called xob, pronounced zob, and currently it has a little bit of a story going on. I always have an open door policy, so feel free to come in any time, it will always be free of charge.
-
-[Of course, along the way, I pestered Edward about having no house, so much so that he decided to settle down right next to mine](https://eddietheed.github.io/obsidiannotes-v.3/). Now, he's the second oldest member of the town and also the mayor. He's a great chemist, he always has entertaining things to say, and his pasta is ... okay. Also, if you come into the town and notice that his house is missing, it's probably cause he's burnt it down again.
 
 Legend speaks of two other members of the town who have been here since near the start. That is true, and I know it because I was there. Before the town, we had a slightly less organised organisation with a similar concept to the Town called the 'Notes Coalition'.
 
