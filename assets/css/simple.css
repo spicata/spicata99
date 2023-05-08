@@ -9,52 +9,20 @@ body {
     padding: 1em;
 }
 
-h1::before,
-h2::before,
-h3::before,
-h4::before,
-h5::before,
-h6::before {
-    content: "# ";
-}
-
 a {
     color: #f4dbd6;
-}
-
-a::before {
-    content: '[[';
-}
-
-a::after {
-    content: ']]';
 }
 
 em {
     color: #ed8796;
 }
 
-em::before,
-em::after {
-    content: '*';
-}
-
 strong {
     color: #eed49f;
 }
 
-strong::before,
-strong::after {
-    content: '**';
-}
-
 del {
     color: #8087a2;
-}
-
-del::before,
-del::after {
-    content: '~~';
 }
 
 blockquote {
@@ -63,33 +31,16 @@ blockquote {
     background-color: #1e2030;
 }
 
-blockquote > p::before {
-    content: '> ';
-}
-
 pre {
     margin: 1em 0;
     padding: 5px;
     background-color: #1e2030;   
 }
 
-pre::before{
-    content: '```\A';
-}
-
-pre::after {
-    content: '```';
-}
-
 code {
     margin: 1em 0;
     padding: 2px;
     background-color: #1e2030;
-}
-
-p > code::before,
-p > code::after {
-    content: '`';
 }
 
 img {
