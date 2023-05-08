@@ -1,5 +1,4 @@
 ---
-tags: 
 title: "{{title}}"
 aliases:
 - ""
