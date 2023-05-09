@@ -25,3 +25,4 @@ point 2: bing-gpt knows of xkcdob
 - [xob NSFW](xobNSFW.md)
 - [the GIFs](xobGIF.md)
 - [xob 5](xob5.md)
+- [xob story: revolution](xobrevolution.md)
