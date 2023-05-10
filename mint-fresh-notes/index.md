@@ -33,6 +33,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [the accursed loop investigation](loopsInvestigation.md)
 - [a pulse onto a fixed end](waveOnRope.md)
 - [chinese resources](chineseRes.md)
+- [methods exam for sem 1](mathExam/index.md)
 
 ---
 
@@ -46,3 +47,5 @@ assessments ([a note on assessments](noteAssess.md)):
 - [eleven physics cap 1](ePhyCap1/index.md)
 - [jekyll and hyde](jandh/index.md)
 - [the chemistry notes](chem11/index.md)
+- [waves cap for physics](wavescat/index.md)
+- [creative writing for literature](litCreate/index.md)
