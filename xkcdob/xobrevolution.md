@@ -24,3 +24,15 @@ layout: simple
 ## the irs is very scary
 
 ![taxevasion](assets/revolution/taxevasion.png)
+
+## can't see him
+
+![bump](assets/revolution/bump.png)
+
+## a slight interruption
+
+![interrupted](assets/revolution/interrupted.png)
+
+## resorting to violence
+
+![throw](assets/revolution/throw.png)
