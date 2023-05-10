@@ -14,3 +14,4 @@ assessments ([a note on assessments](noteAssess.md)):
 - [the chemistry notes](chem11/index.md)
 - [waves cap for physics](wavescat/index.md)
 - [creative writing for literature](litCreate/index.md)
+- [hedda](hedda/index.md)
