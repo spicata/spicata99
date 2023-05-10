@@ -1,8 +1,8 @@
 ---
 tags: meta 
-title: "the (almost) plaintext website"
+title: "spicata.99000000.xyz"
 aliases:
-- "the (almost) plaintext website"
+- "spicata.99000000.xyz"
 layout: simple
 ---
 
@@ -10,7 +10,7 @@ layout: simple
 
 - 2: [xob](xkcdob/index.md)
 - 1: [mint fresh notes](mint-fresh-notes/index.md)
-- 0: [spicata [dot] github [dot] io](index.md)
+- 0: [spicata.99000000.xyz](index.md)
 
 ## content
 

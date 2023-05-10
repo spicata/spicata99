@@ -10,7 +10,7 @@ layout: new
 
 - 2: [xob](index.md)
 - 1: [mint fresh notes](../mint-fresh-notes/index.md)
-- 0: [spicata [dot] github [dot] io](../index.md)
+- 0: [spicata.99000000.xyz](../index.md)
 
 ---
 
