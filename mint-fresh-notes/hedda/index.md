@@ -12,3 +12,5 @@ hedda beans
 - [class notes](cnotes.md)
 - [close reading](closebp.md)
 - [train of thoughts](logicGraphs.md)
+- [victim](victim.md)
+- [the stream](stream.md)
