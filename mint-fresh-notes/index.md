@@ -18,6 +18,14 @@ so... uh... this is the garden. unlike [the store](../index.md), its a little me
 
 here's the catalogue of stuff that's safe to pick from.
 
+## the resources for the exams
+
+- [methods exam for sem 1](mathExam/index.md)
+- [physics exam 1](physExam/index.md)
+- [chem exam](chemExam/index.md)
+
+---
+
 - [stuff about nuclear physics](assets/Nuclear_Decay%20v2.pdf)
 - [ion valency flashcards](assets/Chemistry%20Valency.apkg)
 - [chinese journal](blessedLi.md)
@@ -32,7 +40,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [the accursed loop investigation](loopsInvestigation.md)
 - [a pulse onto a fixed end](waveOnRope.md)
 - [chinese resources](chineseRes.md)
-- [methods exam for sem 1](mathExam/index.md)
+
 
 ---
 
