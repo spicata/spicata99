@@ -27,19 +27,22 @@ del {
 
 blockquote {
     margin: 1em 0;
-    padding: 5px;
+    padding: 5px 1em;
+    border-radius: 3px;
     background-color: #1e2030;
 }
 
 pre {
     margin: 1em 0;
-    padding: 5px;
+    padding: 5px 1em;
+    border-radius: 3px;
     background-color: #1e2030;   
 }
 
 code {
     margin: 1em 0;
     padding: 2px;
+    border-radius: 3px;
     background-color: #1e2030;
 }
 
@@ -47,4 +50,25 @@ img {
     display: block;
     max-width: 100%;
     margin: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid #494d64;
+    border-radius: 3px
+}
+
+th {
+    border: 3px solid #494d64;
+    padding: 2px 5px;
+}
+
+td {
+    border: 3px dotted #494d64;
+    padding: 2px 5px;
+}
+
+hr {
+    color: #494d64;
 }
