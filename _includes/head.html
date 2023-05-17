@@ -10,3 +10,7 @@
 <title>{{ page.title }}</title>
 
 {% include css.html %}
+
+{% if page.latex %}
+    {% include jax.html %}
+{% endif %}
