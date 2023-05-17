@@ -3,6 +3,7 @@ title: "dracula"
 aliases:
 - ""
 layout: simple
+theme: dracula
 ---
 
 ```css

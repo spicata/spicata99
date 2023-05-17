@@ -3,6 +3,7 @@ title: "gruvbox"
 aliases:
 - ""
 layout: simple
+theme: gruvbox
 ---
 
 ```css

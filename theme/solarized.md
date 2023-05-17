@@ -3,6 +3,7 @@ title: "solarized"
 aliases:
 - ""
 layout: simple
+theme: solarized
 ---
 
 ```css

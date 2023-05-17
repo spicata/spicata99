@@ -3,6 +3,7 @@ title: "rich"
 aliases:
 - "rich"
 layout: simple
+theme: ossac
 ---
 
 ```css
