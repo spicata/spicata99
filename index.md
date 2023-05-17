@@ -1,11 +1,13 @@
 ---
-tags: meta 
 title: "spicata.99000000.xyz"
 aliases:
 - "spicata.99000000.xyz"
-- "index"
 - "home"
 layout: simple
+description: "spicata's personal website, storing things such as notes, rants, opinion articles, a little comic strip, and more."
+showdescription: true
+font: sans
+theme: 
 ---
 
 ## quicklinks
