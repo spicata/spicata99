@@ -6,7 +6,7 @@ layout: simple
 description: "The first of my very bad close readings"
 showdescription: true
 font: sans
-theme: 
+theme: solarized
 ---
 
 Children's innocence and the loss of it.
