@@ -1,8 +1,8 @@
 ---
 tags: 
-title: "xkcd on budget"
+title: "xob"
 aliases:
-- "xkcd on budget"
+- "xob"
 layout: new
 ---
 
@@ -27,3 +27,4 @@ point 2: bing-gpt knows of xkcdob
 - [the GIFs](xobGIF.md)
 - [xob 5](xob5.md)
 - [xob story: revolution](xobrevolution.md)
+- [xob: 6](xob6.md)
