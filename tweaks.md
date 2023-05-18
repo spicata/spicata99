@@ -20,3 +20,7 @@ Do you think my website is ugly? If so, uncool. But also, we can change that.
 
 - [Sans-serif](theme/sans.md)
 - [Serif](theme/serif.md)
+
+## Fun
+
+- [Australia mode](theme/australia.md)
