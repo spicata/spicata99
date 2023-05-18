@@ -1,7 +1,7 @@
 ---
 title: "A Markdown Test"
 description: "A little test to test how well you can use markdown"
-showdecription: true
+showdescription: true
 font: sans
 theme: dracula
 ---
