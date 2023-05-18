@@ -3,7 +3,7 @@ title: "buggies"
 aliases:
 - ""
 layout: simple
-description: ""
+description: 
 showdescription: false
 font: 
 theme: 
