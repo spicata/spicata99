@@ -13,7 +13,7 @@ Do this on paper:
     title: "The test"  
     date: (put the date made here)
 
-- [ ] Write a Heading 1 and Heading 2 table
+- [ ] Write a Heading 1 and Heading 2
 - [ ] Write some bold text and some italic text (and some bold-italics text)
 - [ ] Strikethrough some text
 - [ ] Make an unordered list
