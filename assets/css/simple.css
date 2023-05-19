@@ -71,5 +71,21 @@ td {
 
 hr {
     color: #494d64;
+    border-top: 2px solid;
+}
+
+.description {
+    font-style: italic;
+}
+
+.description > p {
+    margin-top: 0px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.descript {
     border-top: 5px solid;
 }
