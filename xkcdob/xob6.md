@@ -10,9 +10,6 @@ theme:
 latex: 
 ---
 
-## not a xob...
+## screw you 2
 
-![](../assets/newdeathfinal.png)
-
-... but I am very proud of it so I put it here.
-
+![choyu](assets/choyu.png)
