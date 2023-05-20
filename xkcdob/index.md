@@ -1,9 +1,13 @@
 ---
-tags: 
 title: "xob"
 aliases:
 - "xob"
-layout: new
+layout: simple
+description: "A very terrible comic series, kind of based on XKCD but not really."
+showdescription: true
+font: sans
+theme: 
+latex: 
 ---
 
 ## elevator
