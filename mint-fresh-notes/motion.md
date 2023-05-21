@@ -3,7 +3,7 @@ title: "Motion and More"
 aliases:
 - "Motion and More"
 layout: simple
-description: ""
+description: 
 showdescription: false
 font: sans
 theme: 

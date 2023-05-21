@@ -19,3 +19,5 @@ welcome to the town. this is my own narrative on this community:
 
 - [a timeline of the town](history.md)
 - [legis latio](legisLatio.md)
+- [digitalGardens](digitalGardens.md)
+- [moreNotes](moreNotes.md)

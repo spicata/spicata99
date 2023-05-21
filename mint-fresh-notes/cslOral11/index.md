@@ -17,3 +17,5 @@ aliases:
 ---
 
 - [stimulusCL](stimulusCL.md)
+- [manuscript](manuscript.md)
+    - [manuscript](manuscript.pdf)

@@ -35,5 +35,3 @@ a &= 3 \\
 &= 3 \\
 \end{align}
 $$
-
-[Hello there]: #

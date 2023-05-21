@@ -17,3 +17,8 @@ story about being enslaved by your reputation, kind of like jekyll:
 - [heavy hearted](heavy.md)
 - [coffee](coffee.md)
 - [not full](full.md)
+
+---
+
+- [le poop draft](poopDraft.md)
+- [draft one](draftOne.md)

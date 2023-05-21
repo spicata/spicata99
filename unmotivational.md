@@ -9,3 +9,6 @@ season 2 let's go
 
 > *"frederick is my favourite cross dresser"*  
 > multiple people
+
+> *"eh"*  
+> jorgen, way too many times

@@ -28,3 +28,7 @@ This is the collection of all my notes for Jekyll and Hyde.
 - [terror and horror](terrorHorror.md)
 - [some overarching themes](overThemes.md)
 - [review](review.md)
+
+---
+
+- [quote analysis](quoteAnal.md)

@@ -14,3 +14,5 @@ hedda beans
 - [train of thoughts](logicGraphs.md)
 - [victim](victim.md)
 - [the stream](stream.md)
+- [classNotes](classNotes.md)
+- [manuscript](manuscript.md)

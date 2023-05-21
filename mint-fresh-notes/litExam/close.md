@@ -11,4 +11,6 @@ theme: solarized
 
 Children's innocence and the loss of it.
 
-When we are children, it is easy to fall into the trap that we are invincible. However, as seen in *In Childhood* by Kimiko Hahn, this illusion quickly wears off, and a child's innocence is lost, as they come to terms with their newer reality...
+When one is a child, it is easy to believe that the factors around them are immutable and unchanging, and that the world will continue as it has before. However, we come to learn that this idea is untrue, a development that is explored in Kimiko Hahn's poem *In Childhood*. Through a close analysis of the poem, we learn of the loss of innocence in children. In particular, we learn of the realisation of life's impermanence through textual allusions.
+
+blah blah blah "remains dead ... wolf's belly" blah blah alludes to the little red riding hood, a common children's fairytale. blah blah shows the disillusionment as children comes to terms with reality.

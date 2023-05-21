@@ -8,7 +8,7 @@ layout: new
 
 ## quick directory
 
-- [M.spicata](https://spicata.github.io/)
+- [M.spicata](https://spicata.99000000.xyz/)
 - [not mario](https://notmario.github.io/thenotes/)
 - Mace, offline for now
 - [Anonymous](https://anonymoof1528.github.io/into-the-shadow-garten/)
