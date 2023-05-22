@@ -13,3 +13,11 @@ latex:
 ## screw you 2
 
 ![choyu](assets/choyu.png)
+
+## tophat(e)
+
+![tophat](assets/tophat.png)
+
+## language barriers
+
+![barriers](assets/barriers.png)
