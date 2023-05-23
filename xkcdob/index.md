@@ -35,3 +35,4 @@ Meet the cast:
 - [xob 5](xob5.md)
 - [xob story: revolution](xobrevolution.md)
 - [xob: 6](xob6.md)
+- [xob conspiracies](conspiracies.md)

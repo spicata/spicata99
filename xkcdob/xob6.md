@@ -21,3 +21,7 @@ latex:
 ## language barriers
 
 ![barriers](assets/barriers.png)
+
+## popsicle
+
+![creme](assets/creme.png)
