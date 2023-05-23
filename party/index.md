@@ -10,6 +10,10 @@ theme: dracula
 latex: 
 ---
 
+![](../assets/thomas-han.png)
+
+"Thomas", the mascot of the Party Party
+
 The Party Party is *the* political party for the town. I hope to unite all members of the town under one unified banners, so that we may all grow together, instead of continuously fighting each other to claw for power, and to push our ideas. In essence, what we just want to do is to sit back and relax; the Town should not be this political battleground, it should be this chill place where we can hang out.
 
 ## A Party is Party
