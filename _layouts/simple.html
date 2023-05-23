@@ -11,7 +11,7 @@
     {% endif %}
     {% if page.showdescription %}
       <div class="description">
-        <p>{{ page.description }}</p>
+        <p>{{ page.description | markdownify }}</p>
       </div>
     {% endif %}
     <hr class="descriptionbar">
