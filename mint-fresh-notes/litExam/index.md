@@ -17,3 +17,7 @@ latex:
 - [class](class.md)
 - [litExam](litExam.md)
 - [Close Readings?!](closexplained.md)
+- [Close Analysis I guess](closeAnalysis.md)
+- [Course Concepts](courseconcepts.md)
+- [rant](rant.md)
+- [terminology](terminology.md)
