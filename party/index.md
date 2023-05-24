@@ -22,7 +22,7 @@ Our first --- and original --- policy was that, if I were to get elected into ma
 
 I think it'll be fun. And I think it will be nice too.
 
-((i mean to celebrate by this. i bet half of us are too lazy to go outside.))
+((i mean to celebrate by this. i bet half of us are too lazy to go outside. i know i am. i guess the people who do want a physical party can make a party--party-approved party.))
 
 ## A Party for Progress
 
