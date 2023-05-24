@@ -34,7 +34,7 @@ Chief among them is a new immigration policy. Under Shan-mei's rule, we got an i
 
 ### The New Immigration Policy
 
-You need just two people to back you in order to join the Town. It is that simple, just 2. In case you need help, one of these people will be tasked with helping you set up your website, and the other person (preferably more experienced) will supervise. Everything will (hopefully) be dealt with within this system of helpers.
+You need just three people to back you in order to join the Town. It is that simple, just 3. In case you need help, one of these people will be tasked with helping you set up your website, and the other two (preferably more experienced) will supervise. Everything will (hopefully) be dealt with within this system of helpers.
 
 ## A Party of People
 
