@@ -55,3 +55,5 @@ It would once again be nice to bring the Town back into an era of peace, where w
 This is what the Party Party wishes to do. We want to Party, and we to have Peace (as well as some progress). And if you agree, the best way to ensure that would be to vote for the Party Party. In most organisations, your votes don't really matter, but in the Town, a single vote counts for 6.25% of the entire vote, which is quite a substantial amount.
 
 Every vote for peace and party counts.
+
+((just for clarification, because EDWARD is bound to bring it up, i am leading this, and this will vote me into mayo))
