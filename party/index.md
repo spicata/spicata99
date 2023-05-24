@@ -22,6 +22,8 @@ Our first --- and original --- policy was that, if I were to get elected into ma
 
 I think it'll be fun. And I think it will be nice too.
 
+((i mean to celebrate by this. i bet half of us are too lazy to go outside.))
+
 ## A Party for Progress
 
 I also believe that, under both Edward's rules and Shan-mei's rule, not much progress has been made. They both said that they would install big changes, but nothing much has happened. 
