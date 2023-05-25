@@ -3,7 +3,7 @@ tags:
 title: "xob season 1"
 aliases:
 - "xob season 1"
-layout: new
+layout: simple
 ---
 
 ## heads
