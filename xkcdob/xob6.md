@@ -25,3 +25,15 @@ latex:
 ## popsicle
 
 ![creme](assets/creme.png)
+
+## an apple in a cube?
+
+![apple](assets/apple.png)
+
+## trying to be apolitical >:-(
+
+![angy](assets/angy.png)
+
+## fine
+
+![visible](assets/visible.png)
