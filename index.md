@@ -14,7 +14,7 @@ theme:
 
 - 4: [So, you want a website...](web/index.md)
 - 3: [my stories about the town](towns/index.md)
-- 2: [xob](xkcdob/index.md)
+- 2: [xob](xob.md)
 - 1: [mint fresh notes](mint-fresh-notes/index.md)
 - 0: [spicata.99000000.xyz](index.md)
 
