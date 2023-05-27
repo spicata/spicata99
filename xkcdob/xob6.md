@@ -37,3 +37,7 @@ latex:
 ## fine
 
 ![visible](assets/visible.png)
+
+## followup
+
+![followup](assets/followup.png)
