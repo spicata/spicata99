@@ -24,6 +24,7 @@ here's the catalogue of stuff that's safe to pick from.
 - [methods exam for sem 1](mathExam/index.md)
 - [physics exam 1](physExam/index.md)
 - [chem exam](chemExam/index.md)
+    - [for the chem exam](forchem.md)
 
 ---
 
