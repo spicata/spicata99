@@ -4,15 +4,7 @@ title: "the garden outside"
 aliases:
 - "the garden outside"
 - "mint fresh notes"
----
-
-## elevator
-
-- 3: [my stories about the town](../towns/index.md)
-- 2: [xob](../xob.md)
-- 1: [mint fresh notes](../mint-fresh-notes/index.md)
-- 0: [spicata.99000000.xyz](../index.md)
-
+navigation: true
 ---
 
 so... uh... this is the garden. unlike [the store](../index.md), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.

@@ -8,6 +8,7 @@ description: "spicata's personal website, storing things such as notes, rants, o
 showdescription: true
 font: sans
 theme: 
+navigation: true
 ---
 
 ## quicklinks

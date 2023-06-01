@@ -8,6 +8,7 @@ showdescription: true
 font: sans
 theme: 
 latex: 
+navigation: true
 ---
 
 It has come to my attention that most people both in the town and trying to join the town has no clue how the stuff they actually use works, and so I will explain most of it here.
