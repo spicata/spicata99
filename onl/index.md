@@ -8,6 +8,7 @@ showdescription: true
 font: sans
 theme: 
 latex: 
+navigation: true
 ---
 
 only nine lives is a gimmick. but ... uh ... apparently it's hard to not die 9 times i guess.
