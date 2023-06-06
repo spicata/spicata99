@@ -8,6 +8,7 @@ showdescription: false
 font: 
 theme: 
 latex: 
+navigation: true
 ---
 
 I am one to mess with his computer a lot. As a result, I also end up completely destroying my computer a lot and having to restart. Since most of my work is on my computer, I need a way to redo everything as fast as possible. Of course, I'm presuming that you also may need to do this.
