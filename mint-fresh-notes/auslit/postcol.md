@@ -33,4 +33,28 @@ latex:
     - also postcol identity is dynamic i.e. affected by both native and col cultures (a syncretism)
     - but also finding native identity is a matter of identity and purpose + resisting col culture. (nativism/nationalism)
 - parallels feminism (+ postcol women)
+- cultural imperialism - the way that the culture of a colonised societies become imitations of the colonial power
+    - is postcol itself a part of cultural imperalism?
+    - the people who write it is definitely educated, not part of the people with inferior status
+- or a focus on "unspoken, unrepresented pasts that haunt the historical present" (Bhabha)
 
+## common topics:
+
+- native and colonial first encounter + disruption of culture
+- eu person journey w/ native guide
+- othering + oppression
+- mimicry
+- exile (from own land)
+- post-independent excitement -> disillusion
+- struggle of culture identity (+ alienation, unhomeliness, double vision, hybridity).
+- continuing native past + self-definition
+
+## q's to ask
+
+- how does text represent aspects of col oppression ++political/cultural oppression overlaps
+- what does it reveal about problem of postcol indentity? personal-cultural + double vision & hybridity
+- revealing bout politics + psychology of anti-col resistance?
+- operations of cultural diff
+- responding to character/topics/assumptions of colonialist work?
+- similarites between different postcol populations?
+- text in western canon reinforce or undermine col ideology?
