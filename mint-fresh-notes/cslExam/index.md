@@ -11,3 +11,4 @@ latex:
 ---
 
 - [technology for CSL](tech.md)
+- [review the exam](review.md)

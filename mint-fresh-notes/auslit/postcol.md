@@ -58,3 +58,9 @@ latex:
 - responding to character/topics/assumptions of colonialist work?
 - similarites between different postcol populations?
 - text in western canon reinforce or undermine col ideology?
+
+## flow... chart?
+
+- in order to subjugate → they are different → i.e. less human → othering → subjugate
+- thus, eu society used the savagery of natives as a justification
+- racism and classism and sexism as a means of othering

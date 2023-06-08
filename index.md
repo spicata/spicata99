@@ -11,19 +11,8 @@ theme:
 navigation: true
 ---
 
-## content
+Hey there! I honestly have no damn clue what to put here, so, uh. Yeah. 
 
-[why is it plaintext?](plaintext)
-
-[--> change what the website looks like <--](tweaks.md)
-
-welcome to the ground floor of the spicata [dot] github [dot] io complex, [a proud member of the the town](theTown.md)! this is where i store all my published thoughts and other miscellaneous content. if you want something else, check the floors above.
-
-- [season one rambles](rambleOne.md)
-- [season one and a half rambles](oneHalfRambles.md)
-- story 1: [cover n check chronicles](coverCheckChronicles.md)
-- hey!: [dear this person x](dearX.md)
-- do it: [challenges](challenges.md)
-- themes: [themes round 2](themes.md)
-- quotes: [unmotivational quotes (round 2)](unmotivational.md)
-- books: [my book list](booklist.md)
+- new quality of website? [bad](bad.md)
+- i = bozo: [bad expectations](badexpectations.md)
+- what are you saying man: [words that people say](wordspplsay.md)

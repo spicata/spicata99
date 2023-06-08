@@ -21,3 +21,4 @@ latex:
 - [Course Concepts](courseconcepts.md)
 - [rant](rant.md)
 - [terminology](terminology.md)
+- [jekyll and hyde](jekyllhyde.md)
