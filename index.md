@@ -13,6 +13,6 @@ navigation: true
 
 Hey there! I honestly have no damn clue what to put here, so, uh. Yeah. 
 
-- new quality of website? [bad](bad.md)
-- i = bozo: [bad expectations](badexpectations.md)
-- what are you saying man: [words that people say](wordspplsay.md)
+- new quality of website? [bad](bad)
+- i = bozo: [bad expectations](badexpectations)
+- what are you saying man: [words that people say](wordspplsay)

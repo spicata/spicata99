@@ -5,9 +5,6 @@ aliases:
 - "the garden outside"
 - "mint fresh notes"
 navigation: true
-layout: old
-description: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbbbbbbb cccccccccccccccccccccccc"
-showdescription: true
 ---
 
 so... uh... this is the garden. unlike [the store](../index.md), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
