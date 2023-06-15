@@ -13,3 +13,4 @@ latex:
 This is what we will study, so this is what I'll write about.
 
 - [Postcolonialist Theory](postcol.md)
+- [The Stories we can use](booklist.md)

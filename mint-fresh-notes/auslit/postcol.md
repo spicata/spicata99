@@ -37,6 +37,11 @@ latex:
     - is postcol itself a part of cultural imperalism?
     - the people who write it is definitely educated, not part of the people with inferior status
 - or a focus on "unspoken, unrepresented pasts that haunt the historical present" (Bhabha)
+- racism breaks corporeal schema (ourselves as physical presences) → racial epidermal schema (just a black body) #danger
+    - ‘not only must the black man be black; he must be black in relation to the white man’ (fanon)
+- col > suppress independece
+    - alienates + dominates i.e. attacks very essence of identity
+- ### look at the impact that colonialism has on ppl essentially
 
 ## common topics:
 

@@ -10,7 +10,7 @@ this is season one of my ramblings:
 - helP! [i dunno how to study](iDunno)
   - update: [updating ideas on study](updatingStudyIdeas)
   - huh? [wth](wth.md)
-- funnies: [unmotivational quotes](unmotivational)
+- funnies: [unmotivational quotes](quotes.md)
 - debate: [paper or programs](paperPrograms.md)
 - thought: [beat the timer](beatTheTimer.md)
     - 🍅: [the tomato method 🍅](theTomato.md)
