@@ -91,16 +91,16 @@ h1 {
     border-top: 5px solid;
 }
 
-.box {
-    border: 3px solid #f4dbd6;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 0px 20px;
-    border-radius: 10px;
-    color: #24273a !important;
-    background-color: #f4dbd6;
+/* ------------------------------------------------ */
+
+.headinguno {
+    width: 30%;
+    display: inline-block;
 }
 
-a.boxa {
-    color: #24273a !important;
+.description {
+    display: inline-block;
+    width: 65%;
+    padding-left: 5%;
 }
+

@@ -1,0 +1,19 @@
+---
+title: aaa
+---
+
+{% assign pages = site.pages %}
+{% for page in pages %}
+<div class="box">
+<h2>
+    <a href="{{ page.url }}" class="boxa">
+        {% if page.title %}
+            <h2>{{ page.title }}</h2>
+        {% else %}
+            <h2>{{ page.name | remove: ".md" }}</h2>
+        {% endif %}
+    </a>
+</h2>
+<p>{{ page.content | markdownify | strip_html | truncatewords: 50 }}</p>
+</div>
+{% endfor %}

@@ -19,3 +19,7 @@ navigation: true
 - i am god: [do anything](anything.md)
 - love it: [the power of kanban](kanban.md)
 - official style guide: [The Style Guide (for Mspicata)](styleguide.md)
+- contradiction: [the contradiction](contradiction.md)
+- a [cookie cutter solution](cookie.md)
+- sometimes feel: [insincere](insincere.md)
+- there is a [problem](problem.md)

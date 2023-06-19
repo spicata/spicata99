@@ -10,9 +10,4 @@ theme:
 latex: 
 ---
 
-- [Journal Entry: Death](death.md)
-- [Welcome to the Trans-desert Train](train.md)
-- [Breaking News: Insurgency on the Tracks](insurgent.md)
-- [Death Co. Analysis 3041](debts.md)
-- [Old Tome Entry: Purple](purple.md)
-- [SCARLET](scarlet.md)
+- 
