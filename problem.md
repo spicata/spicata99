@@ -13,7 +13,7 @@ latex:
 the two key issues with the town:
 
 1. the quality of the notes
-2. the competency of web-dev
+2. [the competency of web-dev](webdev.md)
 
 these two are rather lacking. luckily for notionites, they don't need to pay attention to the second point. first one still matters though, so it's what i'm more concerned about, although i know ed has some things to say about the second point.
 

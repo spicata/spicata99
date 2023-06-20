@@ -72,3 +72,5 @@ story time is over, here are the key issues (imo):
 5. overestimation of abilities
 
 none of these are necessarily bad, however, it has led to this general idea that when you don't know, just ask someone better than you. that is a good idea, except it makes it so that the town members end up depending on others rather than figuring it out yourselves.
+
+so, instead of us trying to focus on everyone, we just focus on one.
