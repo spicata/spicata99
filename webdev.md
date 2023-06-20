@@ -10,6 +10,6 @@ theme:
 latex: 
 ---
 
-- [using templates]
+- [using templates](templates.md)
 - not surviving
 - dependence
