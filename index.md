@@ -22,4 +22,4 @@ navigation: true
 - contradiction: [the contradiction](contradiction.md)
 - a [cookie cutter solution](cookie.md)
 - sometimes feel: [insincere](insincere.md)
-- there is a [problem](problem.md)
+- [How to fix the Town](guild)
