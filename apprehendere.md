@@ -1,10 +1,10 @@
 ---
-title: "apprent"
+title: "Apprentices"
 aliases:
 - ""
 layout: simple
-description: 
-showdescription: false
+description: "An idea for how the Guild will learn."
+showdescription: true
 font: 
 theme: 
 latex: 

@@ -14,11 +14,14 @@ latex:
 
 ## Notes
 
-- Working in the Public
+- [Working in the Public](public)
 - Chaining
 
 ## Web-dev
 
-- Struggling
 - Working without the Gun
 - [Apprentice](apprehendere)
+
+## And finally...
+
+- What is the Guild?
