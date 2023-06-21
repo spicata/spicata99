@@ -29,5 +29,6 @@ latex:
 - [Beatrice](https://beatricesychong.wixsite.com/notes) is a new member, but has had a notes website for quite a while now. Joined after a little feud with another organisation, but doesn't say much in the Town.
 - [Claudia](https://cshc.notion.site/cshc/claudia-s-life-planner-c23280690bef46b79adee2d0773c5591). No comment.
 - [Ajay](https://rjdjcool3.github.io/baju-s/) was silent when he joined the Town, a silence that I took personally. He is also another Quartz user >:-/.
+- [Kat](https://coreonett.notion.site/coreonett/Year-11-Notes-6978dbec99e943649a3a0773b2ee0587), the pixel-artist
 
 Wow, I really don't have a lot to say about many of these people.
