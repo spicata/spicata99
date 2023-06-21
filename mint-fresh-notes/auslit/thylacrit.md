@@ -22,8 +22,6 @@ Within play + context, the thylacine → extended metaphor for impact of indigen
 
 ++ sighting of thylacine claimed over years + status as nation icon → allows to be used as symbol of hope, even in the harshest of time. 
 
-A
-
 ---
 
 reference to william blake's *The Tyger* for what effect?
