@@ -8,27 +8,27 @@ layout: new
 
 This is the collection of all my notes for Jekyll and Hyde.
 
-- [draft](themesJekyllAndHyde.md)
-- [robert louis stevenson](rls.md)
-- [two brains and hyde](jahTwoBrain.md)
-- [mirror of victorian](vicMirror.md)
+- [draft](themesJekyllAndHyde)
+- [robert louis stevenson](rls)
+- [two brains and hyde](jahTwoBrain)
+- [mirror of victorian](vicMirror)
 
 > why is hyde feminine  
 > he literally goes around bludgeoning people to death - me
 
-- [freud jekyll and hyde](jahFreud.md)
-- [devolution](devolution.md)
-- [questions for reading jah](questions.md)
-- [gothic](gothic.md)
+- [freud jekyll and hyde](jahFreud)
+- [devolution](devolution)
+- [questions for reading jah](questions)
+- [gothic](gothic)
 
 > i am a little worried for tomorrow :-|
 
-- [twos in jah](twoInJah.md)
-- [the word canny is pretty uncanny](canny.md)
-- [terror and horror](terrorHorror.md)
-- [some overarching themes](overThemes.md)
-- [review](review.md)
+- [twos in jah](twoInJah)
+- [the word canny is pretty uncanny](canny)
+- [terror and horror](terrorHorror)
+- [some overarching themes](overThemes)
+- [review](review)
 
 ---
 
-- [quote analysis](quoteAnal.md)
+- [quote analysis](quoteAnal)

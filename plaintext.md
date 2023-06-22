@@ -16,7 +16,7 @@ unlike other websites, my website has literally no functionality is just text on
 
 ## wysiwyg
 
-on my website, what you see is what you get. there are no secret features or anything else like that. the text you see is literally all there is. of course, there is the occasional image and so, but unless you are in [xob](xob.md), you probably won't see a lot of that either. in a sense, it also mirrors my notes, which essentially also look like this (text on a screen). look here:
+on my website, what you see is what you get. there are no secret features or anything else like that. the text you see is literally all there is. of course, there is the occasional image and so, but unless you are in [xob](xob), you probably won't see a lot of that either. in a sense, it also mirrors my notes, which essentially also look like this (text on a screen). look here:
 
 ![](assets/similarities.png)
 

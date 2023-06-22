@@ -6,15 +6,15 @@ aliases:
 layout: new
 ---
 
-- [huygen's principle](huygen.md)
-    - [huygen's principle splained](huygenSplain.md)
-- [snell's law](snells.md)
-    - [snells law explainer](snellsExplainer.md)
-- [ultrasound imaging](ultrasound.md)
-    - [ultrasound imaging (but better)](ultraBetter.md)
-- [Waves Investigation Report](Waves%20Investigation%20Report.md)
-- [cites](cites.md)
+- [huygen's principle](huygen)
+    - [huygen's principle splained](huygenSplain)
+- [snell's law](snells)
+    - [snells law explainer](snellsExplainer)
+- [ultrasound imaging](ultrasound)
+    - [ultrasound imaging (but better)](ultraBetter)
+- [Waves Investigation Report](Waves%20Investigation%20Report)
+- [cites](cites)
 
 ---
 
-- [review](review.md)
+- [review](review)

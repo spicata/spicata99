@@ -7,15 +7,15 @@ aliases:
 - "speaking"
 ---
 
-- [question bunch one](qBunch1.md)
-- [question bunch 2](qBunch2.md)
-- [question bunch 2 new](qnBunch2.md)
-- [stimulus section old](stimSectionOld.md)
-- [stimulus section](stimSection.md)
-    - [stimulus section edited](stimSectionEdit.md)
+- [question bunch one](qBunch1)
+- [question bunch 2](qBunch2)
+- [question bunch 2 new](qnBunch2)
+- [stimulus section old](stimSectionOld)
+- [stimulus section](stimSection)
+    - [stimulus section edited](stimSectionEdit)
 
 ---
 
-- [stimulusCL](stimulusCL.md)
-- [manuscript](manuscript.md)
+- [stimulusCL](stimulusCL)
+- [manuscript](manuscript)
     - [manuscript](manuscript.pdf)

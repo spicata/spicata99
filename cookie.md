@@ -28,7 +28,7 @@ Quartz is merely a Hugo template. It, in itself, is not an SSG. It is a template
 
 ---
 
-Quartz is a very useful Hugo template coded by [Jacky Zhao](https://jzhao.xyz). The reason it's so popular within the Town is probably because it meshes well with [Obsidian](https://obsidian.md), which is a note-taking app that is widely used in the Town.
+Quartz is a very useful Hugo template coded by [Jacky Zhao](https://jzhao.xyz). The reason it's so popular within the Town is probably because it meshes well with [Obsidian](https://obsidian), which is a note-taking app that is widely used in the Town.
 
 However, this brings me to my belief that, at least in the Town, Quartz has become a cookie-cutter solution (I fear that this might happen to Notion as well). Each one has its own flair, sure, but I don't believe the differences are large enough (except in the case of Edward's website) in order to fully justify not calling it this.
 

@@ -5,6 +5,6 @@ aliases:
 - "testing embedded notes"
 ---
 
-![unmotivational quotes](quotes.md)
+![unmotivational quotes](quotes)
 
 update: it does not work :-/

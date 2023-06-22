@@ -6,4 +6,4 @@ aliases:
 layout: new
 ---
 
-- [veseper](veseper.md)
+- [veseper](veseper)

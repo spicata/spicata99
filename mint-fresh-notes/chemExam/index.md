@@ -5,4 +5,4 @@ aliases:
 layout: simple
 ---
 
-- [checklist](checklist.md)
+- [checklist](checklist)

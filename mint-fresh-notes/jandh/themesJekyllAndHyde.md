@@ -53,7 +53,7 @@ victorian society was very religious, but also decreasingly religious. science w
 
 also, the potion literally changes him.
 
-# [jekyll and hyde: quotebank](jekyllHydeQuotebank.md)
+# [jekyll and hyde: quotebank](jekyllHydeQuotebank)
 
 ## Story of the Door
 

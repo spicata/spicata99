@@ -12,6 +12,6 @@ pog champ
 
 sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg sdfiuhgjlsdfg 
 
-[new themes coming to site?](newThemes.md)
+[new themes coming to site?](newThemes)
 
-[index](index.md)
+[index](index)

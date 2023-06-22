@@ -5,6 +5,6 @@ aliases:
 layout: simple
 ---
 
-- [extra chinese resources](accendChinese.md)
-- [chinese grammar list](chineseGrammar.md)
-- [chinese sentence structure](chineseSS.md)
+- [extra chinese resources](accendChinese)
+- [chinese grammar list](chineseGrammar)
+- [chinese sentence structure](chineseSS)

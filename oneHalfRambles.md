@@ -6,5 +6,5 @@ aliases:
 layout: new
 ---
 
-- [every one else in the aeroplane](elseAirplane.md)
-- [in order to deflect edward's claims](deflection.md)
+- [every one else in the aeroplane](elseAirplane)
+- [in order to deflect edward's claims](deflection)

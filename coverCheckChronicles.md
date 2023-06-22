@@ -9,7 +9,7 @@ i experimented with look, cover, write, check b'cos *p borude* used it, and subs
 
 - thought: [look, cover, write, check](coverCheck)
 - update: [covering is hard?](coverIsHard)
-- talk: [dialogue on cover](coverDialogue.md)
-- crap: [cover and check flopped :-/](coverFlop.md)
-- yo: [find a way to cover n check](findAWay.md)
-- the medical diagnosis: [a diagonsis of where cover n check failed](coverDiagnosis.md)
+- talk: [dialogue on cover](coverDialogue)
+- crap: [cover and check flopped :-/](coverFlop)
+- yo: [find a way to cover n check](findAWay)
+- the medical diagnosis: [a diagonsis of where cover n check failed](coverDiagnosis)

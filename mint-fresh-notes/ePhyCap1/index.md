@@ -8,4 +8,4 @@ layout: new
 
 preparation for the physics cap 1
 
-- [the master list](masterList.md)
+- [the master list](masterList)

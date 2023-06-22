@@ -15,6 +15,6 @@ I am one to mess with his computer a lot. As a result, I also end up completely 
 
 Of course, as these tutorials are mainly for me, they will fit my own 'things', such as how I assume you are using a Debian-based Linux distro and the likes.
 
-- [User Config for Git](usergit.md)
-- [SSH Key on Github](sshgit.md)
-- [Getting Jekyll.rb](jekyll.md)
+- [User Config for Git](usergit)
+- [SSH Key on Github](sshgit)
+- [Getting Jekyll.rb](jekyll)

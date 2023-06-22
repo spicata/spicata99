@@ -10,5 +10,5 @@ theme:
 latex: 
 ---
 
-- [technology for CSL](tech.md)
-- [review the exam](review.md)
+- [technology for CSL](tech)
+- [review the exam](review)

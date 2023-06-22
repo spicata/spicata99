@@ -8,11 +8,11 @@ layout: simple
 
 hedda beans
 
-- [tutor notes](bnotes.md)
-- [class notes](cnotes.md)
-- [close reading](closebp.md)
-- [train of thoughts](logicGraphs.md)
-- [victim](victim.md)
-- [the stream](stream.md)
-- [classNotes](classNotes.md)
-- [manuscript](manuscript.md)
+- [tutor notes](bnotes)
+- [class notes](cnotes)
+- [close reading](closebp)
+- [train of thoughts](logicGraphs)
+- [victim](victim)
+- [the stream](stream)
+- [classNotes](classNotes)
+- [manuscript](manuscript)

@@ -12,8 +12,8 @@ layout: new
 - momentum and impulse
 - work and power
 - collisions
-- [error and uncertainity](../error.md)
-- [varp](../fourCorrectness.md)
+- [error and uncertainity](../error)
+- [varp](../fourCorrectness)
 - sf
 - scalar - vector
 - vector diagrams and fbd

@@ -7,8 +7,8 @@ aliases:
 
 these are my articles directed towards a certain group of people *x*.
 
-- about: [insincere apps](insincereApps.md)
-- regarding: [selective tutors](selectiveTutors.md)
+- about: [insincere apps](insincereApps)
+- regarding: [selective tutors](selectiveTutors)
     - okay mr strawman suck my balls
 
 ![](assets/chad.png)

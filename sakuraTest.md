@@ -36,6 +36,6 @@ Code blocks!
 > [!Success] Obsidian’s callouts
 > are very cool to say the least
 
-[sakura test](sakuraTest.md)
+[sakura test](sakuraTest)
 
-[loopsInvestigation](mint-fresh-notes/loopsInvestigation.md)
+[loopsInvestigation](mint-fresh-notes/loopsInvestigation)

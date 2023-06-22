@@ -10,6 +10,6 @@ aliases:
 
 this is not how we should make the web. of course, having a beautiful back-end is good, but there is no pressure to make it beautiful. and also, us regular people are too poor to make a drawer out of beautiful wood. we'd use plywood.
 
-there is honestly no need to create a perfect website. don't listen to wix, squarespace, or whatever other website builders tell you. also, don't listen to those [company blogs](companyBlogs.md) that say setting up a website is hard. sure, it's hard if you are trying to make some really grand project, but for most, a simple website works well enough. there is no need to make it out of beautiful mahogany, when plywood works.
+there is honestly no need to create a perfect website. don't listen to wix, squarespace, or whatever other website builders tell you. also, don't listen to those [company blogs](companyBlogs) that say setting up a website is hard. sure, it's hard if you are trying to make some really grand project, but for most, a simple website works well enough. there is no need to make it out of beautiful mahogany, when plywood works.
 
 also, there are supposedly many different types of plywood, and many different qualities. it is also supposedly surprisingly durable or something. hell, they even made a plane out of it. if you can use plywood well, you can beat regular wood.

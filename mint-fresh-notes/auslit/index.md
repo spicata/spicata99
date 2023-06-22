@@ -12,9 +12,9 @@ latex:
 
 This is what we will study, so this is what I'll write about.
 
-- [Postcolonialist Theory](postcol.md)
-- [booklist](booklist.md)
-- [thylacine](../thylacine.md)
-- [Thylacine Critical Analysising](thylacrit.md)
-- [grr](grr.md)
+- [Postcolonialist Theory](postcol)
+- [booklist](booklist)
+- [thylacine](../thylacine)
+- [Thylacine Critical Analysising](thylacrit)
+- [grr](grr)
 - [Context about Thylacine](context)

@@ -12,6 +12,6 @@ layout: simple
 
 $$\frac{\sin \theta_{1}}{\sin \theta_{2}}=\frac{n_{2}}{n_{1}}=\frac{v_{1}}{v_{2}}$$
 
-- Can be understood through [huygen's principle](huygen.md). Since the wavelets propagate slower through a slower medium (by definition), and so the distance between wavefronts is also smaller, but if that happens mid-way through a medium change, the angle changes.
+- Can be understood through [huygen's principle](huygen). Since the wavelets propagate slower through a slower medium (by definition), and so the distance between wavefronts is also smaller, but if that happens mid-way through a medium change, the angle changes.
 - If the sin(angle of refraction) > 1, then obviously it is not possible. This means that all of the light was reflected. So yeah, it doesn't actually break it.
 - ![](../../assets/snellsRefraction.png)

@@ -12,7 +12,7 @@ layout: new
     - Gothic literature is equally the present and the past.
 - Gothic literature is about power. Power over individuals and the powers over others. Those with powers are strong, those without it are weak. Everything is a pursuit of power. Within Gothic literature, these power structures change and restructure in order to create tension.
 - In the same vein, Gothic literature emphasises the difference between the sexes, and it is able to explore the breaking and restructuring of the sexual norms in order to create terror.
-- [Radcliffe's difference between Terror and Horror](terrorHorror.md)
+- [Radcliffe's difference between Terror and Horror](terrorHorror)
 - Gothic literature is full of doubt. Coming out of a time of waning spirituality and a great number of rapid changes, people were skeptical of both the old religions and also of the new sciences. Which could be trusted. The supernatural was looked at with a little bit of skepticism. However, this doubt was often mixed in with uncertainty; at times, the supernatural was never supernatural to begin with, and at other times, it was truly the work of some higher force.
 - Generic Conventions lightning round:
     - Setting is commonly some haunted castle or broken house

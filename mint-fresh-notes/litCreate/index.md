@@ -9,16 +9,16 @@ layout: simple
 
 story about being enslaved by your reputation, kind of like jekyll:
 
-- [coffee shop](coffeeShop.md)
-- [bus](bus.md)
-- [the bar](bar.md)
+- [coffee shop](coffeeShop)
+- [bus](bus)
+- [the bar](bar)
 - something needs to go here :-)
-- [insane](insane.md)
-- [heavy hearted](heavy.md)
-- [coffee](coffee.md)
-- [not full](full.md)
+- [insane](insane)
+- [heavy hearted](heavy)
+- [coffee](coffee)
+- [not full](full)
 
 ---
 
-- [le poop draft](poopDraft.md)
-- [draft one](draftOne.md)
+- [le poop draft](poopDraft)
+- [draft one](draftOne)

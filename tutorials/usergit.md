@@ -15,4 +15,4 @@ latex:
 2. `git config --global user.email "email"`
     - e.g. `git config --global user.email pixelandian@gmail.com`
 
-Note that this won't work with Github unless you have set up the [SSH Key on Github](sshgit.md).
+Note that this won't work with Github unless you have set up the [SSH Key on Github](sshgit).
