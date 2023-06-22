@@ -17,6 +17,7 @@ latex:
 - [Working in the Public](public)
 - Chaining
 - [Focusing the Town](focus)
+- [A Lull](lull)
 
 ## Web-dev
 
