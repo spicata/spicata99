@@ -17,3 +17,4 @@ This is what we will study, so this is what I'll write about.
 - [thylacine](../thylacine.md)
 - [Thylacine Critical Analysising](thylacrit.md)
 - [grr](grr.md)
+- [Context about Thylacine](context)
