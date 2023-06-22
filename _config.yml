@@ -6,4 +6,9 @@ defaults:
     values:
       layout: "simple"
 
-collections:
+plugins:
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%d'

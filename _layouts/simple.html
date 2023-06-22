@@ -9,6 +9,10 @@
     {% else %}
       <h1>{{ page.name }}</h1>
     {% endif %}
+    {% if page.cdate %}
+      <p class="datetop">Created: {{ page.cdate }}</p>
+    {% endif %}
+    <p class="datetop">Last modified: {% last_modified_at %}</p>
     {% if page.showdescription %}
       <div class="description">
         <p>{{ page.description | markdownify }}</p>
