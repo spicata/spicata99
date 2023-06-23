@@ -26,8 +26,9 @@ latex:
 ## 3: Generally Speaking
 
 - [A Lull](lull)
-    - A Shallower Town
+    - [A Shallower Town](superficial)
 - [Ambition and Wear](ambitionwear)
+- [Politics](politics)
 
 ## 4: And finally...
 
