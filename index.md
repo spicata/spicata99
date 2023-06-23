@@ -24,3 +24,4 @@ navigation: true
 - sometimes feel: [insincere](insincere)
 - [How to fix the Town](guild)
 - Edward feels [sadge](sadge)
+- I am [working faster](faster)
