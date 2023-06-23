@@ -20,7 +20,7 @@ latex:
 
 ## 2: Web-dev
 
-- Working without the Gun
+- [Without a Gun](without)
 - [Apprentice](apprehendere)
 
 ## 3: Generally Speaking
