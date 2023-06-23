@@ -27,7 +27,7 @@ latex:
 
 - [A Lull](lull)
     - A Shallower Town
-- Ambition and Wear
+- [Ambition and Wear](ambitionwear)
 
 ## 4: And finally...
 
