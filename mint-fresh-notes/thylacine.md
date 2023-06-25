@@ -100,6 +100,6 @@ The blast of the shotgun rattled the window pane by Douglas's face. He sat up in
 
 Douglas stared at the blood on Clarrie's finger and felt his hairs prickling under his pyjama shirt. The claw of the beast's cry slowly released, but now there was another sensation.
 
-Moonlight nights were terrible after that. Douglas lay in bed, and the words of poems crept across his mind, trying to close up a ound (sic) with the soft stiches of the sounds and rhythms. If in the eleven books the brother owned, he'd found '*Tyger! Tyger! burning bright,*' he would have read it aloud and hoped that the words would heal.
+Moonlight nights were terrible after that. Douglas lay in bed, and the words of poems crept across his mind, trying to close up a wound with the soft stiches of the sounds and rhythms. If in the eleven books the brother owned, he'd found '*Tyger! Tyger! burning bright,*' he would have read it aloud and hoped that the words would heal.
 
 But he didn't know those words, and his mind sought for words that it didn't, couldn't, know. If they'd had the seventh-grade reader, he would have found it there, but he didn't get to reach seventh grade. He was just a bushman.
