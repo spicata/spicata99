@@ -1,7 +1,7 @@
 ---
-title: "spicata.99000000.xyz"
+title: "spicata99"
 aliases:
-- "spicata.99000000.xyz"
+- "spicata99"
 - "home"
 layout: simple
 description: "spicata's personal website, storing things such as notes, rants, opinion articles, a little comic strip, and more."
@@ -25,3 +25,4 @@ navigation: true
 - [How to fix the Town](guild)
 - Edward feels [sadge](sadge)
 - I am [working faster](faster)
+- [The anniversary](anniversary)

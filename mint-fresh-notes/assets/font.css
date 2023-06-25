@@ -1,9 +1,0 @@
-/* Change font in preview */
-.markdown-preview-view {
-    font-family: "EB Garamond", serif !important;
-    font-size: 18px;
-}
-
-.markdown-source-view {
-  font-size: 15px
-}

@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="/assets/css/simple.css">
+{% if page.css == "fancy" %}
+    <link rel="stylesheet" href="/assets/css/fancy.css">
+{% else %}
+    <link rel="stylesheet" href="/assets/css/simple.css">
+{% endif %}
 
 {% if page.font == "sans" %}
     <link rel="stylesheet" href="/assets/css/sans.css">

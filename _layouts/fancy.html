@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/assets/css/fancy.css">
+    <meta charset="utf-8"> 
+    {% if page.description %}
+        <meta name="description" content="{{ page.description }}">
+    {% else %}
+        <meta name="description" content="A plethora of notes written by a little guy called spicata mentha, with hopes that his page will on day appear on Google search (please index me Google).">
+    {% endif %}
+    <meta name="keywords" content="notes, mint fresh notes, 99000000, spicata">
+    <meta name="author" content="spicata mentha">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display:wght@800&display=swap" rel="stylesheet">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% else %}
+      <h1>{{ page.name }}</h1>
+    {% endif %}
+    {% if page.showdescription %}
+      <div class="description">
+        <p>{{ page.description | markdownify }}</p>
+      </div>
+    {% endif %}
+    {% if page.cdate %}
+        <p class="datetop">Created: {{ page.cdate }}</p>
+        <p class="datetop">Last modified: {% last_modified_at %}</p>
+    {% endif %}
+    <hr class="descriptionbar">
+    {% if page.navigation %}
+      {% include nav.html %}
+    {% endif %}
+    <div class="content">{{ content }}</div>
+    <p class="foot">found on <a href="https://spicata.99000000.xyz/">spicata.99000000.xyz</a>. no rights reserved.<br>published by <a href="https://www.99000000.xyz/">99 000 000.xyz</a>.</p>
+  </body>
+</html>
