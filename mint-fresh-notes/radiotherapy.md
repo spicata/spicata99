@@ -19,7 +19,7 @@ Proton therapy's biggest benefit over X-rays → higher precision i.e. less radi
 
     ![tumour](../assets/tumour.png)
 
-    Essentially, the protons can have an ending point specified. How it does this I don't know. Also, of course it isn't that specific (to degree of 1 cell).
+    Essentially, the protons can have an ending point specified. How it does this I don't know. Also, of course it isn't that specific (to degree of 1 cell). Might want to have a look at [this link](https://www.cancer.gov/news-events/cancer-currents-blog/2020/proton-therapy-safety-versus-traditional-radiation)
 
 Radiotherapy uses radiation e.g. X-rays for medical therapy e.g. killing cancer. Does so by directing high-doses of radiation at cancer cells, which damages the DNA (mutates base pairs, breaks the backbone, breaks hydrogen bonds), preventing reproduction/causing apoptosis. Indiscriminate, will harm normal cells.[^1]
 

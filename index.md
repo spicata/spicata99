@@ -26,3 +26,4 @@ navigation: true
 - Edward feels [sadge](sadge)
 - I am [working faster](faster)
 - [The anniversary](anniversary)
+- [Pointers](pointers) are a proxy of wisdom
