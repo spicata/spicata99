@@ -7,11 +7,14 @@ aliases:
 navigation: true
 ---
 
-so... uh... this is the garden. unlike [the store](../index), its a little messy, and there are some broken things here and there; i hope you don't mind. feel free to take some fruits from the trees around, but keep in mind most things are still growing.
+mint fresh notes (AKA the garden), is a subsection of spicata99 which works in order to share my notes.
 
-here's the catalogue of stuff that's safe to pick from.
+Points from Journeys:
+- [Radiotherapy, the Physics Investigation](radiotherapy)
 
-## the resources for the exams
+---
+
+### the resources for the exams
 
 - [methods exam for sem 1](mathExam/index)
 - [physics exam 1](physExam/index)
