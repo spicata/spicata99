@@ -27,3 +27,4 @@ navigation: true
 - I am [working faster](faster)
 - [The anniversary](anniversary)
 - [Pointers](pointers) are a proxy of wisdom
+- Don't ignore [your feelings](feelings)
