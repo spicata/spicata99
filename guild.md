@@ -29,7 +29,8 @@ latex:
     - [A Shallower Town](superficial)
 - [Ambition and Wear](ambitionwear)
 - [Politics](politics)
-- [Centralisation!!!]
+- Centralisation!!!
+- [An Intimate Town](intimate)
 
 ## 4: And finally...
 
