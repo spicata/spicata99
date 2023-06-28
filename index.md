@@ -28,3 +28,4 @@ navigation: true
 - [The anniversary](anniversary)
 - [Pointers](pointers) are a proxy of wisdom
 - Don't ignore [your feelings](feelings)
+- [Ed likes his drugs](parasites)

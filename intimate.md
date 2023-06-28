@@ -28,4 +28,4 @@ Well, on top of making people just a tad bit more comfortable, it might also all
 
 ## Other disadvantages?
 
-Well, if it goes too far, it may just possibly lead to the fragmentation of the Town, but (I believe) we are reaching a critical point anyways and that's a problem for future us to solve.
+Well, if it goes too far, it may just possibly lead to the fragmentation of the Town, but (I believe) we are reaching a critical point anyways and that's a problem for future pr
