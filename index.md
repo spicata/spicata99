@@ -30,3 +30,5 @@ navigation: true
 - Don't ignore [your feelings](feelings)
 - [Ed likes his drugs](parasites)
 - [Holiday goals](holidaygoals) this time round
+- [Digital, public pen-pals](penpal)
+- [Oppenheimer style](oppen)
