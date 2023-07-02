@@ -6,4 +6,4 @@ showdescription: false
 cdate: 2023-06-28
 ---
 
-Extreme right-wings are dumb. [Extreme left-wing](https://shadowgarten.toomwn.xyz/) are dumb. Centrism is where it's at.
+My opinion on real politics: the hell are you guys doing? Just sounds like extreme 'left-wings' and extreme 'right-wings' are just saying the same things. Just stop. Please

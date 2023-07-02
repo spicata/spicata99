@@ -32,3 +32,4 @@ navigation: true
 - [Holiday goals](holidaygoals) this time round
 - [Digital, public pen-pals](penpal)
 - [Oppenheimer style](oppen)
+- [politics lol](actualpols)
