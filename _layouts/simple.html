@@ -13,6 +13,9 @@
       <p class="datetop">Created: {{ page.cdate }}</p>
     {% endif %}
     <p class="datetop">Last modified: {% last_modified_at %}</p>
+    {% if page.state %}
+      <p><strong>This article is {{ page.state }}</strong></p>
+    {% endif %}
     {% if page.showdescription %}
       <div class="description">
         <p>{{ page.description | markdownify }}</p>

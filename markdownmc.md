@@ -1,9 +1,10 @@
 ---
 title: ".md MasterClass"
 layout: simple
-description: 
-showdescription: false
+description: yall need to learn markdown dammit
+showdescription: true
 cdate: 2023-07-02
+state: growing...
 ---
 
 It has come to my (and Edward's) attention that, despite the large amount of people in the Town using Markdown, lots of them don't actually know how to use it. So, uh, here's my experiences + tips + other informations about Markdown.
