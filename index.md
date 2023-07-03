@@ -33,3 +33,5 @@ navigation: true
 - [Digital, public pen-pals](penpal)
 - [Oppenheimer style](oppen)
 - [politics lol](actualpols)
+- [Obsidian Setups](obsidiansetup)
+- [.md MC](markdownmc)
