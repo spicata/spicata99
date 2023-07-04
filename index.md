@@ -35,3 +35,4 @@ navigation: true
 - [politics lol](actualpols)
 - [Obsidian Setups](obsidiansetup)
 - [.md MC](markdownmc)
+- made this for a little joke: [kinks](kink) (also [check out loren](https://ionized-satellite-e99.notion.site/Loren-s-2023-Notion-cd03827de0a743468d9fb5a70413fc95))
