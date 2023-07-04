@@ -49,10 +49,11 @@ First we need to understand some terms:
 
 - `folder1` is the 'parent folder' of `child1` (it is at a higher level, so to speak)
 - `child1` is the 'child folder' of `folder1` (it is at a lower level)
+- `folder1` and `folder2` are 'sibling folders'. Same goes for `child1` and `child2`
 
 [add some other definitions why not]: #
 
-abacaba. 
+Here are some examples[^1][^2]:
 
 ```md
 To link from `file1.md` to `file2.md` is to write this in `file1.md`:
@@ -78,7 +79,9 @@ Finally, to get from `fileb.md` to `filec.md`, do:
 [link to file c](../../folder2/filec)
 ```
 
-[explain lack of .md at end]: #
+[^1]: If you have some experience with Markdown, you may notice that these links are missing the .md extension at the end. This is intentional, as Jekyll will not link properly if it has this .md extension, as it will end up linking to `filec.md` (the raw file) and not `filec.html` (the processed file).
+
+[^2]: Also, if you use a Markdown app such as Obsidian, you can do this automatically by going into settings > options > files & links, then turning then turning off Wikilinks and changing the "new link format" to relative path to file.
 
 ## using YAML dammit
 
@@ -89,7 +92,8 @@ layout: simple
 description: 
 showdescription: false
 cdate: 2023-07-02
+state: growing
 ---
 ```
 
-That is the YAML frontmatter for this page that you are on.
+That is the YAML frontmatter for this page that you are on. Essentially, the YAML frontmatter is a place where you 'define' a bunch of stuff. For example, on [my Jekyll Starter Pack](https://github.com/spicata/jsp), the only value relevant in the YAML frontmatter is the `title` value. Both Jekyll and Hugo (Quartz) allow you to use the variables that you put into the frontmatter.
