@@ -9,22 +9,32 @@
     {% else %}
       <h1>{{ page.name }}</h1>
     {% endif %}
+
     {% if page.cdate %}
       <p class="datetop">Created: {{ page.cdate }}</p>
     {% endif %}
     <p class="datetop">Last modified: {% last_modified_at %}</p>
-    {% if page.state %}
-      <p><strong>This article is {{ page.state }}</strong></p>
+
+    {% if page.state == "growing" %}
+      <p><strong>🌱 This article is growing...</strong></p>
+    {% elsif page.state == "grown" %}
+      <p><strong>🌿 This article has grown...</strong></p>
+    {% elsif page.state == "final" %}
+      <p><strong>🌲 This article is finished!</strong></p>
     {% endif %}
+    
+
     {% if page.showdescription %}
       <div class="description">
         <p>{{ page.description | markdownify }}</p>
       </div>
     {% endif %}
     <hr class="descriptionbar">
+
     {% if page.navigation %}
       {% include nav.html %}
     {% endif %}
+
     {{ content }}
     <p>found on <a href="https://spicata.99000000.xyz/">spicata.99000000.xyz</a>. no rights reserved.<br>published by <a href="https://www.99000000.xyz/">99 000 000.xyz</a>.</p>
   </body>
