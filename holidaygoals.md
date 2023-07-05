@@ -21,7 +21,14 @@ Along with that, I do have that sort of pressing and rather important Chinese Or
 Also, my [kanban board](kanban) is kind of full at the moment, and I should probably work to clear it. The main problem is the overwhelming amount of mathematics that is in it:
 
 - [ ] Finish chapter 18 method (differentiation and things)
-- [ ] Finish chapter 12 spec (transformation matrix)
+    - [ ] 18D
+    - [ ] 18E
+    - [ ] 18F
+    - [ ] 18G
+- [x] Finish chapter 12 spec (transformation matrix)
+    - [x] 12E
+    - [x] 12F
+    - [x] 12G
 
 I think we are in fact starting Samuel Wagon Watson next term, so I should probably...
 
