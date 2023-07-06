@@ -139,8 +139,17 @@ a.boxa {
     width: 300px;
 }
 
-h1, h1 p {
+.title, .title p {
     margin: 0;
+}
+
+.page-type {
+    background-color: #8087a2;
+    color: #24273a;
+    font-weight: 800;
+    padding: 0 0.5em;
+    margin: 0;
+    width: fit-content;
 }
 
 /* CSS for the content/mid bit */

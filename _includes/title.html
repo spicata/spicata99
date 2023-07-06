@@ -4,4 +4,10 @@
 {% else %}
     <h1 class="title">{{ page.name }}</h1>
 {% endif %}
+{% case page.type %}
+    {% when "essay" %}
+        <p class="page-type">ESSAY</p>
+    {% when "note" %}
+        <p class="page-type">NOTE</p>
+{% endcase %}
 </div>
