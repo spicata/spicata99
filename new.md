@@ -8,12 +8,6 @@ state: grown
 type: essay
 ---
 
-- [x] Repeating myself (myself)
-- [x] Changelog
-- [x] The end of folders
-- [x] The rise of backlinks
-- [x] A new start
-
 ## Repeat myself (myself)
 
 Completely redoing my website seems to be becoming a quarterly thing ([link to old one](https://archive.99000000.xyz/)). I did it once when I switched from 11ty to Jekyll. I did it again when I switched from using a Jekyll theme to making my own. I am once again, doing it again, switching from Jekyll to Jekyll, but reworking everything. Continously doing this is starting to become a pain, and the amount of HTML, Liquid, and CSS I always need to do is very annoying. 
