@@ -173,3 +173,20 @@ a.boxa {
 .midright a {
     color: #8087a2;;
 }
+
+/* CSS for correct marker */
+
+.dotgrowing::marker {
+    content: '🌱 ';
+    font-size: 1.2em;
+}
+
+.dotgrown::marker {
+    content: '🌿 ';
+    font-size: 1.2em;
+}
+
+.dotdone::marker {
+    content: '🌲 ';
+    font-size: 1.2em;
+}

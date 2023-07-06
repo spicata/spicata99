@@ -1,0 +1,24 @@
+{% assign notes = site.pages | sort: 'cdate' | reverse %}
+{% assign nonote = 0 %}
+<h2>Notes</h2>
+<p>The backbone of the knowledge bank</p>
+<ul>
+{% for note in notes %}
+    {% if note.type == "note" %}
+    {% case note.state %}
+    {% when "growing" %}
+    <li class="dotgrowing">
+    {% when "grown" %}
+    <li class="dotgrown">
+    {% when "final" %}
+    <li class="dotdone">
+    {% endcase %}
+        <a href="{{ note.url }}">{{ note.title }}</a>
+    </li>
+    {% assign nonotes = nonotes | plus: 1 %}
+    {% endif %}
+    {% if nonotes == 14 %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+</ul>

@@ -1,10 +1,10 @@
 ---
-title: "{{title}}"
+title: 
 layout: default
 description: 
-showdescription: false
+showdescription: true
 cdate: {{date}}
 state: growing
-type:
+type: note
 ---
 

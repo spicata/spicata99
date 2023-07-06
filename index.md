@@ -1,5 +1,6 @@
 ---
-title: spicata99
+title: spicata99+
+layout: index
 description: spicata's knowledge base, AKA his second brain
 showdescription: true
 cdate: 2023-07-06
