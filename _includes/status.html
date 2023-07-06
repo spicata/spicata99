@@ -1,0 +1,10 @@
+<div class="page-state">
+{% case page.state %}
+{% when "growing" %}
+    <p class="status">🌱 This article is growing...</p>
+{% when "grown" %}
+    <p class="status">🌿 This article has grown...</p>
+{% when "final" %}
+    <p class="status">🌲 This article is finished!</p>
+{% endcase %}
+</div>

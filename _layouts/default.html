@@ -1,23 +1,41 @@
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <meta charset="utf-8">
-      <link rel="stylesheet" href={{ "/assets/css/styles.css" | relative_url }}>
-      <title>{{ page.title }}</title>
-    </head>
-    <body>
-      <header>
-        {% if page.title %}
-          <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.title }}</h1>
-        {% else %}
-          <h1><a href="{{ site.url }}" class="footnote">↩</a>{{ page.name }}</h1>
-        {% endif %}
-      </header>
-      <div>
+---
+style: styles
+---
+
+<!-------------------------------------------------->
+<!---If you are here to view the the source code---->
+<!-----just know that all of it is available at----->
+<!---https://github.com/spicata/spicata.github.io--->
+<!-------------------------------------------------->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="top">
+      <div class="topleft">
+        {% include title.html %}
+        {% include description.html %}
+      </div>
+      <div class="topright">
+        {% include date.html %}
+        {% include status.html %}
+      </div>
+    </div>
+    <hr class="descriptionbar">
+    <div class="mid">
+      <div class="content">
         {{ content }}
       </div>
-      <footer>
-        <p><small>no rights reserved, just have some decency</small></p>
-      </footer>
-    </body>
-  </html>
+      <div class="midright">
+        {% include toc.html %}
+        {% include backlink.html %}
+      </div>
+    </div>
+    <div class="footer">
+      <p>found on <a href="https://spicata.99000000.xyz/">spicata.99000000.xyz</a>. no rights reserved.</p>
+    </div>
+  </body>
+</html>

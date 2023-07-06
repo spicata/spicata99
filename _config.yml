@@ -4,7 +4,8 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "simple"
+      layout: "default"
+      toc: true
 
 plugins:
   - jekyll-last-modified-at

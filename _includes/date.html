@@ -1,0 +1,6 @@
+<div class="page-dates">
+{% if page.cdate %}
+    <p class="datetop">Created: {{ page.cdate }}</p>
+{% endif %}
+<p class="datetop">Last modified: {% last_modified_at %}</p>
+</div>
