@@ -6,6 +6,7 @@ showdescription: true
 cdate: 2023-07-06
 state: grown
 type: essay
+render_with_liquid: false
 ---
 
 ## Repeat myself (myself)
@@ -38,24 +39,24 @@ Backlinking was very, **very** difficult to implement. I used pure Jekyll + liqu
 ```html
 {% assign urlnohtml = page.url | remove: ".html" %}
 <div class="page-backlinks">
-  {% unless page.url == '/' %}
-    <h4 class="backlink-title">Links to this note:</h4>
-  {% endunless %}
-  <ul>
+    {% unless page.url == '/' %}
+        <h4 class="backlink-title">Links to this note:</h4>
+    {% endunless %}
+    <ul>
     {% for note in site.pages %}
-        {% if note.url != page.url %}
-          {% if note.content contains urlnohtml %}
-              {% unless page.url == '/' %}
-                <li>
-                  {% if note.title %}
-                    <a href="{{ note.url }}">{{ note.title }}</a>
-                  {% else %}
-                    <a href="{{ note.url }}">{{ note.name }}</a>
-                  {% endif %}
-                </li>
-              {% endunless %}
-          {% endif %}
-        {% endif %}
+    {% if note.url != page.url %}
+    {% if note.content contains urlnohtml %}
+    {% unless page.url == '/' %}
+    <li>
+    {% if note.title %}
+        <a href="{{ note.url }}">{{ note.title }}</a>
+    {% else %}
+        <a href="{{ note.url }}">{{ note.name }}</a>
+    {% endif %}
+    </li>
+    {% endunless %}
+    {% endif %}
+    {% endif %}
     {% endfor %}
  </ul>
 </div>
