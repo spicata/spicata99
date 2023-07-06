@@ -1,1 +1,0 @@
-i go bat-s\*\*\* insane

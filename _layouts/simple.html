@@ -39,6 +39,31 @@
     {{ content | toc_only }}
 
     {{ content }}
+
+    {% assign urlnohtml = page.url | remove: ".html" %}
+    {% assign urlnohtmlnoslash = urlnohtml | remove_first: "/" %}
+    {% assign urlnohtmlnoslashwhref = urlnohtmlnoslash | prepend: 'href="'%}
+    {{ page.url }}
+    {{ urlnohtml }}
+    {{ urlnohtmlnoslash }}
+    {{ urlnohtmlnoslashwhref }}
+    <ul>
+      {% for note in site.pages %}
+          {% if note.url != page.url %}
+            {% if note.content contains urlnohtmlnoslashwhref %}
+                {% unless page.url == '/' %}
+                  <li>
+                    {% if note.title %}
+                      <a href="{{ note.url }}">{{ note.title }}</a>
+                    {% else %}
+                      <a href="{{ note.url }}">{{ note.name }}</a>
+                    {% endif %}
+                  </li>
+                {% endunless %}
+            {% endif %}
+          {% endif %}
+      {% endfor %}
+   </ul>
     <p>found on <a href="https://spicata.99000000.xyz/">spicata.99000000.xyz</a>. no rights reserved.<br>published by <a href="https://www.99000000.xyz/">99 000 000.xyz</a>.</p>
   </body>
 </html>
