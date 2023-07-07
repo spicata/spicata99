@@ -5,6 +5,6 @@ description:
 showdescription: true
 cdate: {{date}}
 state: growing
-type: note
+type: 
 ---
 

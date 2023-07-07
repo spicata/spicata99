@@ -15,11 +15,11 @@ a {
 }
 
 em {
-    color: #ed8796;
+    color: #f4dbd6;
 }
 
 strong {
-    color: #eed49f;
+    color: #f4dbd6;
 }
 
 del {
@@ -189,4 +189,20 @@ a.boxa {
 .dotdone::marker {
     content: '🌲 ';
     font-size: 1.2em;
+}
+
+/* CSS for the Type Indicator */
+
+.type-indicator {
+    background-color: #8087a2;
+    color: #24273a;
+    font-weight: 800;
+    padding: 0 0.5em;
+    margin: 0;
+    width: fit-content;
+}
+
+li p {
+    margin-bottom: 10px;
+    margin-top: 0;
 }

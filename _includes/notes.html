@@ -1,10 +1,10 @@
 {% assign notes = site.pages | sort: 'cdate' | reverse %}
 {% assign nonote = 0 %}
-<h2>Notes</h2>
+<h2>Notes and Ideas</h2>
 <p>The backbone of the knowledge bank</p>
 <ul>
 {% for note in notes %}
-    {% if note.type == "note" %}
+    {% if note.type == "note" or note.type == "idea" %}
     {% case note.state %}
     {% when "growing" %}
     <li class="dotgrowing">
@@ -13,7 +13,7 @@
     {% when "final" %}
     <li class="dotdone">
     {% endcase %}
-        <a href="{{ note.url }}">{{ note.title }}</a>
+        <p><a href="{{ note.url }}">{{ note.title }}</a><br><span class="type-indicator">{{ note.type | upcase }}</span></p>
     </li>
     {% assign nonotes = nonotes | plus: 1 %}
     {% endif %}

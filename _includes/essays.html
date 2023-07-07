@@ -13,7 +13,7 @@
     {% when "final" %}
     <li class="dotdone">
     {% endcase %}
-        <a href="{{ note.url }}">{{ note.title }}</a>
+    <p><a href="{{ note.url }}">{{ note.title }}</a><br><span class="type-indicator">{{ note.type | upcase }}</span></p>
     </li>
         {% assign noessays = noessays | plus: 1 %}
     {% endif %}

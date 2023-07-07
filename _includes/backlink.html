@@ -6,7 +6,7 @@
   <ul>
     {% for note in site.pages %}
         {% if note.url != page.url %}
-          {% if note.content contains urlnohtml %}
+          {% if note.content contains urlnohtml or note.content contains page.url %}
               {% unless page.url == '/' %}
                 <li>
                   {% if note.title %}
