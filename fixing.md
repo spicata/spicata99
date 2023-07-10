@@ -5,6 +5,7 @@ description: a dual manifesto/list authored by ed and spicata
 showdescription: true
 cdate: 2023-07-05
 state: growing
+type: essay
 ---
 
 ## To keep 
@@ -28,6 +29,8 @@ state: growing
 ## Criticality
 
 by Edward
+
+[note to self, remove this section]: #
 
 We are approaching a point of the town (now at 22+ members) where things are starting to get... weird...
 

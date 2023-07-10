@@ -62,6 +62,8 @@ I'm M.spicata, but you can call me spicata if you want. I'm the owner of this li
 
 [^3]: For any Town member making their Town page, just call my thing a complex, or if you must, the 99 complex.
 
+[if you want, this complex can be your gateway into the town]: #
+
 There are other people here, of course, and you can go read their names on the [Town's roll call](https://town.toomwn.xyz), but I'll just talk a little about the most notable people here.
 
 Of course, you've got Edward, the current mayor of the Town. He's the one in charge and also the one that manages the [current Town centre](https://the.toomwn.xyz). He owns a [spaghetti–tea house store just around the corner](https://ed.toomwn.xyz), which is the second oldest establishment in this Town. He knows a lot about Chemistry, and he'll tell you if you are curious. On the other hand, if you want to entertain yourself, you can always just [check out his ideas](https://ed.toomwn.xyz/Writings/), which is always fun to read.
