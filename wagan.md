@@ -18,3 +18,9 @@ type: note
 - dominant narrative locks the non-European subject into a Western world view.
 - Indigenous: (sic) people as ‘the other’ as
 ‘untouchable’, ‘savage’, native, ‘the blacks’.
+- go beyond the linear historical model of colonisation and view
+it in a post-structuralist context.
+- Postcolonial theorists and writers also
+advance the creation of new hybrid spaces in-between, in which other identities beyond the colonial
+binaries might be found. ‘Cultural identities are both fragmented and in a constant state of flux’
+- 
