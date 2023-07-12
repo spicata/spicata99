@@ -1,7 +1,7 @@
 {% assign urlnohtml = page.url | remove: ".html" %}
 <div class="page-backlinks">
   {% unless page.url == '/' %}
-    <h4 class="backlink-title">Links to this note:</h4>
+    <h4 class="backlink-title margin20">Links to this note:</h4>
   {% endunless %}
   <ul>
     {% for note in site.pages %}
