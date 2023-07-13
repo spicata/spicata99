@@ -55,3 +55,11 @@ memory animals. But memory does not offer stability and solidity.
 - Rather, the post-colonial poetry of
 Australian Indigenous poets enables – and is the product of - active, imaginative,
 historical remembering, and refiguring into the future.
+
+---
+
+- direct experience ... after having the experience, then writing them down in poetic form
+- advise you to read them from the beginning ... only use a few
+- thought it was symbolic, but turned out to be very literal ... metaphors
+
+The Adventures of Being Aboriginal Australian in a Suburb™ (another name for 'white stucco dreaming')
