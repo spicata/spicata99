@@ -23,4 +23,12 @@ it in a post-structuralist context.
 - Postcolonial theorists and writers also
 advance the creation of new hybrid spaces in-between, in which other identities beyond the colonial
 binaries might be found. ‘Cultural identities are both fragmented and in a constant state of flux’
-- 
+- ‘colonial empires both fear and engender biological as well as
+intellectual hybridities’
+- also serves to
+highlight Watson’s hybridity and the politics of being urban, Aboriginal.
+- In the loose-limbed structure of the verse, its minimal punctuation and fluid rhythms, the power of anger and loss slowly mounts in the surreal 'dingo longue'. The anger is directed against systemic degradation, instituionalisation, technological and capitalist horrors
+- Watson addresses a double past, a double ontology. ... there is the past of oppression and the past of land, dignity, custom, storytelling, song.
+- ... but there is equally a gothic, macabre imagination at work
+- These poem reclaim memory as sacred process: first the remembering, then the willingness to listen and to act.
+- He clear-sightedly and prophetically depicts the psychic, spiritual and physical payments being made by Aboriginal Australians. But as well as the protests of such representations, Watson calls for a clear-sighted and listening response — not least from his readers — to the lives and dreams of contemporary urban Aboriginal Australians.

@@ -1,4 +1,4 @@
-{% assign notes = site.pages | sort: 'cdate' | reverse %}
+{% assign notes = site.pages | sort: 'last_modified_at' | reverse %}
 {% assign noessays = 0 %}
 <h2>Essays</h2>
 <p>Long-form articles that I make, for reader consumption.</p>

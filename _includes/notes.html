@@ -1,4 +1,4 @@
-{% assign notes = site.pages | sort: 'cdate' | reverse %}
+{% assign notes = site.pages | sort: 'last_modified_at' | reverse %}
 {% assign nonote = 0 %}
 <h2>Notes and Ideas</h2>
 <p>The backbone of the knowledge bank</p>
