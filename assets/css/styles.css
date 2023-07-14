@@ -179,6 +179,15 @@ a.boxa {
     color: #8087a2;;
 }
 
+figure {
+    padding: 0;
+    margin: 0;
+}
+
+.ad {
+    width: 100%;
+}
+
 /* CSS for correct marker in the lists on Index */
 
 .dotgrowing::marker {
