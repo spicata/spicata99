@@ -13,3 +13,10 @@ You know, we aren't only limited to text when we create notes and other things l
 or in short:
 
 ![engage](assets/engage.png)
+
+## anecdote
+
+- Images, especially little illustrations, are a great way way to grab attention, and diagrams are a very good way to understand concepts. After all, a picture is worth a thousand words. 
+- Videos too; we watch Khan Academy or Crash Course, not read a really long document explaining this one topic.
+- It's easier to sit down on the bus or the train, it's much easier to just pop open a podcast then it is to, say, read a massive document
+- Truth is, it's easier to watch multimodal content then it is to read text.
