@@ -55,6 +55,12 @@ memory animals. But memory does not offer stability and solidity.
 - Rather, the post-colonial poetry of
 Australian Indigenous poets enables – and is the product of - active, imaginative,
 historical remembering, and refiguring into the future.
+- Knowledge, in all Aboriginal systems of information, is specific
+to the place and to the people ... one of the most important aspects
+of Aboriginal knowledge systems is that they do not universalise.
+Moreover, the fact that knowledge is localised and specific is one
+of the keys to its value.
+- 
 
 ---
 
