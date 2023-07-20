@@ -22,7 +22,7 @@ Homologous series are groups of molecules with the same function group but a dif
 
 ---
 
-- functional group → an atom || or group of atoms responsible for the typical chemical reactions of a molecule tldr gives it it's chemical properties e.g. OH in alcohol
+- functional group → an atom or group of atoms responsible for the typical chemical reactions of a molecule tldr gives it it's chemical properties e.g. OH in alcohol
     - functional groups: chemical
     - carbon chain length: physcial
 - homologous series → group of molecs with same functional group but different CH2 groups.
