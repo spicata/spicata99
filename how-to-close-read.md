@@ -18,6 +18,7 @@ type:
     - identity
     - historical | social | personal context
     - generic convention
+    - narrative conventions
     - stylistic/structural features
     - lenses
     - religious

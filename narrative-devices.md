@@ -4,7 +4,7 @@ layout: default
 description: 
 showdescription: true
 cdate: 2023-07-19
-state: growing
+state: seed
 type: 
 ---
 
