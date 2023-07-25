@@ -39,7 +39,6 @@ latex: yes
 - double bonds make alkenes very reactive:
     - combustion 
     - addition: double bond is snapped and the an element is added e.g. halogens (Br Br), water (H OH)
-
         it can have options if asymetrical, eg propene + HBr
     - polymerisation: ethene can react with itself to create long chains
 - benzene is aromatic hydrocarbon (strong armo)
