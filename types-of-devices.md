@@ -4,13 +4,16 @@ layout: default
 description: 
 showdescription: true
 cdate: 2023-07-19
-state: growing
+state: seed
 type: 
 ---
 
-- rhetorical devices: for persuasive texts
-    - metonomy
-- poetic devices: for poems
-- dramatic devices: for drama
-- [narrative devices](narrative-devices): prose
-- stylistic devices: the structure/style of text
+- generic conventions: conventions of the... genre
+    - rhetorical devices: for persuasive texts
+    - poetic devices: for poems
+    - dramatic devices: for drama
+    - [narrative conventions](narrative-devices): prose
+- literary devices:
+    - stylistic features: the structure/style of text e.g. sentences and such
+    - sound devices: things that make sounds, e.g. alliteration
+    - figurative langauge: figures of speech
