@@ -11,7 +11,7 @@
     {% when "final" %}
     <li class="dotdone">
     {% endcase %}
-        <p><a href="{{ note.url }}">{{ note.title }}</a><br><span class="type-indicator">{{ note.type | upcase }}</span></p>
+        <p><a href="{{ note.url }}">{{ note.title }}</a>{% if note.type %}<br><span class="type-indicator">{{ note.type | upcase }}</span>{% endif %}</p>
     </li>
 {% endfor %}
 </ul>
