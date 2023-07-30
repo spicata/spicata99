@@ -16,8 +16,8 @@ also, i think art is pretty cool, and i would love to learn about it, if i knew 
 
 ## contacts
 
-- emails: [spicata@99000000.xyz](mailto:spicata@99000000.xyz)
-    - backup: [krispytroll@gmail.com](mailto:krispytroll@gmail.com)
+- emails: spicata [(at)](whats-up-with-the-at) 99000000.xyz
+    - backup: krispytroll (at) gmail.com
 - matrix: @spicata:matrix.org
 - discord: m.spicata9966
 - phone number: i'm not giving you that
