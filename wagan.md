@@ -60,7 +60,11 @@ to the place and to the people ... one of the most important aspects
 of Aboriginal knowledge systems is that they do not universalise.
 Moreover, the fact that knowledge is localised and specific is one
 of the keys to its value.
-- 
+- cars and
+roads to represent and critique colonialism and to assert Aboriginal identity
+and culture.
+- identifies these technologies with the
+settler/invader,
 
 ---
 
