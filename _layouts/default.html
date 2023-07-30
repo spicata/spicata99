@@ -1,38 +1,26 @@
----
-style: styles
----
-
-{% include comment.html %}
+<!------------------------------------------------>
+<!--"You insignificant FUCK"---------------------->
+<!--------------------by Gabriel, from ULTRAKILL-->
+<!--Source code @--------------------------------->
+<!--https://github.com/spicata/spicata.github.io-->
+<!------------------------------------------------>
 
 <!DOCTYPE html>
 <html>
   <head>
-    {% include head.html %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
-  <body>
-    <div class="top">
-      <div class="topleft">
-        {% include title.html %}
-        {% include description.html %}
-      </div>
-      <div class="topright">
-        {% include date.html %}
-        {% include status.html %}
-      </div>
-    </div>
-    <hr class="descriptionbar">
-    <div class="mid">
-      <div class="content">
-        {{ content }}
-      </div>
-      <div class="midright">
-        {% include toc.html %}
-        {% include backlink.html %}
-        {% include ad.html %}
-      </div>
-    </div>
-    <div class="footer">
-      <p>found on <a href="https://spicata.99000000.xyz/">spicata.99000000.xyz</a>. no rights reserved.</p>
-    </div>
+    <article>
+      <p><a href="/">go back?</a></p>
+      {% if page.title %}
+      <h1 class="title">{{ page.title }}</h1>
+      {% else %}
+      <h1 class="title">{{ page.name }}</h1>
+      {% endif %}
+  
+      {{ content }}
+    </article>
   </body>
 </html>
