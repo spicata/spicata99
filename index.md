@@ -17,7 +17,7 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 <ul>
 {% for note in notes %}
     <li>
-        <p>{{ note.cdate }}: <a href="{{ note.url }}">{{ note.title }}</a></p>
+        <p><a href="{{ note.url }}">{{ note.title }}</a></p>
     </li>
 {% endfor %}
 </ul>
