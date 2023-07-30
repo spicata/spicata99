@@ -1,0 +1,17 @@
+{% assign notes = site.pages | sort: 'cdate' | reverse %}
+<h2>Notes and Ideas</h2>
+<p>The backbone of the knowledge bank</p>
+<ul>
+{% for note in notes %}
+    {% case note.state %}
+    {% when "growing" %}
+    <li class="dotgrowing">
+    {% when "grown" %}
+    <li class="dotgrown">
+    {% when "final" %}
+    <li class="dotdone">
+    {% endcase %}
+        <p><a href="{{ note.url }}">{{ note.title }}</a><br><span class="type-indicator">{{ note.type | upcase }}</span></p>
+    </li>
+{% endfor %}
+</ul>
