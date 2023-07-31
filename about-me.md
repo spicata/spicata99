@@ -21,3 +21,10 @@ also, i think art is pretty cool, and i would love to learn about it, if i knew 
 - matrix: @spicata:matrix.org
 - discord: m.spicata9966
 - phone number: i'm not giving you that
+
+## set-up
+
+- [obsidian]() for note taking
+- [micro]() for editing files
+- running [pop_os!]()
+- making website on [visual studio code](), with [jekyll]() and custom jekyll theme.

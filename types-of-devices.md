@@ -10,7 +10,7 @@ type:
 
 - generic conventions: conventions of the... genre
     - rhetorical devices: for persuasive texts
-    - poetic devices: for poems
+    - [poetic devices](poetic-devices): for poems
     - dramatic devices: for drama
     - [narrative conventions](narrative-devices): prose
 - literary devices:
