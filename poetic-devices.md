@@ -1,5 +1,5 @@
 ---
-title: 
+title: poetic devices
 layout: default
 description: 
 showdescription: true
