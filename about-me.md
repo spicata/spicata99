@@ -22,9 +22,14 @@ also, i think art is pretty cool, and i would love to learn about it, if i knew 
 - discord: m.spicata9966
 - phone number: i'm not giving you that
 
-## set-up
+## current set-up
 
-- [obsidian]() for note taking
-- [micro]() for editing files
-- running [pop_os!]()
-- making website on [visual studio code](), with [jekyll]() and custom jekyll theme.
+- note taking: [obsidian](https://obsidian.md/)
+- file editing: [micro](https://micro-editor.github.io/)
+- operating system: [pop_os!](https://pop.system76.com/)
+- coding: [visual studio code](https://code.visualstudio.com/)
+    - website made by: [jekyll](https://jekyllrb.com/)
+    - jekyll theme by: me
+    - hosted on: github pages
+- xobbing: [gimp](https://www.gimp.org/)
+- hardware: dell xps 13
