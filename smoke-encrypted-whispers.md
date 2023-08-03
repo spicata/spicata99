@@ -4,6 +4,8 @@ layout: default
 cdate: 2023-08-03
 ---
 
+## smoke encrypted whispers
+
 smoke signal:
 - it seems to be a critique of the class division between the lower class and the higher and middle class, with the blue collar and white collar workers being synecdoches. It reveals the comfort of living in these rich suburbs, where one would not be scared for their own safety, nor plumed in smoke.
 - A crow (singular), the death of nature at the hands of post-industrial society
@@ -22,3 +24,15 @@ wecker road:
 cribb island:
 - what i found most interesting was that last bit, where it said "Brisbane's least known burial site", or something along those lines. this is a clear reference to one of the numerous mass graves that litter Australia.
 - I don't remember the rest of it... and I just read it lol
+
+## misc.
+
+monster:
+- the constant repetition of "I am a Dreamtime monster" not only acts to drill line in particular into the heads of the reader, but also its reference to Frankenstein — an reference to Mary Shelley's Frankenstein — reflecting the mishmash nature of the narrator's cultural belief, mirroring the stitched together bundle of body parts that makes up Frankenstein's monster.
+
+(Frankenstein is the name of the doctor, but I guess that would make the poem less poetic)
+
+- also, the structure of the poem, with that line echoing throughout the entire text, could be reflective of the ways in which the narrator himself is constantly reminded of his unindigenousness.
+- The narrator exists in a space between the two cultures, where he distances himself from the western culture by ripping out his Christian soul and not aligning himself with that side. However, he does not feel as though he is properly Indigenous, and is estranged from the side which he relates more strongly. (a hybrid between the two cultures, but not fully relating with either.)
+- Powerful Indigenous symbols used throughout second stanza, things like the Indigenous flag and the song lines (which we conveniently learnt about today, would you look at that). However, reanimation and being colourblind is metonyms for being severed from one's own culture, and thus he is no longer able to appreciate his own culture to the fullest extent and understand them as such. 
+- Seeing himself as a mutation of White Australia brings him into proximity with white australia, but at the same time emphasises how he has moved away from it, yet fails to bring him any closer to Indigenous australia.
