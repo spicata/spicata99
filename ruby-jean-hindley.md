@@ -14,8 +14,11 @@ Things to consider:
 - A.O. Neville
 
 > I have no identity, really
+
 > My mother did not bond with her mother and I did not bond with mine
+
 > We never heard the words 'I love you', so we never learned to say them to our family
+
 > I was hurting and had found no way of safely healing the pain
 
 If you can't verbalise something to other people, then you can't interalise it yourself. As you (I) know, what you can name you can control.

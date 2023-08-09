@@ -4,6 +4,21 @@ layout: default
 cdate: 2023-08-03
 ---
 
+hallo guys. wanna watch me absolutely lose it?
+
+## of muse, meandering and midnight
+
+for the wake and skeleton dance:
+- From a surface level reading, it seems like the text is about the dying spirituality at the hands of Western rationality. Souls and spirits go hungry and broke.
+- Dostoyevsky: A Russian author (writer of Crime and Punishment) who explores the human experience, particularly through struggle and hardship. The "recession in the spirit world" could be that hardship.
+
+> Dostoevsky has often been viewed as the voice of the anonymous ... also figures the crisis of belief
+
+- In this sense, Dostoevsky acts as the voice for the forgotten Indigenous Australians, which have gone missing or lost to history due to the impacts of colonisation and Western society.
+- Also, like magic realism, aspects of magic and aspects of realism are placed next to each other, such as the apparitions of black dingoes, blurring the line between the supernatural and the real.
+- It being payback for "bureaucrats in blacks skins" and the "fratricide troopers" is talking about fellow Indigenous Australians who have betrayed their fellow siblings and submitted to the Western system, leaving their siblings to die/killing their siblings themselves, and severing themselves from Indigenous culture.
+    - i.e. those who have abandoned their own family, identity, and belonging in pursuit of power.
+
 ## smoke encrypted whispers
 
 smoke signal:

@@ -67,7 +67,7 @@ Changes are when the audience says "no no I want something different", and we ge
 
 ## realism???
 
-Magic realism is realism but wit some magical elements.
+Magic realism is realism but with some magical elements.
 
 * by placing different cultures next to each other, we create dialogue between them
 * by placing different interpretations beside each other, we create dialogue between histories
