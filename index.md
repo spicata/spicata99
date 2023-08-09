@@ -12,6 +12,7 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 ## ⭐ featured
 
 - [i slowly go kooky doing literature](smoke-encrypted-whispers)
+- [kinetic theory of gas](kinetic-theory-of-gas)
 
 ---
 
