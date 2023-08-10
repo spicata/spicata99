@@ -11,8 +11,9 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 
 ## ⭐ featured
 
-- [i slowly go kooky doing literature](smoke-encrypted-whispers)
+- [techniques in and analysis of 'for the wake and skeleton dance'](for-the-wake-and-skeleton-dance)
 - [kinetic theory of gas](kinetic-theory-of-gas)
+- [i slowly go kooky doing literature](smoke-encrypted-whispers)
 
 ---
 
@@ -22,7 +23,7 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 <ul>
 {% for note in notes %}
     <li>
-        <p><a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a></p>
+        <a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a>
     </li>
 {% endfor %}
 </ul>
