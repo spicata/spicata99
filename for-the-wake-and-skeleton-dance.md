@@ -14,3 +14,4 @@ cdate: 2023-08-09
     - Dostoyevsky will probably bring some more significance to this idea.
     - For a little bit of context, it is claimed that Dostoyevsky wrote mainly about spiritual, political, and economic **struggles and turmoils**, particularly in 19th-century Russia. Do with that information what you will.
 
+> Just like children, all different coloured lollies taste the same.
