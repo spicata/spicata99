@@ -25,3 +25,10 @@ Also, the order in which you should probably find them:
 Inflection points are where the concavity of the function changed from up to down, or vice versa. These can be horizontal points of inflection (when acceleration is 0), or could not be like that, as in a sin graph.
 
 Cambridge Ex8D
+
+There are also tan graphs, and they are pretty wacky.
+- Period of pi
+- Has undefined/infinite amplitude
+- Principle axis is still the one that goes through all the points of inflection
+
+Literally the same was above but slightly different
