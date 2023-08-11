@@ -6,7 +6,7 @@ cdate: 2023-08-10
 
 I'll keep it short.
 
-We don't know if a change will be good or bad before we make it. This was a reason we stopped politics in the Town, and it is also the reason it should be back.
+We don't know if a change will be good or bad before we make it. This was a reason politics ended in the Town, and it is also the reason it should be back.
 
 Here are my proposed changes:
 - Add more voice channels,
@@ -16,6 +16,6 @@ Here are my proposed changes:
 - A new resource bank (e.g. Google Drive),
 - A Town calendar and bulletin board,
 - Reworking the constitution,
-- Colour roles,
+- Coloured roles,
 - Organisation of real Town meetups,
 - And more...
