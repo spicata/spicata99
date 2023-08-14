@@ -10,7 +10,7 @@ type:
 
 1. Read
 2. Read aesthetically i.e. read for [devices](types-of-devices)
-3. Reading strategy e.g. read with regards to:
+3. [Reading strategy](Untitled%203) e.g. read with regards to:
     - gender
     - class
     - representations
