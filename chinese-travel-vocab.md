@@ -1,5 +1,5 @@
 ---
-title: 
+title: chinese travel vocab WIP
 layout: default
 cdate: 2023-08-13
 ---

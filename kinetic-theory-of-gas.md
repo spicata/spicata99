@@ -39,3 +39,5 @@ Said laws:
 - [combined gas law](combined-gas-law)
 - [avocado law](avogadros-law)
 - [universal gas constant](universal-gas-constant)
+
+You don't need to know how to calculate them yet.

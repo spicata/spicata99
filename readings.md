@@ -1,5 +1,5 @@
 ---
-title: 
+title: readings
 layout: default
 cdate: 2023-08-14
 ---
