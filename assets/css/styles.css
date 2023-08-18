@@ -15,3 +15,7 @@ body {
 a {
     color: #cad3f5;
 }
+
+.no-space {
+    margin: 0;
+}

@@ -11,6 +11,7 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 
 ## ⭐ featured
 
+- [categories](categories)
 - [techniques in and analysis of 'for the wake and skeleton dance'](for-the-wake-and-skeleton-dance)
 - [kinetic theory of gas](kinetic-theory-of-gas)
 - [i slowly go kooky doing literature](smoke-encrypted-whispers)
@@ -19,11 +20,13 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 
 ## all pages
 
+(Joel Hooks 💀)
+
 {% assign notes = site.pages | sort: 'cdate' | reverse %}
 <ul>
 {% for note in notes %}
     <li>
-        <a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a>
+        <p class="no-space">{% if note.cdate %}{{ note.cdate }}: {% endif %}<a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a></p>
     </li>
 {% endfor %}
 </ul>
