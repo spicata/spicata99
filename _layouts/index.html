@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{{ content }}
+<hr>
+<h2>all pages</h2>
+<p>(Joel Hooks 💀)</p>
+{% assign notes = site.pages | sort: 'cdate' | reverse %}
+<ul>
+{% for note in notes %}
+    <li>
+        <p class="no-space">{% if note.cdate %}{{ note.cdate }}: {% endif %}<a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a></p>
+    </li>
+{% endfor %}
+</ul>
