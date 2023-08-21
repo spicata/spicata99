@@ -16,9 +16,14 @@ Fuse offers more resistance than the rest of the wiring. Thus, it will also heat
 
 RCD (residual current device) monitors wire for differences. If difference, then it cuts circuit in microseconds. Saves houses and lives.
 
-and also insulation and double insulation (no free wires please)
+and also insulation and double insulation (no open wires please)
 
 ```
-active -> / \ <- neutral
-  earth -> |
+In our country:
+ active -> / \ <- neutral
+   earth -> |
+
+In other countries:
+ o o or _ _
+         |
 ```
