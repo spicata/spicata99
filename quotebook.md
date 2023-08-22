@@ -18,3 +18,6 @@ cdate: 2023-08-17
 
 > cc: \*reading\* "My worm is coming in so handy. Kid named so handy"  
 > lw: I wish that were me
+
+> they can cause cavitation because of how fast they are  
+> \- dp
