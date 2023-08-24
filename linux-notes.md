@@ -9,7 +9,7 @@ cdate: 2023-08-23
 
 Distros have a desktop environments (DE) built in. DE acts as a way to create GUI, in order to interact with a computer without the need to depend on CLI. Examples include:
 - XCFE
-- Gnome
+- [Gnome](gnome)
 - Cinnamon
 - KDE plasma
 - LXDE
