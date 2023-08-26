@@ -14,8 +14,8 @@ it doesn't seem to have that spark it once carried; no aspirations or grander go
 
 oh how it felt to take our own destinies into our hands and shape a collective path that we could all take. and how it felt for new settlers to come join; setting up a new house often being a group effort. it lacks that cohesion now, and i dunno what to do without it.
 
-maybe it's all the new settlers that we wrangled from the metropolis, who brought their cookie-cutter goals and values of success. maybe it's the loss of one of our most important friends. maybe it's the environment we've all constructed. i don't know, and i don't know if i should care.
+maybe it's all the new settlers that we wrangled from the metropolis, who brought their cookie-cutter goals and values of success. they say that they are upholding the status quo, but it just feels like we are embracing entropy and stagnation. maybe it's the loss of one of our most important friend and ally. he was always there for us, for me, but i wasn't there for him when i needed to be. he might have been right, the environment we've made, that i've made, is not conducive to progress. i don't know, and i don't know if i should care.
 
-they say that they are upholding the status quo, but it just feels like we are embracing entropy and stagnation.
+it seems everything's drifted away. the name jacky zhao is just the name of another celebrity, and not a role model and idol that we once aspired to be. andy matuschak is but a whisper in the wind, and maggie appleton is nowhere to be seen. role models who once held such respect has become nothing but a name, and it's saddening.
 
 who knows. maybe my expectations of them were too high, and maybe i was just chasing dreams. but the town does feel different now, i can feel it in my core. i'm not sad, not even angry. just disappointed, and a little frustrated.
