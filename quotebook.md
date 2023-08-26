@@ -5,19 +5,23 @@ cdate: 2023-08-17
 ---
 
 > Edward, can you beat me  
-> \- fred
+> \- fy
 
 > 8 people have already beaten me today  
-> \- fred
+> \- fy
 
 > That's quite large  
-> \- loren
+> \- lw
 
 > I though I already stripped this one  
-> \- loren
+> \- lw
 
 > cc: \*reading\* "My worm is coming in so handy. Kid named so handy"  
 > lw: I wish that were me
 
 > they can cause cavitation because of how fast they are  
 > \- dp
+
+> athu should kick the tree  
+> it will help tom being a degenerate  
+> \- smw

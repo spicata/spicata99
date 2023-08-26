@@ -11,6 +11,7 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 
 ## ⭐ featured
 
+- [personal linux notes](linux-notes)
 - [categories](categories)
 - [techniques in and analysis of 'for the wake and skeleton dance'](for-the-wake-and-skeleton-dance)
 - [kinetic theory of gas](kinetic-theory-of-gas)
