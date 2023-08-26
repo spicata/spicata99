@@ -7,6 +7,8 @@ cdate: 2023-08-23
 - Shells: zsh, bash, fish, etc
 - Terminal (emulators): built-in, alacritty, kitty, cool retro term, etc
 
+rc at .bashrc, .zshrc, .fishrc, stand for runtime command, which are a list of commands that are run when you open a terminal. \_profile only happens when you log in.
+
 Distros have a desktop environments (DE) built in. DE acts as a way to create GUI, in order to interact with a computer without the need to depend on CLI. Examples include:
 - XCFE
 - [Gnome](gnome)
