@@ -16,6 +16,19 @@ a {
     color: #cad3f5;
 }
 
+a:hover {
+    animation: rainbow 3s infinite;
+}
+
+@keyframes rainbow {
+    0%{color: red;}
+    20%{color: orange;}
+    40%{color: yellow;}
+    60%{color: lime;}
+    80%{color: cyan;}
+    100%{color: red;}
+}
+
 .no-space {
     margin: 0;
 }

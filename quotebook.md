@@ -25,3 +25,10 @@ cdate: 2023-08-17
 > athu should kick the tree  
 > it will help tom being a degenerate  
 > \- smw
+
+> when not making a baby  
+> they get rid of all the baby making preparation  
+> and thats called a period  
+> from personal experience it hurts  
+> \- jb
+
