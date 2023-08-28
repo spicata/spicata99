@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-08-23
 ---
 
-- Shells: zsh, bash, fish, etc
+- Shells: sh, zsh, bash, fish, etc
 - Terminal (emulators): built-in, alacritty, kitty, cool retro term, etc
 
 rc at .bashrc, .zshrc, .fishrc, stand for runtime command, which are a list of commands that are run when you open a terminal. \_profile only happens when you log in.
