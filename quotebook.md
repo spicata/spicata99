@@ -32,3 +32,5 @@ cdate: 2023-08-17
 > from personal experience it hurts  
 > \- jb
 
+> You are hard: Are we made of stone?  
+> -\- nietzche
