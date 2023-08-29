@@ -14,4 +14,4 @@ cos T       1
 sin T     tan T           
 ```
 
-If you divide the Pythagorean identity by cos^2 T, then you get 1 + tan^2 T = sec^2 T. On the other hand, if you divide it by sin^2 T, hen you get cot^2 T + 1 = csc^2 T.
+If you divide the [pi-thagorean](https://pi-thagoras.github.io/the-chicken-pen/) identity by cos^2 T, then you get 1 + tan^2 T = sec^2 T. On the other hand, if you divide it by sin^2 T, hen you get cot^2 T + 1 = csc^2 T.
