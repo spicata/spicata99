@@ -29,3 +29,5 @@ $$\begin{align}
 \end{align}$$
 
 As for tan, just expand then divide everything by sinAcosB
+
+Hm. The Github is screwed up.
