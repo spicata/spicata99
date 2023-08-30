@@ -33,4 +33,8 @@ cdate: 2023-08-17
 > \- jb
 
 > You are hard: Are we made of stone?  
-> -\- nietzche
+> \- nietzche
+
+> ... with your texts more intimately-  
+> I don't mean in the sense that you go to bed with it   
+> \-ms sc
