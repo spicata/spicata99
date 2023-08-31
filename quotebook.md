@@ -38,3 +38,15 @@ cdate: 2023-08-17
 > ... with your texts more intimately-  
 > I don't mean in the sense that you go to bed with it   
 > \-ms sc
+
+> let's just forget about it  
+> \- dr gp
+
+> hence, thence, and whence  
+>\- dr gp
+
+> dp: not only will i be bashing out minecraft-  
+> cc: who's minecraft. and why are you bashing them
+
+> \*looks at the third quote on this page* fr  
+> \- dp
