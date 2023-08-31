@@ -8,8 +8,6 @@ defaults:
       toc: true
 
 plugins:
-  - jekyll-last-modified-at
-  - jekyll-toc
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
