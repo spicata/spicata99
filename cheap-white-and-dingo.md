@@ -36,4 +36,6 @@ Ideology for *dl*: postcolonial theory of unhomeliness and liminal spaces. Dingo
 
 Overlaps: both of them are touch on commercialisation and devaluation of Indigenous culture.
 
+## examples
 
+5 locations: London, Swiss back, Paris, Manhattan, Soho. These are all eucoentric icons of materalism, consumerism and capitalism. Compare this with the Indigenous counterpart: Uluru. "bare", "brutal", "bohemian".
