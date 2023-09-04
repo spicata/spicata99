@@ -8,4 +8,4 @@ Equations have a = sign, and are only true for certain values. On the other hand
 
 Proving it is a skill you need to build up. So do practice.
 
-> Tip: Usually start with the more complicated one
+> Tip: Usually start with the more complicated side

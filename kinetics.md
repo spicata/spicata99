@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-08-28
 ---
 
-Every particle is moving. In a solid, it oscillates between a fixed point. You can plot this (Ek on N). Temperature is the measure of the average kinetic energy of a substance.
+Every particle is moving. In a solid, it oscillates between a fixed point. You can plot this (Ek on N). Temperature is the measure of the average kinetic energy of a substance (SI unit K).
 
 => See Maxwell-Boltzmann curve?
 
