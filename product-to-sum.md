@@ -1,5 +1,5 @@
 ---
-title: 
+title: product to sum
 layout: default
 cdate: 2023-09-04
 ---
