@@ -50,3 +50,15 @@ cdate: 2023-08-17
 
 > \*looks at the third quote on this page* fr  
 > \- dp
+
+> did he apologise profusely  
+> \- jb
+
+> dp: Joules :-|  
+> cc: joles? :-|  
+> dp: joles?! :-)  
+> cc: joles! :-)  
+> dp: i'll kill him! :-D
+
+> people are getting spicy at the back  
+> \- dp
