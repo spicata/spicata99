@@ -62,3 +62,9 @@ cdate: 2023-08-17
 
 > people are getting spicy at the back  
 > \- dp
+
+> luckily, that course adviser is probably dead by now  
+> \- dr gp
+
+> I love that little girl  
+> \- nk
