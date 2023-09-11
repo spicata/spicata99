@@ -1,5 +1,5 @@
 ---
-title: transformation of trig functionsexit
+title: transformation of trig functions
 layout: default
 cdate: 2023-08-10
 ---
