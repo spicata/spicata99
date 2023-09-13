@@ -71,3 +71,15 @@ cdate: 2023-08-17
 
 > go forth and multiply  
 > \- dr gp
+
+> shut the fuck up, i will shove this \*holds waterbottle\* up your ass  
+> \- nk
+
+> i'm gonna make postcolonialism into jam and spread it over this bread play  
+> \- dp
+
+> i hate jews  
+> \- dp
+
+> I DID NOT SAY THAT!  
+> \- dp
