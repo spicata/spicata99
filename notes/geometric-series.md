@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-09-08
 ---
 
-=> See first: [geometric sequences](geometric-sequences)
+=> See first: [geometric sequences](notes/geometric-sequences.md)
 
 The geometric series is 
 

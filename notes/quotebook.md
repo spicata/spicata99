@@ -37,7 +37,7 @@ cdate: 2023-08-17
 
 > ... with your texts more intimately-  
 > I don't mean in the sense that you go to bed with it   
-> \-ms sc
+> \- ms sc
 
 > let's just forget about it  
 > \- dr gp
@@ -104,3 +104,31 @@ cdate: 2023-08-17
 
 > pretty please 🥺 👉👈  
 > \- dp
+
+> rawr!  
+> \- k"chicken"b
+
+> put on your big boy skirt  
+> \- lw to dp
+
+> i usually have to smash my brother on friday evenings  
+> \- fy
+
+> mwahahahaha  
+> \- nk
+
+> he's adorable  
+> \- nk to dp
+
+> I’m her little fucking pet  
+> \- k"lotis"b
+
+> does he beat his brother when he smashes him?  
+> \- ow
+
+> they were so cute  
+> what, they're children  
+> \- kcb
+
+> cc: that's gonna explode the next time we try  
+> nk: thats what she said

@@ -17,7 +17,8 @@ By convention, all the functions only have 1 solution.
 
 ---
 
-- For cos, the solution is "k2pi +- cos^-1 (x)"
-- for sin, the solution is "k2pi + sin^-1(x)" or "(2k + 1)pi -sin^-1(1/2)"
+- For cos, the solution is $k2\pi\pm \cos^{-1} (x)$
+- for sin, the solution is "$k2\pi+\sin^{-1}(x)$" or "$(2k+1)\pi-\sin^{-1}(x)$"
+- For tan, the solution is $k\pi+\tan^{-1} (x)$
 
 This is formal, but the other one works as well (i think shown here)

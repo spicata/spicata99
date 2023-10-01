@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-09-04
 ---
 
-=> See first: [kinetics](kinetics)
+=> See first: [kinetics](notes/kinetics.md)
 
 When something HOTter touches something COLDer, then there is a net transfer of heat from HOT to COLD.
 
@@ -28,4 +28,4 @@ Heat is transferred by (1) conduction: when 2 objects in contact transfer heat t
 
 Thermal equilibrium is when they are at the same temperature HENCE there is no net transfer of heat. Two objects of different temperature will transfer heat from one to another (see above).
 
-=> See also: [states of matter](states-of-matter)
+=> See also: [states of matter](notes/states-of-matter.md)

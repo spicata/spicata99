@@ -6,11 +6,23 @@ layout: default
 <hr>
 <h2>all pages</h2>
 <p>(Joel Hooks 💀)</p>
-{% assign notes = site.pages | sort: 'cdate' | reverse %}
+{% assign abcs = site.pages | sort: 'cdate' | reverse %}
 <ul>
-{% for note in notes %}
+{% if page.folder == "notes" %}
+{% for abc in abcs %}
+{% if abc.url contains "/notes/"%}
     <li>
-        <p class="no-space">{% if note.cdate %}{{ note.cdate }}: {% endif %}<a href="{{ note.url }}">{% if note.title %}{{ note.title }}{% else %}{{ note.name }}{% endif %}</a></p>
+        <p class="no-space">{% if abc.cdate %}{{ abc.cdate }}: {% endif %}<a href="{{ abc.url }}">{% if abc.title %}{{ abc.title }}{% else %}{{ abc.name }}{% endif %}</a></p>
     </li>
+{% endif %}
 {% endfor %}
+{% elsif page.folder == "articles" %}
+{% for abc in abcs %}
+{% if abc.url contains "/articles/"%}
+    <li>
+        <p class="no-space">{% if abc.cdate %}{{ abc.cdate }}: {% endif %}<a href="{{ abc.url }}">{% if abc.title %}{{ abc.title }}{% else %}{{ abc.name }}{% endif %}</a></p>
+    </li>
+{% endif %}
+{% endfor %}
+{% endif %}
 </ul>

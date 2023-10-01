@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-09-12
 ---
 
-Avert your gaze to the diagram from [kinetics](kinetics.md):
+Avert your gaze to the diagram from [kinetics](notes/kinetics.md):
 
 ```
 Temperature

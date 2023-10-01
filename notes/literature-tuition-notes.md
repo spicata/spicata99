@@ -13,4 +13,4 @@ Run with regular narrative structure i.e. exposition/intro → complication → 
 
 It is a satire that doesn't work as a drama, only seeing limited success. It uses 'suspension of disbelief' as a sort of motto, however, this warps the original meaning. When used by Coleridge, it was in reference to romantic ideals that would still strike a chord with normal people.
 
-=> See also: [character making](character-making)
+=> See also: [character making](notes/character-making.md)

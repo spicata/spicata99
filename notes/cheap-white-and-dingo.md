@@ -9,7 +9,7 @@ cdate: 2023-08-29
 
 ## todo
 
-- [x] [Research the glossary and get a definition list of all of those words you have to study](glossary-literature)
+- [x] [Research the glossary and get a definition list of all of those words you have to study](notes/glossary-literature.md)
 - [x] Form 3 ideas for each of the texts, i.e. for *cheap white goods at a dreamtime sale*: appropriation, commercialisation, devaluation. (below)
 - [x] Link ideas to context/ideological lens
 - [x] Compare the overlaps between each of the ideas found in the texts

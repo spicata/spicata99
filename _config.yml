@@ -5,7 +5,18 @@ defaults:
       path: ""
     values:
       layout: "default"
-      toc: true
+  - scope:
+      path: "notes/"
+    values:
+      css: "styles"
+  - scope:
+      path: ""
+    values:
+      css: "styles"
+  - scope:
+      path: "articles/"
+    values:
+      css: "article"
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:

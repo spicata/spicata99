@@ -11,7 +11,7 @@ rc at .bashrc, .zshrc, .fishrc, stand for runtime command, which are a list of c
 
 Distros have a desktop environments (DE) built in. DE acts as a way to create GUI, in order to interact with a computer without the need to depend on CLI. Examples include:
 - XCFE
-- [Gnome](gnome)
+- [Gnome](notes/gnome.md)
 - Cinnamon
 - KDE plasma
 - LXDE

@@ -9,7 +9,7 @@ hallo guys. wanna watch me absolutely lose it?
 ## of muse, meandering and midnight
 
 for the wake and skeleton dance:
-- [go there](for-the-wake-and-skeleton-dance)
+- [go there](notes/for-the-wake-and-skeleton-dance.md)
 
 ## smoke encrypted whispers
 

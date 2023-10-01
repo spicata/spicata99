@@ -15,8 +15,8 @@ $$Q=mc\Delta T$$
 
 SHC is different for different substances. Also different for different states of some substance. e.g. 
 
-- Cwater = 4.18\*10^3 J K^-^-1
-- Cice = 2.10\*10^3 J K^-^-1
-- Csteam = 2.00\*10^3 J K^-^-1
+- Cwater = 4.18\*10^3 J K^-1 kg^-1
+- Cice = 2.10\*10^3 J K^-1 kg^-1
+- Csteam = 2.00\*10^3 J K^-1 kg^-1
 
-=> See also: [the 2nd diagram (kinetics)](kinetics)
+=> See also: [the 2nd diagram (kinetics)](notes/kinetics.md)

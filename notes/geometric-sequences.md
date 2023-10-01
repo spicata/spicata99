@@ -4,7 +4,7 @@ layout: default
 cdate: 2023-09-05
 ---
 
-=> See first: [number sequences](number-sequences)
+=> See first: [number sequences](notes/number-sequences.md)
 
 Geometric sequences have a common ratio (r) and a starting term. In recursive terms:
 

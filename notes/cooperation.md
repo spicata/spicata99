@@ -12,4 +12,4 @@ However, things have happened, and this statement no longer seems are true as it
 
 Cooperation is truly sweet, and brings a spark to life that power itself cannot. It is only when you begin to work with others — bounce off of each others ideas — that stuff gets done. The ability for human cooperation is truly wild, and everything contains it. Nightfall City, Minecraft Servers, tilde.town, and society. The Town is built on this basis of cooperation, even outside of making notes and building websites. Without this, the Town could not have existed. And so, it feels wrong to try to rob this away from the Town. Instead, I find myself more and more inclined to give back to it.
 
-[This is the culmination of that.](town-election-4)
+[This is the culmination of that.](notes/town-election-4.md)
