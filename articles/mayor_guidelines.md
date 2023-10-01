@@ -26,4 +26,4 @@ Don't follow the rules, and get removed from power (or if 75% of the members dis
 
 ---
 
-We will elect a new mayor every quarter ([approval voting](https://en.wikipedia.org/wiki/Approval_voting)) (or when one gets smote). Election period will be 3 days long.
+We will elect a new mayor every quarter (or when one gets smote) ([approval voting](https://en.wikipedia.org/wiki/Approval_voting)). Election period will be 3 days long.
