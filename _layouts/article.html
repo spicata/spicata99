@@ -1,0 +1,25 @@
+<!------------------------------------------------>
+<!--"Hi there! Hope you are doing well today."---->
+<!--"Anyways, the source code is always at: "----->
+<!--https://github.com/spicata/notes99------------>
+<!------------------------------------------------>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/articles.css">
+  </head>
+    <article>
+      <p><a href="/">go back?</a></p>
+      {% if page.title %}
+      <h1 class="title">{{ page.title }}</h1>
+      {% else %}
+      <h1 class="title">{{ page.name }}</h1>
+      {% endif %}
+  
+      {{ content }}
+    </article>
+  </body>
+</html>

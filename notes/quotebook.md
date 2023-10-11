@@ -132,3 +132,6 @@ cdate: 2023-08-17
 
 > cc: that's gonna explode the next time we try  
 > nk: thats what she said
+
+> ... sex on the beach. It sounds sweet though  
+> \- lw

@@ -15,3 +15,4 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 - [techniques in and analysis of 'for the wake and skeleton dance'](notes/for-the-wake-and-skeleton-dance.md)
 - [kinetic theory of gas](notes/kinetic-theory-of-gas.md)
 - [i slowly go kooky doing literature](notes/smoke-encrypted-whispers.md)
+- [on literature exams (it is an advertisement lol)](notes/on_literature_exams.md)
