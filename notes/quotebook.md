@@ -138,3 +138,15 @@ cdate: 2023-08-17
 
 > blah blah blah she helped me lube blah blah  
 > \- something along the lines of what fy said, i wasnt listening
+
+> People say I'm into bear feet, but really I'm only into human feet 
+> \- jb, quoted by lw
+
+> cubeberry? that should say cuteberry, because thats what i think when i look at you   
+> \- jb
+
+> cc: can you help me build a railway  
+> jb: sorry, im too busy getting railed somewhere else
+
+> [soundboard among sus] sounds like dasindu  
+> \- jb. if you know, you know
