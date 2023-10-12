@@ -150,3 +150,6 @@ cdate: 2023-08-17
 
 > [soundboard among sus] sounds like dasindu  
 > \- jb. if you know, you know
+
+> i'm really good at getting physical  
+> \- jb
