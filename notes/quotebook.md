@@ -152,4 +152,13 @@ cdate: 2023-08-17
 > \- jb. if you know, you know
 
 > i'm really good at getting physical  
+> \- jb, quoted by dp
+
+> especially for you, it's your first time  
+> \- dp
+
+> we should go [to a strip club] one day  
+> \- jb
+
+> it makes everything harder  
 > \- jb
