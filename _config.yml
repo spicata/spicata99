@@ -8,7 +8,7 @@ defaults:
   - scope:
       path: "notes/"
     values:
-      css: "styles"
+      layout: "notes"
   - scope:
       path: ""
     values:
