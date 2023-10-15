@@ -1,6 +1,6 @@
 ---
 title: inverse trig
-layout: default
+layout: notes
 cdate: 2023-08-21
 ---
 

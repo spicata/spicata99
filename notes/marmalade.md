@@ -1,6 +1,6 @@
 ---
 title: marmalade
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-30

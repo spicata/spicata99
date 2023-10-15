@@ -1,6 +1,6 @@
 ---
 title: weak acids and net ionic equations
-layout: default
+layout: notes
 cdate: 2023-08-01
 ---
 

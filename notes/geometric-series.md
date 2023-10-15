@@ -1,10 +1,10 @@
 ---
 title: geometric series
-layout: default
+layout: notes
 cdate: 2023-09-08
 ---
 
-=> See first: [geometric sequences](notes/geometric-sequences.md)
+=> See first: [geometric sequences](/notes/geometric-sequences)
 
 The geometric series is 
 

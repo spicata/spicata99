@@ -1,6 +1,6 @@
 ---
 title: universal gas constant
-layout: default
+layout: notes
 cdate: 2023-08-09
 ---
 

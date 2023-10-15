@@ -1,6 +1,6 @@
 ---
-title: mistakes made: induction, matrices, and trigonometry
-layout: default
+title: "mistakes made: induction, matrices, and trigonometry"
+layout: notes
 cdate: 2023-10-13
 ---
 

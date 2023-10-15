@@ -1,6 +1,6 @@
 ---
 title: literature question sets
-layout: default
+layout: notes
 cdate: 2023-08-21
 ---
 

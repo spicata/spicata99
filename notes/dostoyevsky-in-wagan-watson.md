@@ -1,6 +1,6 @@
 ---
 title: dostoyevsky in wagan watson
-layout: default
+layout: notes
 cdate: 2023-08-14
 ---
 

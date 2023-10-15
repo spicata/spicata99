@@ -1,6 +1,6 @@
 ---
 title: proof by induction
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-21

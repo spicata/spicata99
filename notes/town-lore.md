@@ -1,6 +1,6 @@
 ---
 title: town lore
-layout: default
+layout: notes
 cdate: 2023-08-07
 ---
 

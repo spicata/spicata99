@@ -1,10 +1,10 @@
 ---
 title: latent heat
-layout: default
+layout: notes
 cdate: 2023-09-12
 ---
 
-Avert your gaze to the diagram from [kinetics](notes/kinetics.md):
+Avert your gaze to the diagram from [kinetics](/notes/kinetics):
 
 ```
 Temperature

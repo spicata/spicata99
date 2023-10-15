@@ -1,6 +1,6 @@
 ---
 title: Town Election 4 Changes
-layout: default
+layout: notes
 cdate: 2023-08-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: watson tips
-layout: default
+layout: notes
 cdate: 2023-08-21
 ---
 

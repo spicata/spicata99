@@ -1,6 +1,6 @@
 ---
 title: badmark formatting draft
-layout: default
+layout: notes
 cdate: 2023-07-31
 state: seed
 type: 

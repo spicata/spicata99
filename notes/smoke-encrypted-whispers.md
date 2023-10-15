@@ -1,6 +1,6 @@
 ---
 title: smoke encrypted whispers
-layout: default
+layout: notes
 cdate: 2023-08-03
 ---
 
@@ -9,7 +9,7 @@ hallo guys. wanna watch me absolutely lose it?
 ## of muse, meandering and midnight
 
 for the wake and skeleton dance:
-- [go there](notes/for-the-wake-and-skeleton-dance.md)
+- [go there](/notes/for-the-wake-and-skeleton-dance)
 
 ## smoke encrypted whispers
 

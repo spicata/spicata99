@@ -1,6 +1,6 @@
 ---
 title: electrical safety and power
-layout: default
+layout: notes
 cdate: 2023-08-21
 ---
 

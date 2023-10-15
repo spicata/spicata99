@@ -1,6 +1,6 @@
 ---
 title: postcolonialist theory
-layout: default
+layout: notes
 cdate: 2023-08-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: my frustrations...
-layout: default
+layout: notes
 cdate: 2023-08-26
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: mistakes made: general chem
-layout: default
+title: "mistakes made: general chem"
+layout: notes
 cdate: 2023-10-13
 ---
 

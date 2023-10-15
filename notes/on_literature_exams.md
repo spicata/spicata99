@@ -1,6 +1,6 @@
 ---
 title: on literature exams
-layout: default
+layout: notes
 cdate: 2023-10-11
 ---
 
@@ -12,7 +12,7 @@ Do YOU think that writing poetry for the close reading is the best choice becaus
 
 Number 1: Writing poetry for extended response? Well, when it comes to poetry — because of the use of meter, rhythm, and rhyme — you can memorise entire poems. Why be limited to the quotes you have memorised when you can just remember the entire poem?
 
-Number 2: You can do proses (and drama) for close reading easily. Just do [narrative conventions](notes/narrative-devices). It's as easy as that. For some more details...
+Number 2: You can do proses (and drama) for close reading easily. Just do [narrative conventions](/notes/narrative-devices). It's as easy as that. For some more details...
 
 - They can be flat or round (complexity), static or dynamic (change). They are sometimes stereotypes and sometimes archetypes, sometimes foils too. They are... (*drumroll*)... Characters!
     - Constructed through what they Say, what Others say about them, what they Do, and how they Appear. SODA.

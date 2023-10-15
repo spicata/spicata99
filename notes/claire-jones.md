@@ -1,6 +1,6 @@
 ---
 title: claire jones
-layout: default
+layout: notes
 cdate: 2023-08-03
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Intro to spicata99+
-layout: default
+layout: notes
 description: A quick explanation on what happened to spicata99 and why I made spicata99+
 showdescription: true
 cdate: 2023-07-06

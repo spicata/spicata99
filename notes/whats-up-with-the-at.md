@@ -1,6 +1,6 @@
 ---
 title: whats up with the at?
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-30

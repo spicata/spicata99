@@ -1,6 +1,6 @@
 ---
 title: abstract terms dont help
-layout: default
+layout: notes
 description: an angry message to english
 showdescription: true
 cdate: 2023-07-17

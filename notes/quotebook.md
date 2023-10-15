@@ -1,6 +1,6 @@
 ---
 title: quotebook
-layout: default
+layout: notes
 cdate: 2023-08-17
 ---
 

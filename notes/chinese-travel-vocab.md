@@ -1,6 +1,6 @@
 ---
 title: chinese travel vocab WIP
-layout: default
+layout: notes
 cdate: 2023-08-13
 ---
 

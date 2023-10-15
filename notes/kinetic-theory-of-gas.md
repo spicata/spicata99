@@ -1,6 +1,6 @@
 ---
 title: kinetic theory of gas
-layout: default
+layout: notes
 cdate: 2023-08-09
 ---
 
@@ -34,10 +34,10 @@ This can be used to explain lots of properties of gas:
 - Low densities, because there are large space between them
 
 Said laws:
-- [boil law](notes/boyles-law.md)
-- [charles'z law](notes/charles-law.md)
-- [combined gas law](notes/combined-gas-law.md)
-- [avocado law](notes/avogadros-law.md)
-- [universal gas constant](notes/universal-gas-constant.md)
+- [boil law](/notes/boyles-law)
+- [charles'z law](/notes/charles-law)
+- [combined gas law](/notes/combined-gas-law)
+- [avocado law](/notes/avogadros-law)
+- [universal gas constant](/notes/universal-gas-constant)
 
 You don't need to know how to calculate them yet.

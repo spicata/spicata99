@@ -1,6 +1,6 @@
 ---
 title: character making
-layout: default
+layout: notes
 cdate: 2023-09-04
 ---
 

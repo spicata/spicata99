@@ -1,6 +1,6 @@
 ---
 title: trigonometric identities
-layout: default
+layout: notes
 cdate: 2023-08-18
 ---
 

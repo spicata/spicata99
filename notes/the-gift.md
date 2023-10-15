@@ -1,6 +1,6 @@
 ---
 title: the gift
-layout: default
+layout: notes
 cdate: 2023-09-07
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: how to close read
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-19
@@ -9,8 +9,8 @@ type:
 ---
 
 1. Read
-2. Read aesthetically i.e. read for [devices](notes/types-of-devices.md)
-3. [Reading strategy](notes/readings.md) e.g. read with regards to:
+2. Read aesthetically i.e. read for [devices](/notes/types-of-devices)
+3. [Reading strategy](/notes/readings) e.g. read with regards to:
     - gender
     - class
     - representations

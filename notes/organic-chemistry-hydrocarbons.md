@@ -1,6 +1,6 @@
 ---
 title: organic chemistry hydrocarbons
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-19

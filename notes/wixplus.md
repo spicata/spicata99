@@ -1,6 +1,6 @@
 ---
 title: Wix+
-layout: default
+layout: notes
 description: an idea for better web dev
 showdescription: true
 cdate: 2023-07-11

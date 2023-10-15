@@ -68,3 +68,5 @@ code { font-family: inherit; font-size: inherit; }
 .myname { color: green; }
 
 .footer { display: flex; justify-content: space-between; }
+
+li { font-size: 1.5rem; }

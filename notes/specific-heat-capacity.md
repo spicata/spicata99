@@ -1,6 +1,6 @@
 ---
 title: specific heat capacity
-layout: default
+layout: notes
 cdate: 2023-09-06
 ---
 
@@ -19,4 +19,4 @@ SHC is different for different substances. Also different for different states o
 - Cice = 2.10\*10^3 J K^-1 kg^-1
 - Csteam = 2.00\*10^3 J K^-1 kg^-1
 
-=> See also: [the 2nd diagram (kinetics)](notes/kinetics.md)
+=> See also: [the 2nd diagram (kinetics)](/notes/kinetics)

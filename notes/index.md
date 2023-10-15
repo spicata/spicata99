@@ -1,6 +1,6 @@
 ---
 title: spicata's notes
-layout: index
+layout: notesdex
 cdate: 2023-07-06
 folder: notes
 ---
@@ -9,11 +9,11 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 
 ## ⭐ featured
 
-- [quotebook](notes/quotebook.md)
-- [personal linux notes](notes/linux-notes.md)
-- [categories](notes/categories.md)
-- [techniques in and analysis of 'for the wake and skeleton dance'](notes/for-the-wake-and-skeleton-dance.md)
-- [kinetic theory of gas](notes/kinetic-theory-of-gas.md)
-- [i slowly go kooky doing literature](notes/smoke-encrypted-whispers.md)
-- [on literature exams (it is an advertisement lol)](notes/on_literature_exams.md)
-- [mistakes made](notes/mistakes_made )
+- [quotebook](/notes/quotebook)
+- [personal linux notes](/notes/linux-notes)
+- [categories](/notes/categories)
+- [techniques in and analysis of 'for the wake and skeleton dance'](/notes/for-the-wake-and-skeleton-dance)
+- [kinetic theory of gas](/notes/kinetic-theory-of-gas)
+- [i slowly go kooky doing literature](/notes/smoke-encrypted-whispers)
+- [on literature exams (it is an advertisement lol)](/notes/on_literature_exams)
+- [mistakes made](/notes/mistakes_made)

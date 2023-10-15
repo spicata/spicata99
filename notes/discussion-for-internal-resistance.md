@@ -1,6 +1,6 @@
 ---
 title: discussion for internal resistance
-layout: default
+layout: notes
 cdate: 2023-08-23
 ---
 

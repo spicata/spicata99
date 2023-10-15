@@ -1,6 +1,6 @@
 ---
 title: the town
-layout: default
+layout: notes
 cdate: 2023-08-07
 ---
 
@@ -32,7 +32,7 @@ cdate: 2023-08-07
 
 *You come back from the nursery, finding Spicata sitting down by his desk, head hunched over some papers.*
 
-"Oh, you've finished exploring the gardens? Well, there's not much left to show, and the sandstorms still going strong. If you want, you could go down that left hallway, see the [random comics]() I draw when I have time on my hands. Waiting for these sandstorms to be over can get boring, after all."
+"Oh, you've finished exploring the gardens? Well, there's not much left to show, and the sandstorms still going strong. If you want, you could go down that left hallway, see the random comics I draw when I have time on my hands. Waiting for these sandstorms to be over can get boring, after all."
 
 ---
 
@@ -42,7 +42,7 @@ cdate: 2023-08-07
 
 "This would have been the first stop our journey, had you come a little earlier. Now, there's not much left, as you can probably see. It's a real shame. In case you were wondering, this sad pile of debris used to be the glorious house of the Town's ex-mayor. Now that he's left, his house was left unmaintained, until it burned down one day, probably all the volatile chemicals he stored all over the place.
 
-"Instead, we're gonna have to go to the other side of the old Town, over there. Here, we've got two of the [oldest]() [houses]() in Town, both owned by very talent programmers. Both of them have gone through their fair share of iterations, and these are the ones that you'll find now. Despite their seniority, the two who live in each house respectively don't participate much in any of the Town's business.
+"Instead, we're gonna have to go to the other side of the old Town, over there. Here, we've got two of the oldest houses in Town, both owned by very talent programmers. Both of them have gone through their fair share of iterations, and these are the ones that you'll find now. Despite their seniority, the two who live in each house respectively don't participate much in any of the Town's business.
 
 "Well ... the older of the two does usually helps us set up things around Town. so there's that.
 

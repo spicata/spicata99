@@ -1,6 +1,6 @@
 ---
-title: heating processes: mistakes i made
-layout: default
+title: "heating processes: mistakes i made"
+layout: notes
 cdate: 2023-10-12
 ---
 

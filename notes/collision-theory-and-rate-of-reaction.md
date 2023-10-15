@@ -1,12 +1,12 @@
 ---
 title: collision theory and rate of reaction
-layout: default
+layout: notes
 cdate: 2023-08-24
 ---
 
 Collision theory: reactions occur when reactants collide with sufficient energy with the correct orientation. The more successful reactions in a period of time, the faster the rate of reaction.
 
-=> see: [enthalpy](notes/enthalpy.md)
+=> see: [enthalpy](/notes/enthalpy)
 
 $$\text{rate of reaction}=\frac{\text{no. successful reaction}}{\Delta t}$$
 

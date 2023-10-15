@@ -1,6 +1,6 @@
 ---
 title: "Samuel Wagan Watson: Some notes"
-layout: default
+layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-11

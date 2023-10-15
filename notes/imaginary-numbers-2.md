@@ -1,6 +1,6 @@
 ---
 title: imaginary numbers 2
-layout: default
+layout: notes
 cdate: 2023-09-11
 ---
 
