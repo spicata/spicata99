@@ -3,29 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/notes.css">
+    <link rel="stylesheet" href="/assets/css/articles.css">
   </head>
-    <article class="article">
+    <article>
       {% if page.title %}
-      <h1>{{ page.title }}</h1>
+      <h1 class="title">{{ page.title }}</h1>
       {% else %}
-      <h1>{{ page.name }}</h1>
+      <h1 class="title">{{ page.name }}</h1>
       {% endif %}
       {{ content }}
       <hr>
-      <h2>all notes</h2>
+      <h2>all articles</h2>
       <p>(Joel Hooks 💀)</p>
       {% assign hitheres = site.pages | sort: 'cdate' | reverse %}
       <ul>
       {% for hithere in hitheres %}
-      {% if hithere.url contains "/notes/"%}
+      {% if hithere.url contains "/articles/"%}
           <li>
               {% if hithere.cdate %}{{ hithere.cdate }}: {% endif %}<a href="{{ hithere.url }}">{% if hithere.title %}{{ hithere.title }}{% else %}{{ hithere.name }}{% endif %}</a>
           </li>
       {% endif %}
       {% endfor %}
       </ul>
-      <p class="footer"><span><span class="myname">M.spicata</span> {{ page.cdate}}</span><a href="/">Go home?</a></p>
+      <p><a href="/">go back?</a></p>
     </article>
   </body>
 </html>

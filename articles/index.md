@@ -1,8 +1,7 @@
 ---
 title: articles!
-layout: index
+layout: articledex
 cdate: 2023-10-01
-folder: articles
 ---
 
 aha!

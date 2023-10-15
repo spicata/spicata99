@@ -1,6 +1,6 @@
 ---
 title: pitch idea #1: hobson's notes
-layout: default
+layout: article
 cdate: 2023-10-01
 ---
 

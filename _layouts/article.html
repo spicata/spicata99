@@ -1,9 +1,3 @@
-<!------------------------------------------------>
-<!--"Hi there! Hope you are doing well today."---->
-<!--"Anyways, the source code is always at: "----->
-<!--https://github.com/spicata/notes99------------>
-<!------------------------------------------------>
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -12,14 +6,13 @@
     <link rel="stylesheet" href="/assets/css/articles.css">
   </head>
     <article>
-      <p><a href="/">go back?</a></p>
       {% if page.title %}
       <h1 class="title">{{ page.title }}</h1>
       {% else %}
       <h1 class="title">{{ page.name }}</h1>
       {% endif %}
-  
       {{ content }}
+      <p><a href="/articles/">go back?</a></p>
     </article>
   </body>
 </html>

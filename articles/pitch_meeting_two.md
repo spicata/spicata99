@@ -1,5 +1,5 @@
 ---
-title: pitch meeting 2: discord but better
+title: "pitch meeting 2: discord but better"
 layout: article
 cdate: 2023-10-13
 ---
