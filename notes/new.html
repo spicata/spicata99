@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/notes.css">
+  </head>
+    <article class="article">
+      
+        <h1>Intro to spicata99+</h1>
+      
+      <h2 id="repeat-myself-myself">Repeat myself (myself)</h2>
+
+<p>Completely redoing my website seems to be becoming a quarterly thing (<a href="https://archive.99000000.xyz/">link to old one</a>). I did it once when I switched from 11ty to Jekyll. I did it again when I switched from using a Jekyll theme to making my own. I am once again, doing it again, switching from Jekyll to Jekyll, but reworking everything. Continously doing this is starting to become a pain, and the amount of HTML, Liquid, and CSS I always need to do is very annoying.</p>
+
+<p>However, as with the other times, I guess it is for good reason, so there’s that. Let’s see what is different this time around…</p>
+
+<h2 id="changelog">Changelog</h2>
+
+<ul>
+  <li>Max-width went from 700px to 1000px in order to fit the second column;</li>
+  <li>added table of contents and the added backlinks (on the second column);</li>
+  <li>moved the status and creation date to the column (but at the top);</li>
+  <li>put a xob in the index :-);</li>
+  <li>a list of notes and essays are on the index page;</li>
+  <li>plus more minor changes that you will have to find by just going around</li>
+</ul>
+
+<h2 id="the-end-of-folders">The end of folders</h2>
+
+<p>Importantly, one of the biggest changes (along with the eradication of literally anything), is the extinction of folder. Why? Well, I’m not sure if you have heard of Andy Matuschak and his evergreen notes<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, but essentially, organisation through connection is better than connection through folders.</p>
+
+<p>That’s why spicata99+ has a larger emphasis on linking than spicata99, and also why all the folder have died.</p>
+
+<h2 id="backlinking">Backlinking</h2>
+
+<p>Backlinking was very, <strong>very</strong> difficult to implement. I used pure Jekyll + liquid to do it, without using new plugins.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% assign urlnohtml = page.url | remove: ".html" %}
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"page-backlinks"</span><span class="nt">&gt;</span>
+    {% unless page.url == '/' %}
+        <span class="nt">&lt;h4</span> <span class="na">class=</span><span class="s">"backlink-title"</span><span class="nt">&gt;</span>Links to this note:<span class="nt">&lt;/h4&gt;</span>
+    {% endunless %}
+    <span class="nt">&lt;ul&gt;</span>
+    {% for note in site.pages %}
+    {% if note.url != page.url %}
+    {% if note.content contains urlnohtml %}
+    {% unless page.url == '/' %}
+    <span class="nt">&lt;li&gt;</span>
+    {% if note.title %}
+        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"{{ note.url }}"</span><span class="nt">&gt;</span>{{ note.title }}<span class="nt">&lt;/a&gt;</span>
+    {% else %}
+        <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"{{ note.url }}"</span><span class="nt">&gt;</span>{{ note.name }}<span class="nt">&lt;/a&gt;</span>
+    {% endif %}
+    <span class="nt">&lt;/li&gt;</span>
+    {% endunless %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+ <span class="nt">&lt;/ul&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<p>This was agonising. However, there was the little problem where files in folders would not be able to be found, due to the ways I wrote this. This was half of the true reason I removed all of the folders. The other one is a little more subtle.</p>
+
+<p>If you have ever seen the source code of my website, you would know that all the links are actually just relative links; that is to say that it just directs the user from the current file to the next on through the shortest path, not by going all the way back to the root folder and going to the new file. Doing so would drastically increase the length of every link. However, to fix the folder problem above, I would have to use these ‘absolute link’.</p>
+
+<p>So, I just deleted all the folders.</p>
+
+<h2 id="a-new-start">A new start</h2>
+
+<p>Deleting all these folders and files kind of reminds me of the move from 11ty to Jekyll, where I removed everything and started anew. There is something nice to having a brand new canvas to draw on, even though you like your own little mess you made on the old one.</p>
+
+<p>So, welcome to spicata99+. I’m M.spicata, a member of the Town, and I hope you enjoy your stay here.</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Ed and I have an article coming out about him and more, so wait, I guess. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      <p class="footer"><span><span class="myname">M.spicata</span> 2023-07-06</span><a href="/notes/">Go home?</a></p>
+    </article>
+  </body>
+</html>
