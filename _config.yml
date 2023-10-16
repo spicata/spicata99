@@ -1,5 +1,5 @@
 url: "https://notes.99000000.xyz"
-exclude: [template/, fixing.epub, docs/, LICENSE, CNAME, "broken links output.md", assets/*.xcf]
+exclude: [template/, fixing.epub, docs/, LICENSE, "broken links output.md", assets/*.xcf]
 destination: docs/
 
 defaults:
