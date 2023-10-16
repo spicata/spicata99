@@ -162,3 +162,6 @@ cdate: 2023-08-17
 
 > it makes everything harder  
 > \- jb
+
+> it's hard because im just so good  
+> \- rk

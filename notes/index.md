@@ -4,7 +4,7 @@ layout: notesdex
 cdate: 2023-07-06
 ---
 
-hello! [i'm spicata](about-me). this is my website, which i use to share notes, do website stuff, and be part of a very exclusive and elite group of friends called the town (of which we have [many](https://the.toomwn.xyz/) [official](https://town.toomwn.xyz/) [pages](https://page.toomwn.xyz/#)).
+hello! [i'm spicata](about-me). this is my website, which i use to share notes, do website stuff, and be part of a very exclusive and elite group of friends called the town (of which we have [many](https://the.toomwn.xyz/) [official](https://town.99000000.xyz/) [pages](https://page.toomwn.xyz/#)).
 
 ## ⭐ featured
 
@@ -16,3 +16,4 @@ hello! [i'm spicata](about-me). this is my website, which i use to share notes, 
 - [i slowly go kooky doing literature](/notes/smoke-encrypted-whispers)
 - [on literature exams (it is an advertisement lol)](/notes/on_literature_exams)
 - [mistakes made](/notes/mistakes_made)
+- [on close reading](to_close_read)

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/notes.css">
+  </head>
+    <article class="article">
+      
+        <h1>badmark</h1>
+      
+      <h2 id="stage-0">stage 0</h2>
+
+<p>No code required.</p>
+
+<p>Badmark is a raw-text formatting language; heavily inspired by Markdown. It has its fair share of unique features, as well as cutting down on some other features. These features are as follows…</p>
+
+<ul>
+  <li>Inline text formatting viz. bold, italics, strikethrough, underlining, and highlighting.</li>
+  <li>Some block formatting viz. codeblocks, blockquotes, 6 levels of headings, paragraph elements, ordered lists, and unordered lists</li>
+  <li>Possible other misc elements viz. spoilers, page breaks, etc.</li>
+  <li>Linking to images and other files</li>
+</ul>
+
+<p>Features that will not be carried from Markdown include:</p>
+
+<ul>
+  <li>Tables</li>
+  <li>Footnotes</li>
+</ul>
+
+<h2 id="stage-1">stage 1</h2>
+
+<p>Expected Javascript.</p>
+
+<p>Badmark is a Badmark to HTML parser/renderer, similar to how other Markdown to HTML parsers work. This means that Badmark formatted files can be converted to HTML files, and thus can be used as a website. It should be relatively easy to add new elements.</p>
+
+<p>Inline elements:</p>
+
+<ul>
+  <li>bold → &lt;strong&gt;&lt;/strong&gt;</li>
+  <li>italics → &lt;em&gt;&lt;/em&gt;</li>
+  <li>strikethrough → &lt;del&gt;&lt;/del&gt;</li>
+  <li>underline → &lt;u&gt;&lt;/u&gt;</li>
+  <li>highlighting → &lt;mark&gt;&lt;/mark&gt;</li>
+  <li>links → &lt;a&gt;&lt;/a&gt;</li>
+</ul>
+
+<p>Block elements:</p>
+
+<ul>
+  <li>codeblocks → &lt;pre&gt;&lt;/pre&gt;</li>
+  <li>heading → &lt;h#&gt;&lt;/h#&gt;</li>
+  <li>blockquotes → &lt;blockquote&gt;&lt;/blockquote&gt;</li>
+  <li>paragraphs → &lt;p&gt;&lt;/p&gt;</li>
+  <li>ordered lists → &lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;/ol&gt;</li>
+  <li>unordered lists → &lt;ul&gt;&lt;li&gt;&lt;/li&gt;&lt;/ul&gt;</li>
+</ul>
+
+<h2 id="stage-2">stage 2</h2>
+
+<p>Possible Javascript?</p>
+
+<p>Badmark is a SSG. It will now be able to collate HTML files from a directory and bundle them into preformatted templates, and more; similar to how Hugo, Jekyll, or Zola works. It will also be able to use the YAML frontmatter as options.</p>
+
+<p>This will mainly include getting templates (e.g. from a _templates folder) then placing the HTML file from the site into that template (e.g. through the {{ content }}).</p>
+
+<h2 id="stage-3">stage 3</h2>
+
+<p>CSS and HTML required.</p>
+
+<p>Badmark now has a SSG template, much like Quartz for Hugo. This means it will come with its own HTML and CSS.</p>
+
+      <p class="footer"><span><span class="myname">M.spicata</span> 2023-08-01</span><a href="/notes/">Go home?</a></p>
+    </article>
+  </body>
+</html>
