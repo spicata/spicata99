@@ -8,6 +8,7 @@ bundle exec jekyll build --destination docs/
 echo -e "${green}# Adding...${clear}"
 git add docs/
 echo -e "${green}# Committing...${clear}"
-git cm "Updates docs"
+read -p $'\e[31mCommit name: \e[0m' name
+git cm "${name}"
 echo -e "${green}# Pushing...${clear}"
 git push

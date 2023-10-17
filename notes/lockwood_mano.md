@@ -1,6 +1,6 @@
 ---
 title: "lockwood mano."
-layout: default
+layout: notes
 cdate: 2023-10-16
 ---
 

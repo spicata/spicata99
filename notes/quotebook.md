@@ -165,3 +165,8 @@ cdate: 2023-08-17
 
 > it's hard because im just so good  
 > \- rk
+
+> what's the difference between flowers and anal?  
+> flowers make your day  
+> anal makes your whole week  
+> \- nk
