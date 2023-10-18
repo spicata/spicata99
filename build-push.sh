@@ -27,6 +27,7 @@ echo -e "${green}# Committing...${clear}"
 read -p $'\e[31m> Commit name: \e[0m' name
 git cm "${name}"
 read -p $'\e[31m> Do you want to push? [Y/n] \e[0m' push_yes
+if [[ ${push_yes} = y ]] || [[ ${push_yes} = Y ]]
 then
 	echo -e "${blue}Okay, will push.${clear}"
 	echo -e "${green}# Pushing...${clear}"
