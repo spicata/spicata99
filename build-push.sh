@@ -14,16 +14,23 @@ then
 else
 	echo -e "${blue}Okay, will skip.${clear}"
 fi
-echo -e "${green}# Adding...${clear}"
 if [[ ${build_yes} = y ]] || [[ ${build_yes} = Y ]]
 then
+	echo -e "${green}# Adding docs...${clear}"
 	git add docs/
 else
+	echo -e "${green}# Adding rest...${clear}"
 	git aa
 	git unadd docs/
 fi
 echo -e "${green}# Committing...${clear}"
 read -p $'\e[31m> Commit name: \e[0m' name
 git cm "${name}"
-echo -e "${green}# Pushing...${clear}"
-git push
+read -p $'\e[31m> Do you want to push? [Y/n] \e[0m' push_yes
+then
+	echo -e "${blue}Okay, will push.${clear}"
+	echo -e "${green}# Pushing...${clear}"
+	git push
+else
+	echo -e "${blue}Okay, will skip.${clear}"
+fi
