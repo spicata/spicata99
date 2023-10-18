@@ -16,6 +16,4 @@ You can do this question on *Hedda Gabler*, reading a text through a feminist le
 
 You can do (my *favourite* Romantic poem) *Kubla Khan*. Because, yes.
 
-
-
 ---

@@ -27,5 +27,5 @@ It could be a homage to the Gothic genre, especially *Jane Eyre*. Or mental illn
 > The extract from *The Animals of Lockwood Manor* explores the detrimental impacts of ~~eating cheese~~ social and physical isolation.  
 > \- me
 
-> ... suggests that the domestic space is one wherein women are trapped within confining and outdated gender roles. By paying homage to Gothic texts such as *Jane Eyre*, Healy constructs a vulnerable first person narrator who seems to be lost and swallowed up by the titular Lockwood Manor.
+> ... suggests that the domestic space is one wherein women are trapped within confining and outdated gender roles. By paying homage to Gothic texts such as *Jane Eyre*, Healy constructs a vulnerable first person narrator who seems to be lost and swallowed up by the titular Lockwood Manor.  
 > \- rk

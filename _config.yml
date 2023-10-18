@@ -1,5 +1,12 @@
 url: "https://notes.99000000.xyz"
-exclude: [template/, fixing.epub, docs/, LICENSE, "broken links output.md", assets/*.xcf, build-push.sh, nobuild.sh]
+exclude: 
+- template/
+- fixing.epub
+- docs/, LICENSE
+- "broken links output.md"
+- assets/*.xcf
+- /*.sh
+- docs.tar.xz
 include: [.nojekyll]
 destination: docs/
 
@@ -12,10 +19,6 @@ defaults:
       path: "notes/"
     values:
       layout: "notes"
-  - scope:
-      path: ""
-    values:
-      css: "styles"
   - scope:
       path: "articles/"
     values:

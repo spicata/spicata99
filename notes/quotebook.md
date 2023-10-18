@@ -170,3 +170,6 @@ cdate: 2023-08-17
 > flowers make your day  
 > anal makes your whole week  
 > \- nk
+
+> i'm a long  
+> \- rk
