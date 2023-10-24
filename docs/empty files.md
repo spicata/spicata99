@@ -1,0 +1,3 @@
+- [[notes/connectors-mavens-and-salesmen.md]]
+- [[template/articles.md]]
+- [[template/_default.md]]
