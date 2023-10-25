@@ -69,4 +69,5 @@ code { font-family: inherit; font-size: inherit; }
 .footer { display: flex; justify-content: space-between; }
 
 li { font-size: 1.5rem; }
-li > u { font-size: inherit; }
+li > p { font-size: inherit; }
+ul { margin: 1ch 0px; }
