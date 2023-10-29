@@ -11,14 +11,14 @@ background-color: rgba(251, 244, 255, 1);
 color: rgba(20, 5, 33, 1); 
 max-width: 60ch;
 margin: 30px auto;
-padding: 10px 1rrem;
+padding: 10px 1rem;
 border-radius: 10px;
 font-family: 'Inconsolata', monospace;
 overflow-wrap: break-word;
 box-shadow: 0px 0px 300px rgba(109, 28, 185, 0.6);
 }
 
-p { overflow-wrap: break-word; font-size: 1rrem; margin: 0.5rrem 0px 1rrem; }
+p { overflow-wrap: break-word; font-size: 1rem; margin: 0.5rem 0px 1rem; }
 
 a { color: rgba(20, 5, 33, 1); }
 a:hover { animation: rainbow 3s infinite; }
