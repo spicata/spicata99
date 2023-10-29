@@ -1,7 +1,7 @@
 html { font-size: 24px; }
 
 body {
-font-size: inherit;
+font-size: 24px;
 background-color: rgba(20, 5, 33, 1); 
 line-height: 1;
 }
@@ -72,4 +72,4 @@ code { font-family: inherit; font-size: inherit; }
 
 li { font-size: 1rem; }
 li > p { font-size: inherit; }
-ul { margin: 1ch 0px; }
+ul { margin: 1ch 0px; padding: 0px 0px 0px 2ch}
