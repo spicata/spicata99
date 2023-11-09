@@ -18,7 +18,7 @@ overflow-wrap: break-word;
 box-shadow: 0px 0px 300px rgba(109, 28, 185, 0.6);
 }
 
-p { overflow-wrap: break-word; font-size: 1rem; margin: 0.5rem 0px 1rem; }
+p { overflow-wrap: break-word; font-size: 1rem; margin: 1rem 0px 1rem; }
 
 a { color: rgba(20, 5, 33, 1); }
 a:hover { animation: rainbow 3s infinite; }
