@@ -28,7 +28,7 @@ zippity zop zap
 
 and finally `some inline code` too. **bold**, ~~strikethrough~~, and *italics*, although i never use them
 
-[index](notes/index.md)
+[index](notes/index)
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
