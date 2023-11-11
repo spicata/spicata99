@@ -1,72 +1,63 @@
 html { font-size: 24px; }
-
-body {
-font-size: 24px;
-background-color: #282a36;
-line-height: 1;
-}
+body { background-color: #282a36; line-height: 1; }
 
 .article {
 background-color: #282a36;
 border: 1px solid #44475a;
+border-radius: 40px;
 color: #f8f8f2; 
 max-width: 60ch;
 margin: 30px auto;
-padding: 20px 3rem;
-border-radius: 10px;
+padding: 30px calc(30px + 1em);
 font-family: 'Inconsolata', monospace;
 overflow-wrap: break-word;
-/* box-shadow: 0px 0px 300px rgba(109, 28, 185, 0.6); */
 }
 
-p { overflow-wrap: break-word; font-size: 1rem; margin: 1rem 0px 1rem; }
-
-a { color: #50FA7B; }
-a:hover { color: #50FA7B; }
+p { font-size: 1rem; margin: 1rem 0px; }
+a { color: #50fa7b; text-decoration: none; transition: 0.15s; }
+a:hover { color: #8BE9FD; }
 
 h1,h2,h3,h4,h5 { font-size: 1rem; font-weight: bold; }
 h6 { font-size: 1rem; font-weight: normal; font-style: italic; }
 h1,h2,h3,h4 { margin: 1rem 0px; }
 h5,h6 { margin: 1rem 0px 0px;}
 
-h1,h6 {color: #BD93F9; }
-h2 {color: #FFB86C; }
-h3 {color: #50FA7B; }
-h4 {color: #FF5555; }
-h5 {color: #F1FA8C; }
-
-
 h1::before { content: "█ "; }
 h2::before { content: "▓▓ "; }
 h3::before { content: "▒▒▒ "; }
 h4::before { content: "░░░░ "; }
 
-
 img {
 display: block;
-margin: 0.5rem auto;
-border-radius: 10px;
-box-shadow: 0px 0px 20px rgba(20, 5, 33, 0.1);
+margin: 1rem auto;
+border: 1px solid #93a1a1;
+border-radius: 15px;
 max-width: 60ch;
 }
 
-blockquote { margin: 0.5rem 2ch; font-style: italic; }
+blockquote { 
+margin: 1rem 1ch; 
+padding: 0px 1ch; 
+font-style: italic;  
+border-left: 3px solid #dc322f; 
+}
+
+blockquote > p { margin: 0.5rem 0px; }
 
 pre {
 font-family: inherit;
 font-size: 1rem;
 margin: 0.5rem 1ch;
 padding: 1ch;
-background-color: rgba(240, 218, 244, 1);
-border-radius: 10px;
-box-shadow: 0px 0px 20px rgba(20, 5, 33, 0.1);
+background-color: #eee8d5;
+border: 1px solid #93a1a1;
 width: 56ch;
 white-space: pre-wrap;
 }
 
-code { font-family: inherit; font-size: inherit; }
+code { font-family: inherit; font-size: inherit; background-color: #eee8d5; }
 
-.myname { color: green; }
+.myname { color: #859900; }
 .footer { display: flex; justify-content: space-between; }
 
 li { font-size: 1rem; }
