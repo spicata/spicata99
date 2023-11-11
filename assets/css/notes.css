@@ -18,7 +18,7 @@ em { color: #50fa7b; }
 del { color: #6272A4; }
 
 p { font-size: 1rem; margin: 1rem 0px; }
-a { color: #50fa7b; text-decoration: none; transition: 0.15s; }
+a { color: #50fa7b; transition: 0.15s; }
 a:hover { color: #8BE9FD; }
 
 h1,h2,h3,h4,h5 { font-size: 1rem; font-weight: bold; }
