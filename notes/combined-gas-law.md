@@ -1,6 +1,5 @@
 ---
 title: combined gas law
-layout: notes
 cdate: 2023-08-09
 ---
 

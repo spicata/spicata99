@@ -1,6 +1,5 @@
 ---
 title: powers bases
-layout: notes
 cdate: 2023-08-22
 ---
 

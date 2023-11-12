@@ -1,6 +1,5 @@
 ---
 title: my frustrations...
-layout: notes
 cdate: 2023-08-26
 ---
 

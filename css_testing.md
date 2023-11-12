@@ -1,6 +1,5 @@
 ---
 title: css_testing
-layout: notes
 cdate: 2023-11-11
 ---
 

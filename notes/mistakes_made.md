@@ -1,6 +1,5 @@
 ---
 title: mistakes made
-layout: notes
 cdate: 2023-10-13
 ---
 

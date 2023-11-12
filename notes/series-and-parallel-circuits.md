@@ -1,6 +1,5 @@
 ---
 title: series and parallel circuits
-layout: notes
 cdate: 2023-08-07
 ---
 

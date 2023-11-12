@@ -1,6 +1,5 @@
 ---
 title: No Text
-layout: notes
 description: An idea for your website makers (cough town)
 showdescription: true
 cdate: 2023-07-14

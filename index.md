@@ -1,6 +1,5 @@
 ---
 title: a welcome mat
-layout: default
 cdate: 2023-09-18
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: linux notes
-layout: notes
 cdate: 2023-08-23
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: badmark
-layout: notes
 cdate: 2023-08-01
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: cot is tan
-layout: notes
 cdate: 2023-08-25
 ---
 

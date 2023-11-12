@@ -1,6 +1,5 @@
 ---
 title: cheap white and dingo
-layout: notes
 cdate: 2023-08-29
 ---
 

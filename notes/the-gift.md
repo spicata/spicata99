@@ -1,6 +1,5 @@
 ---
 title: the gift
-layout: notes
 cdate: 2023-09-07
 ---
 

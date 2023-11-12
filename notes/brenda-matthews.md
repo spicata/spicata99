@@ -1,6 +1,5 @@
 ---
 title: Brenda Matthews
-layout: notes
 cdate: 2023-08-03
 ---
 

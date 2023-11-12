@@ -1,6 +1,5 @@
 ---
 title: collision theory and rate of reaction
-layout: notes
 cdate: 2023-08-24
 ---
 

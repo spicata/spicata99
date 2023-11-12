@@ -1,6 +1,5 @@
 ---
 title: glossary literature
-layout: notes
 cdate: 2023-08-30
 ---
 

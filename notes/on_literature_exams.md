@@ -1,6 +1,5 @@
 ---
 title: on literature exams
-layout: notes
 cdate: 2023-10-11
 ---
 

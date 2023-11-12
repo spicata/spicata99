@@ -1,6 +1,5 @@
 ---
 title: general formulas for trig
-layout: notes
 cdate: 2023-08-14
 ---
 

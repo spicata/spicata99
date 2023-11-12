@@ -1,6 +1,5 @@
 ---
 title: imaginary quadratic
-layout: notes
 cdate: 2023-09-14
 ---
 

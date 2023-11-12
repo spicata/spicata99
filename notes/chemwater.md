@@ -1,6 +1,5 @@
 ---
 title: Chemistry Water thingy
-layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-16

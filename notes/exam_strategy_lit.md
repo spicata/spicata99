@@ -1,6 +1,5 @@
 ---
 title: exam strategies
-layout: notes
 cdate: 2023-10-17
 ---
 

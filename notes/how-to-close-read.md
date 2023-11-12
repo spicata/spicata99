@@ -1,6 +1,5 @@
 ---
 title: how to close read
-layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-19

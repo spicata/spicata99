@@ -1,6 +1,5 @@
 ---
 title: on close readings
-layout: notes
 cdate: 2023-10-16
 ---
 

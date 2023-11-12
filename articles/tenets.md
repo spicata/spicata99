@@ -1,6 +1,5 @@
 ---
 title: tenets
-layout: article
 cdate: 2023-09-27
 ---
 

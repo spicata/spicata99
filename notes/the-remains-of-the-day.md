@@ -1,6 +1,5 @@
 ---
 title: the remains of the day
-layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-24

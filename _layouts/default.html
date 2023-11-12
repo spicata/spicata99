@@ -1,25 +1,6 @@
-<!------------------------------------------------>
-<!--"You insignificant FUCK"---------------------->
-<!--------------------by Gabriel, from ULTRAKILL-->
-<!--Source code @--------------------------------->
-<!--https://github.com/spicata/spicata.github.io-->
-<!------------------------------------------------>
+---
+layout: base
+---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-    <article>
-      <p><a href="/">go back?</a></p>
-      {% if page.title %}
-      <h1 class="title">{{ page.title }}</h1>
-      {% else %}
-      <h1 class="title">{{ page.name }}</h1>
-      {% endif %}
-      {{ content }}
-    </article>
-  </body>
-</html>
+{{ content }}
+<p><span class="home"><a href="{{ layout.index }}./">HOME</a></span></p>

@@ -1,6 +1,5 @@
 ---
 title: functional groups and homologous series
-layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-19
