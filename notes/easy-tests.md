@@ -1,6 +1,5 @@
 ---
 title: easy tests
-layout: notes
 cdate: 2023-08-21
 ---
 

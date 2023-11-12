@@ -1,6 +1,5 @@
 ---
 title: geometric series
-layout: notes
 cdate: 2023-09-08
 ---
 

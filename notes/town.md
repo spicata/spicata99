@@ -1,6 +1,5 @@
 ---
 title: The Town+
-layout: notes
 description: A 'brief' article about the members of the Town
 showdescription: true
 cdate: 2023-07-06

@@ -1,6 +1,5 @@
 ---
 title: bunch of chem
-layout: notes
 cdate: 2023-08-02
 ---
 

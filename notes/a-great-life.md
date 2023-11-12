@@ -1,6 +1,5 @@
 ---
 title: a great life
-layout: notes
 cdate: 2023-08-19
 ---
 

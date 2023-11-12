@@ -1,6 +1,5 @@
 ---
 title: the response
-layout: notes
 description: "in response to [ed's goodbye article](https://ed.toomwn.xyz/Goodbye), especially the slanderous parts"
 showdescription: true
 cdate: 2023-07-11

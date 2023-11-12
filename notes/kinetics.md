@@ -1,6 +1,5 @@
 ---
 title: kinetics
-layout: notes
 cdate: 2023-08-28
 ---
 

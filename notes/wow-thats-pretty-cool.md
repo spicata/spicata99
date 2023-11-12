@@ -1,6 +1,5 @@
 ---
 title: wow that's pretty cool
-layout: notes
 cdate: 2023-08-21
 ---
 

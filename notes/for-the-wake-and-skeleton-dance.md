@@ -1,6 +1,5 @@
 ---
 title: for the wake and skeleton dance 
-layout: notes
 cdate: 2023-08-09
 ---
 

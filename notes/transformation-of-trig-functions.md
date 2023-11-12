@@ -1,6 +1,5 @@
 ---
 title: transformation of trig functions
-layout: notes
 cdate: 2023-08-10
 ---
 

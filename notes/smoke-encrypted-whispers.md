@@ -1,6 +1,5 @@
 ---
 title: smoke encrypted whispers
-layout: notes
 cdate: 2023-08-03
 ---
 

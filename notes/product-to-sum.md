@@ -1,6 +1,5 @@
 ---
 title: product to sum
-layout: notes
 cdate: 2023-09-04
 ---
 

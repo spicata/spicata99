@@ -1,6 +1,5 @@
 ---
 title: physics things
-layout: notes
 cdate: 2023-08-10
 ---
 

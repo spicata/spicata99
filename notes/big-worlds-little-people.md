@@ -1,6 +1,5 @@
 ---
 title: big worlds, little people
-layout: notes
 cdate: 2023-08-19
 ---
 

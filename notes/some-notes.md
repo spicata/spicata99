@@ -1,6 +1,5 @@
 ---
 title: some notes
-layout: notes
 cdate: 2023-09-12
 ---
 

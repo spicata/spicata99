@@ -1,6 +1,5 @@
 ---
 title: kinetic theory of gas
-layout: notes
 cdate: 2023-08-09
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "lockwood mano."
-layout: notes
 cdate: 2023-10-16
 ---
 

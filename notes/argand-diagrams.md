@@ -1,6 +1,5 @@
 ---
 title: argand diagrams
-layout: notes
 cdate: 2023-09-12
 ---
 

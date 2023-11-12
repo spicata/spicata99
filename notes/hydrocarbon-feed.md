@@ -1,6 +1,5 @@
 ---
 title: hydrocarbon feed
-layout: notes
 cdate: 2023-09-11
 ---
 

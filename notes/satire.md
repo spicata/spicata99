@@ -1,6 +1,5 @@
 ---
 title: satire
-layout: notes
 cdate: 2023-09-05
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: non-ohmic
-layout: notes
 cdate: 2023-08-31
 ---
 

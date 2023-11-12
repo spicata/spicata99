@@ -1,6 +1,5 @@
 ---
 title: electromagnetic fields
-layout: notes
 description: 
 showdescription: true
 cdate: 2023-07-20

@@ -1,6 +1,5 @@
 ---
 title: mayor guidelines
-layout: article
 cdate: 2023-10-01
 ---
 

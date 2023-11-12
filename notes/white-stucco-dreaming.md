@@ -1,6 +1,5 @@
 ---
 title: white stucco dreaming
-layout: notes
 cdate: 2023-08-01
 ---
 

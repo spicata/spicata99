@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"84a20450b41f0dbc","type":"text","text":"- Sunday to Monday: Work\n- Saturday: Management and organisation\n\nplease do the above, thanks.","x":-770,"y":-720,"width":400,"height":160},
+		{"id":"501226caa15649ac","type":"file","file":"articles/i_was_here_revision_1.md","x":-770,"y":-280,"width":400,"height":400,"color":"2"},
+		{"id":"7f1ab14260ad51f8","type":"text","text":"**finish this**","x":-770,"y":-340,"width":170,"height":60,"color":"2"},
+		{"id":"43084aaceeec50b1","type":"text","text":"filler","x":-1560,"y":-720,"width":760,"height":840},
+		{"id":"3b2a84112a39d4ec","type":"text","text":"","x":-770,"y":-540,"width":170,"height":180},
+		{"id":"060275e799b26d05","type":"text","text":"# To-do list\n\n- [x] methods 1c\n- [x] chem set 9\n- [ ] physics worksheet\n- [ ] studying feminism\n- [ ] hopefully getting round to writing that close reading\n- [ ] chinese anki make\n- [ ] make those website themes","x":-2020,"y":-720,"width":445,"height":840,"color":"1"},
+		{"id":"4d9394562dcdd9ae","type":"text","text":"","x":-570,"y":-540,"width":200,"height":240}
+	],
+	"edges":[]
+}

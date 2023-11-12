@@ -1,6 +1,5 @@
 ---
 title: the wonders of a forgotten web
-layout: notes
 description: the pitfalls of SEO and googling
 showdescription: true
 cdate: 2023-07-18
