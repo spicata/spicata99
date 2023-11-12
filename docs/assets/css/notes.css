@@ -1,0 +1,86 @@
+html { font-size: 24px; }
+body { background-color: #282a36; line-height: 1; }
+
+article {
+background-color: #282a36;
+/*border: 1px solid #44475a;*/
+border-radius: 40px;
+color: #f8f8f2; 
+max-width: 60ch;
+margin: 30px auto;
+padding: 30px calc(30px + 1em);
+font-family: 'Inconsolata', monospace;
+overflow-wrap: break-word;
+}
+
+hr { color: #44475a; margin: 1em 3em; }
+
+strong { color: #ffb86c; }
+em { color: #50fa7b; }
+del { color: #6272A4; }
+
+p { font-size: 1rem; margin: 1rem 0px; }
+a { color: #50fa7b; transition: 0.15s; }
+a:hover { color: #8BE9FD; }
+h1 > a { color: inherit; }
+
+h1,h2,h3,h4,h5 { font-size: 1rem; font-weight: bold; }
+h6 { font-size: 1rem; font-weight: normal; font-style: italic; }
+h1,h2,h3,h4 { margin: 1rem 0px; }
+h5,h6 { margin: 1rem 0px 0px;}
+
+h1::before { content: "█ "; }
+h2::before { content: "▓▓ "; }
+h3::before { content: "▒▒▒ "; }
+h4::before { content: "░░░░ "; }
+
+h1,h6 { color: #bd93f9; }
+h2 { color: #ffb86c; }
+h3 { color: #50fa7b; }
+h4 { color: #ff5555; }
+h5 { color: #f1fa8c; }
+
+
+
+img {
+display: block;
+margin: 1rem auto;
+border-radius: 15px;
+max-width: 60ch;
+}
+
+blockquote { 
+margin: 1rem 1ch; 
+padding: 0px 1ch; 
+font-style: italic;  
+border-left: 3px solid #bd93f9; 
+color: #50fa7b;
+}
+
+blockquote > p { margin: 0.5rem 0px; }
+
+pre {
+font-family: inherit;
+font-size: 1rem;
+margin: 0.5rem 1ch;
+padding: 1ch;
+background-color: #44475A;
+border-radius: 10px;
+width: 56ch;
+white-space: pre-wrap;
+}
+
+code { font-family: inherit; font-size: inherit; background-color: #44475A; border-radius: 5px; }
+
+.myname { color: #50fa7b; }
+.footer { display: flex; justify-content: space-between; }
+
+ul { margin: 1ch 0px; padding: 0px 0px 0px 2ch}
+table { border-collapse: collapse; border: 1px dotted; }
+td { padding: 0px 1ch; border: 1px dotted; }
+th { text-align: left; padding: 0px 1ch; border: 1px dotted; }
+table { margin: 1em 0px; }
+
+.home { background-color: #50fa7b; margin: 0px auto; display: block; width: fit-content; padding: 0px 1ch; transition: 0.15s; }
+.home:hover { background-color: #8BE9FD; }
+.home > a { color: #282a36; text-decoration: none; }
