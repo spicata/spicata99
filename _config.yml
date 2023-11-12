@@ -7,6 +7,7 @@ exclude:
 - assets/*.xcf
 - /*.sh
 - docs.tar.xz
+- Everything.canvas
 include: [.nojekyll]
 destination: docs/
 
@@ -14,15 +15,15 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "base"
   - scope:
       path: "notes/"
     values:
-      layout: "notes"
+      layout: "default"
   - scope:
       path: "articles/"
     values:
-      css: "article"
+      css: "default"
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:

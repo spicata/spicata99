@@ -1,9 +1,9 @@
 html { font-size: 24px; }
 body { background-color: #282a36; line-height: 1; }
 
-.article {
+article {
 background-color: #282a36;
-border: 1px solid #44475a;
+/*border: 1px solid #44475a;*/
 border-radius: 40px;
 color: #f8f8f2; 
 max-width: 60ch;
@@ -13,6 +13,8 @@ font-family: 'Inconsolata', monospace;
 overflow-wrap: break-word;
 }
 
+hr { color: #44475a; margin: 1em 3em; }
+
 strong { color: #ffb86c; }
 em { color: #50fa7b; }
 del { color: #6272A4; }
@@ -20,6 +22,7 @@ del { color: #6272A4; }
 p { font-size: 1rem; margin: 1rem 0px; }
 a { color: #50fa7b; transition: 0.15s; }
 a:hover { color: #8BE9FD; }
+h1 > a { color: inherit; }
 
 h1,h2,h3,h4,h5 { font-size: 1rem; font-weight: bold; }
 h6 { font-size: 1rem; font-weight: normal; font-style: italic; }
@@ -36,6 +39,8 @@ h2 { color: #ffb86c; }
 h3 { color: #50fa7b; }
 h4 { color: #ff5555; }
 h5 { color: #f1fa8c; }
+
+
 
 img {
 display: block;
@@ -70,9 +75,12 @@ code { font-family: inherit; font-size: inherit; background-color: #44475A; bord
 .myname { color: #50fa7b; }
 .footer { display: flex; justify-content: space-between; }
 
-li { font-size: 1rem; }
-li > p { font-size: inherit; }
 ul { margin: 1ch 0px; padding: 0px 0px 0px 2ch}
 table { border-collapse: collapse; border: 1px dotted; }
 td { padding: 0px 1ch; border: 1px dotted; }
 th { text-align: left; padding: 0px 1ch; border: 1px dotted; }
+table { margin: 1em 0px; }
+
+.home { background-color: #50fa7b; margin: 0px auto; display: block; width: fit-content; padding: 0px 1ch; transition: 0.15s; }
+.home:hover { background-color: #8BE9FD; }
+.home > a { color: #282a36; text-decoration: none; }
