@@ -12,7 +12,7 @@ index: "."
 {% for hithere in hitheres %}
 {% if hithere.url contains "/notes/"%}
     <li>
-        {% if hithere.cdate %}{{ hithere.cdate }}: {% endif %}<a href="{{ hithere.url }}">{% if hithere.title %}{{ hithere.title }}{% else %}{{ hithere.name }}{% endif %}</a>
+        {% if hithere.cdate %}{{ hithere.cdate }}: {% endif %}<a href="{{ hithere.url }}">{% if hithere.title %}{{ hithere.title | truncate: 46 }}{% else %}{{ hithere.name }}{% endif %}</a>
     </li>
 {% endif %}
 {% endfor %}

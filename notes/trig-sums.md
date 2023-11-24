@@ -13,8 +13,8 @@ $$\sqrt{ 2 }\sin \left( x+\frac{\pi}{4} \right)$$
 
 Well how about asinx + bcosx? Well...
 
-$$\begin{align}
+$$\begin{aligned}
 a\sin x+b\cos x&=\sqrt{ a^2+b^2 }\left(\frac{a}{\sqrt{ a^2+b^2 }} \sin x+\frac{b}{\sqrt{ a^2+b^2 }}\cos x\right)
-\end{align}$$
+\end{aligned}$$
 
 Which can guarantee that there will be a solution because of pythagoras.

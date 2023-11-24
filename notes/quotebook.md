@@ -172,3 +172,50 @@ cdate: 2023-08-17
 
 > i'm a long  
 > \- rk
+
+> that can be understood as a sexual innuedo fuck my headphones  
+> \- jb
+
+> Oh Thomas do you like playing with your cock too? ... oh too personal there  
+> \- jb
+
+> it'd be kind of cute if i had dasindu like this  
+> \- jb
+
+> i have experience beating up little children just ask beatrice   
+> \- jb
+
+> i dont talk with other furries. well actually...  
+> \- lw
+
+> you're hot and mysterious  
+> \- lw
+
+> ...carrying a thick stick in their mouth like a dog  
+> \- lw
+
+> joel, thomas and.... jonathan. i didn't realise they were my favourite lesbians   
+> \- lw
+
+> OH, GENOCIDE'S SO GOOD  
+> \- lw
+
+> th: hey loren, how many of DEEZ NUTS do you have?  
+> lw: well, technically one right now
+
+(she says she was saying the truth in all of them)
+
+> jole is bending down for us  
+> \- jb
+
+> whimsy happy happy happy  
+> \- lw (in denial)
+
+> sir, do you want a ball in your mouth  
+> \- jh
+
+> we should like get married right now  
+> \- nk
+
+> it is our job to keep the minorities oppressed  
+> \- eh

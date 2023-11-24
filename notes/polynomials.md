@@ -68,10 +68,10 @@ Note that the remainder and P(a) are the same.
 
 This is because...
 
-$$\begin{align}
+$$\begin{aligned}
 P(x)&=Q(x)(x-\alpha)+r \\
 P(\alpha)&=Q(\alpha)(\alpha-\alpha)+r=r
-\end{align}$$
+\end{aligned}$$
 
 ---
 
@@ -82,3 +82,19 @@ P(\alpha)&=Q(\alpha)(\alpha-\alpha)+r=r
 Factor theorem is just a special case of the remainder theorem.
 
 Suppose (x-a) is a factor of P(x). Then the remainder when divided by 0. Hence, by the remainder theorem, P(a)=0. Conversely, suppose that P(a)=0. Then the remainder of P(x) / (x-a) must be 0. Hence, (x-a) is a factor of P(x).
+
+---
+
+## misc. information
+
+Every real polynomial with an order higher than 0 can be factorised as a product of n linear factor. (They can all be divided by **something**). (Some of the linear factors may be complex)
+
+---
+
+If z is a complex solution to a polynomial equation, then so is the conjugate. Because they come in pairs, odd degree polynomials must have at least one real solution, hence at least one real x-intercept.
+
+---
+
+If (x-a)^n is a factor of P(x)...
+
+If n is 1, it will just pass through. If it is even, it will touch it. If it is an odd larger than 1, it will inflect.

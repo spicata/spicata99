@@ -4,7 +4,7 @@ layout: notesdex
 cdate: 2023-07-06
 ---
 
-hello! [i'm spicata](about-me). this is my website, which i use to share notes, do website stuff, and be part of a very exclusive and elite group of friends called the town (of which we have [many](https://the.toomwn.xyz/) [official](https://town.99000000.xyz/) [pages](https://page.toomwn.xyz/#)).
+hello! i'm spicata. this is my website, which i use to share notes, do website stuff, and be part of a very exclusive and elite group of friends called the town (of which we have [many](https://the.toomwn.xyz/) [official](https://town.99000000.xyz/) [pages](https://page.toomwn.xyz/#)).
 
 ## ⭐ featured
 

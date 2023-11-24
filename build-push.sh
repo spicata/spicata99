@@ -5,6 +5,7 @@ clear='\033[0m'
 
 echo -e "${green}# Building...${clear}"
 bundle exec jekyll build --destination docs/
+find . -type f -name "*.html" -print0 | xargs -0 sed -i "s/.md/.html/g"
 echo -e "${green}# Adding...${clear}"
 git add docs/
 echo -e "${green}# Committing...${clear}"

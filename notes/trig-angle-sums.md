@@ -20,12 +20,12 @@ Then, you can do cos(A-(-B)) (AKA cos(A+B)). Then, find sin(A-B) using the follo
 
 $$\sin\left( \frac{\pi}{2}-\theta \right)=\cos \theta$$
 $$\cos\left( \frac{\pi}{2}-\theta \right)=\sin \theta$$
-$$\begin{align}
+$$\begin{aligned}
 \text{So...}\sin(A-B)&=\cos\left( \frac{\pi}{2}-(A-B) \right) \\
 &=\cos\left( \left( \frac{\pi}{2}-A \right)+B \right) \\
 &=\cos\left( \frac{\pi}{2}-A \right)\cos B-\sin\left( \frac{\pi}{2}-A \right)\sin B \\
 &=\sin A\cos B-\cos A\sin B
-\end{align}$$
+\end{aligned}$$
 
 As for tan, just expand then divide everything by sinAcosB
 
