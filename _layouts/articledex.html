@@ -4,17 +4,9 @@ index: "."
 ---
 
 {{content}}
-{% assign amount = 0 %}
 {% assign cpages = site.pages | sort: 'cdate' | reverse %}
 {% for cpage in cpages %}
   {% if cpage.url contains "/articles/" %}
-    {% if amount == 100 or cpage.url == "/articles/" %}
-      {% break %}
-    {% endif %}
-    <hr>
-    <hr>
-    <h1><a href="{{ cpage.url }}">{{ cpage.cdate }}: {{ cpage.title }}</a></h1>
-    <p>{{ cpage.content | markdownify }}</p>
-    {% assign amount = amount | plus:1 %}
+    <p><span class="pubDate">{{ cpage.cdate }}</span> <a href="{{ cpage.url }}">{{ cpage.title }}</a></p>
   {% endif %}
 {% endfor %}
