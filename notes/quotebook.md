@@ -173,6 +173,67 @@ cdate: 2023-08-17
 > i'm a long  
 > \- rk
 
+> JOEL BARISS I’M GONNA MURDER YOU  
+> \- jh
+
+catching up on those lw quotes…
+
+> love murdering people  
+> \- lw
+
+> mummy wants to speak  
+> \- lw
+
+> yknow, we need more racism  
+> \- lw
+
+> he seems kind of fun, i’ll do him  
+> \- lw
+
+> Humans taste bad.  
+> \- lw
+
+> meow meow… i’m a cat  
+> \- lw
+
+> i will get many people’s skulls soon  
+> \- lw
+
+guys we got a non-lw
+
+> loren you dirty dog  
+> \- lw
+
+> i like the birthing one  
+> \- lw
+
+> breasts or thighs  
+> \- kcb
+
+> cock looks tasty  
+> \- lw
+
+> rawr  
+> \- jb
+
+> rawr!! ✨  
+> \- jl
+
+> rawr  
+> \- th
+
+> that can be understood as a sexual innuendo fuck my headphones  
+> \- jb
+
+> “hentai bundle pack”  
+> \- jb
+
+> i didnt know 15 inches \*measures out with hand\* was *this* big  
+> \- eh
+
+> mine’s 1 inch larger  
+> \- aa (computer guy)
+
 > that can be understood as a sexual innuedo fuck my headphones  
 > \- jb
 
@@ -219,3 +280,23 @@ cdate: 2023-08-17
 
 > it is our job to keep the minorities oppressed  
 > \- eh
+
+> woah, kidnapping. that's so... woman-core  
+> \- lw
+
+![kikibouba](../assets/kikibouba.png)
+
+> well booba feels like, round  
+> \- lw
+
+> th: guys what is your favourite booba  
+> lw: uh, the left one
+
+> TASTY BOOBS  
+> \- th
+
+> they are kiki, because the taste of both would be sweet  
+> \- lw
+
+> what can i do to become booba  
+> \- th

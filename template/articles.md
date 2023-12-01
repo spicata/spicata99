@@ -1,5 +1,6 @@
 ---
 title: 
-cdate: {{date}}
+wdate: {{date}}
+cdate: 
 ---
 

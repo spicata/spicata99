@@ -59,3 +59,18 @@ $$\begin{aligned}
 \end{aligned}$$
 
 The locus must be the set of all complex numbers with an equal distance from both -8 and 4i. Notice that this line is perpendicular to the line between -8 and 4i. Also, this new line is halfway between -8 and 4i. Using that, the formula can be found.
+
+---
+
+## examples
+
+$$\{z:|z+3+7i|=|z-5|+\sqrt{ 113 }\}$$
+
+In this example, z is the set of all numbers where the distance from (-3,-7i) is sqrt(113) greater than the distance from (5,0i). Notice that the distance from (-3,-7i) to (5,0i).
+
+$$\{z:Arg(z-5-7i)=Arg(z)-\pi\}$$
+
+
+In this example, z is in the set iff translating the number by -5-7i rotates the number clockwise by pi. So, any number between (0,0) and (5,7i) will work.
+
+> [!todo] DO MAKE DIAGRAMS
