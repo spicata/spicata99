@@ -1,0 +1,10 @@
+{% capture slice_one %}{{ page.url | split: '/' | slice: 1 }}{% endcapture %}
+{% capture slice_one %}{{ slice_one }}{% endcapture %}
+{% capture slice_two %}{{ page.url | split: '/' | slice: 2 }}{% endcapture %}
+{% capture slice_two %}{{ slice_two }}{% endcapture %}
+
+<p class="navText">
+    <a href="/" class="navLink">~</a> / 
+    {% if slice_one != "" %}<a href="/{{ slice_one }}" class="navLink">{{ slice_one }}</a>{% unless slice_one contains ".html" %} / {% endunless %}{% endif %}
+    {% if slice_two != "" %}<a href="/{{ slice_one }}/{{ slice_two }}" class="navLink">{{ slice_two }}</a>{% endif %}
+</p>

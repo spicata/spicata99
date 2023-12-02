@@ -1,5 +1,5 @@
 {% if page.title %}
     <h1>{{ page.title }}</h1>
 {% else %}
-    <h1>{{ page.name }}</h1>
+    <h1>{{ page.name | replace: ".md", ".html" }}</h1>
 {% endif %}

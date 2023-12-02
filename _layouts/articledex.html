@@ -1,12 +1,13 @@
 ---
 layout: default
-index: "."
 ---
 
 {{content}}
-{% assign cpages = site.pages | sort: 'cdate' | reverse %}
-{% for cpage in cpages %}
-  {% if cpage.url contains "/articles/" %}
-    <p><span class="pubDate">{{ cpage.cdate }}</span> <a href="{{ cpage.url }}">{{ cpage.title }}</a></p>
+<h2>All posts</h2>
+<hr>
+{% assign cpgs = site.pages | sort: 'cdate' | reverse %}
+{% for cpg in cpgs %}
+  {% if cpg.url contains "/articles/" %}
+    <p class="artList">{{ cpg.cdate }}: <a href="{{ cpg.url }}">{% if cpg.title %}{{ cpg.title }}{% else %}{{ cpg.name | replace: ".md", ".html" }}{% endif %}</a></p>
   {% endif %}
 {% endfor %}
