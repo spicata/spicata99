@@ -93,4 +93,5 @@ a::after { content: ']]'; }
     margin: 0em 0px;
 }
 
-hr { color: #657b83; width: 20em; margin: 2em auto; }
+hr { color: #657b83; width: 20em; margin: 2em auto; border-style: hidden; text-align: center;}
+hr::before { content: '***'; }
