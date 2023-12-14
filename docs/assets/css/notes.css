@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
 
 html { font-size: 24px; }
 body { 
@@ -6,7 +6,7 @@ body {
     line-height: 1.3em; 
     margin: 0px; 
     padding: 0px;
-    font-family: 'Nova Square', sans-serif;
+    font-family: 'Playpen Sans', cursive;
     overflow-wrap: break-word;
 }
 article {
@@ -15,7 +15,7 @@ article {
     max-width: 40em;
     margin: 0px auto 30px;
     padding: 0px calc(30px + 1em) 30px;
-    font-family: 'Nova Square', sans-serif;
+    font-family: 'Playpen Sans', cursive;
     overflow-wrap: break-word;
 }
 
@@ -54,6 +54,7 @@ img {
     margin: 1rem auto;
     border-radius: 15px;
     max-height: 25em;
+    max-width: 40em;
 }
 
 blockquote { 
