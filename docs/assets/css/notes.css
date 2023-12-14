@@ -112,6 +112,5 @@ hr::before { content: '***'; }
 
 .zoomout { display: none; }
 
-@media screen and (max-width: 500px) {
-    .zoomout { display: inline; }
-}
+.loren { color: #657b83; }
+.loren:hover { color: #657b83; background-color: transparent; }
