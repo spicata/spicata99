@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="description" content="Indescript.">
+<meta name="author" content="M.spicata">
+<title>regions in the complex plane</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/notes.css">
+  </head>
+  <body>
+    <div class="navBar">
+      
+
+
+
+
+<p class="navText">
+    <a href="/" class="navLink">~</a> / 
+    <a href="/notes" class="navLink">notes</a> / 
+    <a href="/notes/regions_complex.html" class="navLink">regions_complex.html</a>
+</p>
+    </div>
+    <article>
+      
+    <h1>regions in the complex plane</h1>
+
+      \[\{x:1\leq x&lt; 3,x\in \mathbb{R}\}\]
+
+<p>This is a region on the real number line. In words: “All real values of x such that 1 is less than or equal to x which is less than 3”.</p>
+
+<p>Remember:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>○</td>
+      <td>Excluding</td>
+    </tr>
+    <tr>
+      <td>●</td>
+      <td>Including</td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="/assets/line.svg">
+
+\[\{z:|z|=4,z\in\mathbb{C}\}\]
+
+<p>Now this, is a region on the complex plane. Or in words: “All complex values of z such that the modulus of z is 4” (see <a href="polar_form">polar form of complex numbers</a> if you are confused).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Symbol</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Solid line</td>
+      <td>Including (points on line)</td>
+    </tr>
+    <tr>
+      <td>Shaded area</td>
+      <td>Inclusive of points in area</td>
+    </tr>
+    <tr>
+      <td>Dotted line</td>
+      <td>Excluding (points on line)</td>
+    </tr>
+  </tbody>
+</table>
+
+\[\left\{ z:\text{arg} z=\frac{\pi}{6},z\in\mathbb{C} \right\}\]
+
+<p>This is an region with argument. This produces an ray. However, the origin is has an undefined argument. Hence, there should be a “○” on it.</p>
+
+<img src="/assets/line.svg">
+
+<h2 id="complex-complex-regions">complex complex regions</h2>
+
+<p>Sometimes, the region isn’t exactly obvious.</p>
+
+\[\text{Thing 1: }\{z:|z+8|=|z-4i|\}\]
+
+<p>(1) You could solve this by using algebra.</p>
+
+\[\begin{aligned}
+\text{Let }z=x+yi \\
+\text{Then }|x+yi+8|&amp;=|x+yi-4i| \\
+\sqrt{ (x+8)^2+y^2 }&amp;=\sqrt{ x^2+(y-4)^2 } \\
+x^2+16x+64+y^2&amp;=x^2+y^2-8y+16 \\
+16x+64&amp;=-8y+16 \\
+y&amp;=-2x-6
+\end{aligned}\]
+
+<p>The complex locus given by thing 1 is just the linear equation y=-2x-6.</p>
+
+<p>That is a lot of hard work. Perhaps there is another way of doing it. (2) Notice that |z-a| is the distance between the complex number z and complex number a.</p>
+
+\[\begin{aligned}
+|z+8|&amp;=|z-4i| \\
+|z-(-8)|&amp;=|z-4i|
+\end{aligned}\]
+
+<p>The locus must be the set of all complex numbers with an equal distance from both -8 and 4i. Notice that this line is perpendicular to the line between -8 and 4i. Also, this new line is halfway between -8 and 4i. Using that, the formula can be found.</p>
+
+<img src="/assets/line.svg">
+
+<h2 id="examples">examples</h2>
+
+\[\{z:|z+3+7i|=|z-5|+\sqrt{ 113 }\}\]
+
+<p>In this example, z is the set of all numbers where the distance from (-3,-7i) is sqrt(113) greater than the distance from (5,0i). Notice that the distance from (-3,-7i) to (5,0i).</p>
+
+\[\{z:Arg(z-5-7i)=Arg(z)-\pi\}\]
+
+<p>In this example, z is in the set iff translating the number by -5-7i rotates the number clockwise by pi. So, any number between (0,0) and (5,7i) will work.</p>
+
+<blockquote>
+  <p>[!todo] DO MAKE DIAGRAMS<br />
+yes yes, i know</p>
+</blockquote>
+
+
+    </article>
+  </body>
+</html>

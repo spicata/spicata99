@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="description" content="Indescript.">
+<meta name="author" content="M.spicata">
+<title>explicit and implicit differentiation</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/notes.css">
+  </head>
+  <body>
+    <div class="navBar">
+      
+
+
+
+
+<p class="navText">
+    <a href="/" class="navLink">~</a> / 
+    <a href="/notes" class="navLink">notes</a> / 
+    <a href="/notes/explicit_implicit_diff.html" class="navLink">explicit_implicit_diff.html</a>
+</p>
+    </div>
+    <article>
+      
+    <h1>explicit and implicit differentiation</h1>
+
+      <p>First, some formulae…</p>
+
+<p>\(y=e^{f(x)}\to y'=f'(x)e^{f(x)}\)
+\(y=\sin[f(x)]\to y'=\cos[f(x)]f'(x)\)
+\(y=\cos[f(x)]\to y'=-\sin[f(x)]f'(x)\)
+\(y=\tan[f(x)]\to y'=\frac{1}{\cos^2[f(x)]}f'(x)\)
+\(y=\cot[f(x)]\to y'=\frac{1}{\sin^2[f(x)]}f'(x)\)
+\(y=\ln[f(x)]\to y'=\frac{f'(x)}{f(x)}\)</p>
+
+<h2 id="explicit-implicit-differentiation">explicit, implicit differentiation</h2>
+
+<p>Explict differention gets you something like:</p>
+
+\[y=x^3+2x^2+x+1\to y'=3x^2+4x+1\]
+
+<p>Implicit differentiation gets you something like</p>
+
+\[\begin{align}
+y&amp;=x^2+3y^2-4e^y \\
+y'&amp;=2x+6y(y')-4e^{y}(y') \\
+y'-6y(y')+4e^{y}(y')&amp;=2x \\
+y'(1-6y+4e^{y})&amp;= \\
+y'&amp;=\frac{x}{1-6y+4e^{y}}
+\end{align}\]
+
+<p>You always patch it up with a y’ I guess.</p>
+
+
+    </article>
+  </body>
+</html>

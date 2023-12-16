@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
-
 html { font-size: 24px; }
 body { 
     background-color: #fdf6e3; 
     line-height: 1.3em; 
     margin: 0px; 
     padding: 0px;
-    font-family: 'Nova Square', sans-serif;
+    font-family: 'Playpen Sans', sans-serif;
     overflow-wrap: break-word;
 }
 article {
@@ -15,7 +13,7 @@ article {
     max-width: 40em;
     margin: 0px auto 30px;
     padding: 0px calc(30px + 1em) 30px;
-    font-family: 'Nova Square', sans-serif;
+    font-family: 'Playpen Sans', sans-serif;
     overflow-wrap: break-word;
 }
 
@@ -36,8 +34,8 @@ article {
 .navLink::after { content: '' }
 
 p { font-size: 1rem; margin: 1rem 0px; }
-a { color: #657b83; text-decoration: none; transition: 0.15s; }
-a:hover { background-color: #657b83; color: #fdf6e3; text-decoration: none; }
+a { color: #268bd2; text-decoration: none; transition: 0.15s; }
+a:hover { background-color: #268bd2; color: #fdf6e3; text-decoration: none; }
 
 h1,h2,h3,h4,h5 { font-size: 1rem; font-weight: bold; }
 h6 { font-size: 1rem; font-weight: normal; font-style: italic; }
@@ -53,7 +51,8 @@ img {
     display: block;
     margin: 1rem auto;
     border-radius: 15px;
-    max-width: 60ch;
+    max-height: 25em;
+    max-width: 100%;
 }
 
 blockquote { 
@@ -86,11 +85,32 @@ table { border-collapse: collapse; border: 1px dotted; }
 td { padding: 0px 1ch; border: 1px dotted; }
 th { text-align: left; padding: 0px 1ch; border: 1px dotted; }
 
-a::before { content: '[['; }
-a::after { content: ']]'; }
-
 .artList {
     margin: 0em 0px;
 }
 
-hr { color: #657b83; width: 20em; margin: 2em auto; }
+hr { color: #657b83; width: 20em; margin: 2em auto; border-style: hidden; text-align: center;}
+hr::before { content: '***'; }
+
+.small-date {
+    font-size: 16px;
+    color: #93a1a1;
+}
+.sign {
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+    width: 6em;
+    vertical-align: middle;
+}
+
+.signbox {
+    display: block;
+    width: fit-content;
+    margin: 1rem 0px;
+    margin-left: auto;
+}
+
+.zoomout { display: none; }
+
+.loren { color: #657b83; }
+.loren:hover { color: #657b83; background-color: transparent; }

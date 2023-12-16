@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="description" content="Indescript.">
+<meta name="author" content="M.spicata">
+<title>polar form of complex numbers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/notes.css">
+  </head>
+  <body>
+    <div class="navBar">
+      
+
+
+
+
+<p class="navText">
+    <a href="/" class="navLink">~</a> / 
+    <a href="/notes" class="navLink">notes</a> / 
+    <a href="/notes/polar_form.html" class="navLink">polar_form.html</a>
+</p>
+    </div>
+    <article>
+      
+    <h1>polar form of complex numbers</h1>
+
+      <p>Complex numbers can be represented in Cartesian (AKA rectangular) form. This is the (x+yi) form. However, they can also be represented in polar form.</p>
+
+<img src="/assets/line.svg">
+
+<p>First of all, why even have a different form? Well, in Cartesian form, addition and subtraction are preferred over multiplication and division. Polar form fixes this problem, but more on that later.</p>
+
+<img src="/assets/line.svg">
+
+<p>When we do addition with complex numbers, we can easily visualise it by looking at the Cartesian plane. It is just a translation.</p>
+
+<p>However, what <strong>is</strong> complex multiplication? How do you show it graphically?</p>
+
+<p>When something is multiplied by ‘i’, it rotates around the origin 90’. If we multiply by THAT, we rotate by 45’.</p>
+
+\[\text{THAT: }\frac{1}{\sqrt{ 2 }}+\frac{1}{\sqrt{ 2 }}i\]
+
+<img src="/assets/line.svg">
+
+<p>Essentially, (when the modulus is 1) the angle that we need to rotate a point around the origin is equal to the angle that the number makes with the positive real number axis.</p>
+
+<img src="/assets/line.svg">
+
+<p>Also, when we multiply it with a number like 3, then the modulus is increased by 3. That is just how it works.</p>
+
+<p>I hope you get what I mean. ;-)</p>
+
+<img src="/assets/line.svg">
+
+<h2 id="notation">notation</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>The distance from the origin is called the ‘modulus/magnitude’ (</td>
+      <td>z</td>
+      <td>). The angle is called the ‘argument’ (θ).</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>So rewrite z=a+bi as…</p>
+
+\[\begin{aligned}
+z&amp;=|z|\cos \theta+i|z|\sin\theta \\
+&amp;=|z|(\cos\theta+i\sin\theta)
+\end{aligned}\]
+
+<p>This is the polar form.</p>
+
+<p>NB: Every complex number has infinite arguments, because that’s how angles work. θ is actually the principle argument, which is -pi &lt; θ &lt; pi.</p>
+
+<img src="/assets/line.svg">
+
+<p>Find the modulus with Pythagoras. Find the principal argument using tan. MAKE SURE IT IS IN THE RIGHT QUADRANT.</p>
+
+<img src="/assets/line.svg">
+
+<table>
+  <tbody>
+    <tr>
+      <td>Mathematicians are busy people, and so they like to abbreviate it to</td>
+      <td>z</td>
+      <td>cisθ</td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="/assets/line.svg">
+
+<p>How about complex conjugates of polar form? Well, just find the negative value of the argument. This is why the principle argument is represented from -pi to pi.</p>
+
+<blockquote>
+  <p>Why do we use polar form in the first place?</p>
+</blockquote>
+
+<blockquote>
+  <p>When something is multiplied by ‘i’, it rotates around the origin 90’. If we multiply by THAT, we rotate by 45’. (found earlier)</p>
+</blockquote>
+
+<p>When we use polar form, this multiplication becomes easier. As a general rule…</p>
+
+\[r_{1}cis\alpha\times r_{2}cis\beta=r_{1}r_{2}cis(\alpha+\beta)\]
+
+<p>Or as an example…</p>
+
+\[2cis\left( \frac{\pi}{2} \right)\times 3cis\left( \frac{\pi}{3} \right)=6cis\left( \frac{5\pi}{6} \right)\]
+
+<p>NB: This may give a non-principle argument</p>
+
+<img src="/assets/line.svg">
+
+<p>Division follows a similar rule. That is…</p>
+
+\[\frac{r_{1}cis\alpha}{r_{2}cis\beta}=\frac{r_{1}}{r_{2}}cis(\alpha-\beta)\]
+
+
+    </article>
+  </body>
+</html>
