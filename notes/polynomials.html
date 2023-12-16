@@ -31,13 +31,13 @@
 
       <p>Polynomials are a sum of multiples of powers of a variable. For example, this is a polynomial:</p>
 
-\[\text{Example A: }f<span class="small-date">(x)</span class="small-date">=x^{2}+3x+2\]
+\[\text{Example A: }f(x)=x^{2}+3x+2\]
 
 <p>The order or degree is the highest power. In example A, this is 2. For example, if a polynomial has roots p, q and r; then it can be written as.</p>
 
-\[\text{Example B: }f<span class="small-date">(x)</span class="small-date">=a<span class="small-date">(x-p)</span class="small-date"><span class="small-date">(x-q)</span class="small-date"><span class="small-date">(x-r)</span class="small-date">\]
+\[\text{Example B: }f(x)=a(x-p)(x-q)(x-r)\]
 
-<img src="/assets/line.svg">
+<hr />
 
 <h2 id="polynomial-division">polynomial division</h2>
 
@@ -49,7 +49,7 @@
 
 <p>The remainder will always have a smaller order than the divisor.</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>If we were to write regular division like:</p>
 
@@ -57,77 +57,77 @@
 
 <p>Then we can write polynomial division as:</p>
 
-\[\text{Formula 1: }P<span class="small-date">(x)</span class="small-date">=Q<span class="small-date">(x)</span class="small-date">D<span class="small-date">(x)</span class="small-date">+R<span class="small-date">(X)</span class="small-date">\]
+\[\text{Formula 1: }P(x)=Q(x)D(x)+R(X)\]
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>Polynomial division can also be written as:</p>
 
-\[\text{Formula 2: }\frac{P<span class="small-date">(x)</span class="small-date">}{D<span class="small-date">(x)</span class="small-date">}=Q<span class="small-date">(x)</span class="small-date">+\frac{R<span class="small-date">(x)</span class="small-date">}{D<span class="small-date">(x)</span class="small-date">}\]
+\[\text{Formula 2: }\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}\]
 
 <p>Here are some algebraic fractions. Proper fractions have a higher order denominator. Improper fractions have a lower order denominator. Formula 2 is able to turn improper fractions into proper fractions.</p>
 
 <p>Q: What if they have the same order?</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>Don’t like division? You can use ‘Algebraic Juggling’ instead. Again, better explained in the Sadler textbook</p>
 
 <p>It is more confusing though. :-/</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>Since the order of the remainder must be smaller than the order of the divisor, IF the divisor has an order of 1, THEN the remainder has an order of 0. From that, we can get…</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <h2 id="remainder-theorem">remainder theorem</h2>
 
 <blockquote>
-  <p>For a polynomial P<span class="small-date">(x)</span class="small-date"> and a number a, the remainder when P<span class="small-date">(x)</span class="small-date"> is divided by <span class="small-date">(x-a)</span class="small-date"> is P<span class="small-date">(a)</span class="small-date"></p>
+  <p>For a polynomial P(x) and a number a, the remainder when P(x) is divided by (x-a) is P(a)</p>
 </blockquote>
 
 <p>For example:</p>
 
-<p>\<span class="small-date">(\text{If 'a' happened to be -2... }P<span class="small-date">(x)</span class="small-date">=<span class="small-date">(2x^2+3x+4)</span class="small-date"><span class="small-date">(x+2)</span class="small-date">+7\)</span class="small-date">
-\<span class="small-date">(\text{and also... }P<span class="small-date">(-2)</span class="small-date">=2<span class="small-date">(-8)</span class="small-date">+7<span class="small-date">(4)</span class="small-date">+10<span class="small-date">(-2)</span class="small-date">+15=7\)</span class="small-date"></p>
+<p>\(\text{If 'a' happened to be -2... }P(x)=(2x^2+3x+4)(x+2)+7\)
+\(\text{and also... }P(-2)=2(-8)+7(4)+10(-2)+15=7\)</p>
 
-<p>Note that the remainder and P<span class="small-date">(a)</span class="small-date"> are the same.</p>
+<p>Note that the remainder and P(a) are the same.</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>This is because…</p>
 
 \[\begin{aligned}
-P<span class="small-date">(x)</span class="small-date">&amp;=Q<span class="small-date">(x)</span class="small-date"><span class="small-date">(x-\alpha)</span class="small-date">+r \\
-P<span class="small-date">(\alpha)</span class="small-date">&amp;=Q<span class="small-date">(\alpha)</span class="small-date"><span class="small-date">(\alpha-\alpha)</span class="small-date">+r=r
+P(x)&amp;=Q(x)(x-\alpha)+r \\
+P(\alpha)&amp;=Q(\alpha)(\alpha-\alpha)+r=r
 \end{aligned}\]
 
-<img src="/assets/line.svg">
+<hr />
 
 <h2 id="factor-theorem">factor theorem</h2>
 
 <blockquote>
-  <p>For a polynomial P<span class="small-date">(x)</span class="small-date">, <span class="small-date">(x-a)</span class="small-date"> is a factor P<span class="small-date">(x)</span class="small-date"> if and only if P<span class="small-date">(a)</span class="small-date">=0</p>
+  <p>For a polynomial P(x), (x-a) is a factor P(x) if and only if P(a)=0</p>
 </blockquote>
 
 <p>Factor theorem is just a special case of the remainder theorem.</p>
 
-<p>Suppose <span class="small-date">(x-a)</span class="small-date"> is a factor of P<span class="small-date">(x)</span class="small-date">. Then the remainder when divided by 0. Hence, by the remainder theorem, P<span class="small-date">(a)</span class="small-date">=0. Conversely, suppose that P<span class="small-date">(a)</span class="small-date">=0. Then the remainder of P<span class="small-date">(x)</span class="small-date"> / <span class="small-date">(x-a)</span class="small-date"> must be 0. Hence, <span class="small-date">(x-a)</span class="small-date"> is a factor of P<span class="small-date">(x)</span class="small-date">.</p>
+<p>Suppose (x-a) is a factor of P(x). Then the remainder when divided by 0. Hence, by the remainder theorem, P(a)=0. Conversely, suppose that P(a)=0. Then the remainder of P(x) / (x-a) must be 0. Hence, (x-a) is a factor of P(x).</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <h2 id="misc-information">misc. information</h2>
 
-<p>Every real polynomial with an order higher than 0 can be factorised as a product of n linear factor. <span class="small-date">(They can all be divided by <strong>something</strong>)</span class="small-date">. <span class="small-date">(Some of the linear factors may be complex)</span class="small-date"></p>
+<p>Every real polynomial with an order higher than 0 can be factorised as a product of n linear factor. (They can all be divided by <strong>something</strong>). (Some of the linear factors may be complex)</p>
 
-<img src="/assets/line.svg">
+<hr />
 
 <p>If z is a complex solution to a polynomial equation, then so is the conjugate. Because they come in pairs, odd degree polynomials must have at least one real solution, hence at least one real x-intercept.</p>
 
-<img src="/assets/line.svg">
+<hr />
 
-<p>If <span class="small-date">(x-a)</span class="small-date">^n is a factor of P<span class="small-date">(x)</span class="small-date">…</p>
+<p>If (x-a)^n is a factor of P(x)…</p>
 
 <p>If n is 1, it will just pass through. If it is even, it will touch it. If it is an odd larger than 1, it will inflect.</p>
 
