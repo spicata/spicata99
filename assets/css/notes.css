@@ -114,3 +114,12 @@ hr::before { content: '***'; }
 
 .loren { color: #657b83; }
 .loren:hover { color: #657b83; background-color: transparent; }
+
+@keyframes fadeIn {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
+#fade-in-1 { animation: fadeIn 3s forwards; }
+#fade-in-2 { animation: fadeIn 3s forwards; animation-delay: 4s; }
+#fade-in-3 { animation: fadeIn 3s forwards; animation-delay: 8s; }
