@@ -50,7 +50,6 @@ h4::before { content: "░░░░ "; }
 img {
     display: block;
     margin: 1rem auto;
-    border-radius: 15px;
     max-height: 25em;
     max-width: 100%;
 }
